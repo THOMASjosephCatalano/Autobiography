@@ -1,4 +1,3 @@
 
 
-
-Dr. Thomas Catalano's intellectual & proprietary; property.
+Thomas Catalano's intellectual & proprietary; property.
