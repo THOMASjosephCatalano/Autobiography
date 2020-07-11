@@ -1,3 +1,3 @@
 
 
-Thomas Catalano's intellectual & proprietary; property.
+Thomas Catalano tomcatalano@outlook.com
