@@ -1,3 +1,13 @@
+Dr. Thomas Catalano        
+    
 
+conceptslearningmachine.com
 
-THOMAS CATALANO<tomcatalano.0@gmail.com>
+github.com/tomsnode
+
+github.com/conceptslearningmachine
+
+github.com/altusnets
+
+github.com/TheBitMarket
+
