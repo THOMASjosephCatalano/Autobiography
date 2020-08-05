@@ -1,4 +1,4 @@
-Dr. Thomas Catalano        
+Dr. Thomas Catalano   @ tomcatalano.0@gmail.com     
     
 
 conceptslearningmachine.com
