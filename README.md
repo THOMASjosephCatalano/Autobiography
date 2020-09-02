@@ -21,9 +21,7 @@ grammar-word-transtitionl/statment/transitional:knockality/(adj-verb(d)).
 
 grammar-word-transitional/statment/transitional:voinulification/(adj-verb(d)).
 
-grammar-word-transitional/statment/transitional:viactulate(d)(r)(s)/(adj-verb(d)).
-
-grammar-word-transitionl/statment/transitional:voinulaquester/(adj-verb(d)).
+grammar-word-transitional/statment/transitional:viactulate(d)(r)(s)/(adj-verb(
  
 grammar-word-transitionl/statment/transitional:actafication/(adj-verb(d)).
 
