@@ -20,3 +20,5 @@ grammar-word-transitional/statment/transitional:socality(adj-verb(d))definition/
 grammar-word-transtitionl/statment/transitional:knockality/(adj-verb(d)).
 
 grammar-word-transtional/statment/transitional:voinulification/(adj-verb(d)).
+
+viactulates.
