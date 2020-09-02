@@ -28,3 +28,5 @@ grammar-word-transitionl/statment/transitional:voinulaquester/(adj-verb(d)).
 grammar-word-transitionl/statment/transitional:actafication/(adj-verb(d)).
 
 grammar-word-transitionl/statment/transitional:ertification/(adj-verb(d)).
+
+rastitutinalize
