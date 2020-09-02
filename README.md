@@ -17,8 +17,6 @@ grammer-word-statement:undifractional.
 
 grammar-word-transitional/statment/transitional:socality=(adj-verb(d)).
 
-grammar-word-transtitionl/statment/transitional:knockality=(adj-verb(d).
+grammar-word-transtitionl/statment/transitional:knockality=(adj-verb(d)).
 
-grammar-word-transtematically.
-
-voidnulification.
+grammar-word-transtional/statment/transitional:voidnulification=(adj-verb(d)).
