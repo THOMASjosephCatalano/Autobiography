@@ -19,4 +19,6 @@ grammar-word-transitional/statment/transitional:socality=(adj-verb(d)).
 
 grammar-word-transtitionl/statment/transitional:knockality=(adj-verb(d).
 
-stematically
+grammar-word-transtematically.
+
+voidnulification.
