@@ -17,4 +17,4 @@ grammer-word-statement:undifractional.
 
 grammar-word-transitional/statment/transitional:socality=(adj-verb(d)).
 
-grammar-word-ta   :knockality
+grammar-word-transtitionl/statment/transitional:knockality.
