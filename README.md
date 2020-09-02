@@ -15,4 +15,4 @@ github.com/TheBitMarket
 
 grammer-word-statement:undifractional.
 
-grammar-word-statment/transitional:socality=adverd.
+grammar-word-statment/transitional:socality=adjverd.
