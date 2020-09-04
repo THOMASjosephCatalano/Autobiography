@@ -15,10 +15,9 @@ github.com/TheBitMarket
 -----------
 #
 (new grammar "word's):
+grammar-word-transitional/statment/transitional:socalety(adj-verb(d))definition/(adj-verb(d)).
 
 grammer-word-transitional/statement/transitional:undedifracteonal(adj-verb(d)).
-
-grammar-word-transitional/statment/transitional:socality(adj-verb(d))definition/(adj-verb(d)).
 
 grammar-word-transtitionl/statment/transitional:knockality/(adj-verb(d)).
 
