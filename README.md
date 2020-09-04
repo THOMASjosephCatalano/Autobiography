@@ -39,4 +39,4 @@ grammar-word-transtitional/statment/transitional:precogfufiverafecation/(adj-ver
 
 grammar-word-transtitional/statment/transitional:treatactatetion/(adj-verb(d)).
 
-grammar-word-transtitional/statment/transitional:formatadadeation/(adj-verb(d)).
+grammar-word-transtitional/statment/transitional:formitadadeation/(adj-verb(d)).
