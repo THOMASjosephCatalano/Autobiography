@@ -31,4 +31,4 @@ grammar-word-transitionl/statment/transitional:rastitutinalize/(adj-verb(d)).
 
 grammar-word-transtitional/statment/transitional:motofibasignotator/(adj-verb(d)).
 
-forensictactutation
+grammar-word-transtitional/statment/transitional:forensictactutation/(adj-verb(d)).
