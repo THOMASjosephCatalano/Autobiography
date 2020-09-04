@@ -1,4 +1,4 @@
-Dr. Thomas Catalano(135-74-4812)(dob:1981-02-05(~2020-09-04-12:25GMT*)eod:null); @ "standby";convergiality ey.
+Dr. Thomas Catalano(135-74-4812)(dob:1981-02-05(~2020-09-04-12:25GMT*)eod:null); @ "standingby";convergiality ey.
     
 
 conceptslearningmachine.com
