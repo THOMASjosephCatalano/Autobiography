@@ -1,4 +1,4 @@
-Dr. Thomas Catalano(135-74-4812)(dob:Ω°/eod:null);   @ tomcatalano.0@gmail.com     
+Dr. Thomas Catalano(135-74-4812)(dob:Ω°^*(~)eod:null);   @ tomcatalano.0@gmail.com     
     
 
 conceptslearningmachine.com
