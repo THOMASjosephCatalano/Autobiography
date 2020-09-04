@@ -12,8 +12,11 @@ github.com/altusnets
 github.com/TheBitMarket
 
 
+-----------
+#
+(new grammar "word's):
 
-grammer-word-statement:undifractional.
+grammer-word-transitional/statement/transitional:undedifracteonal(adj-verb(d)).
 
 grammar-word-transitional/statment/transitional:socality(adj-verb(d))definition/(adj-verb(d)).
 
