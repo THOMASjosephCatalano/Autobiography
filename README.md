@@ -27,7 +27,7 @@ grammar-word-transitional/statment/transitional:veactulate(d)(r)(s)/(adj-verb(d)
  
 grammar-word-transitionl/statment/transitional:actafecation/(adj-verb(d)).
 
-grammar-word-transitionl/statment/transitional:ertification/(adj-verb(d)).
+grammar-word-transitionl/statment/transitional:ertafecation/(adj-verb(d)).
 
 grammar-word-transitionl/statment/transitional:rastitutinalize/(adj-verb(d)).
 
