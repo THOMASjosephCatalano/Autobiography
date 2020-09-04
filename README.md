@@ -33,4 +33,4 @@ grammar-word-transtitional/statment/transitional:motofibasignotator/(adj-verb(d)
 
 grammar-word-transtitional/statment/transitional:forensictactutation/(adj-verb(d)).
 
-grammar-word-transtitional/statment/traprecogverifacation
+grammar-word-transtitional/statment/transitional:precogverifacation/(adj-verb(d)).
