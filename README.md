@@ -44,3 +44,5 @@ grammar-word-transtitional/statment/transitional:formitadadetion/(adj-verb(d)).
 grammar-word-transtitional/statment/transitional:servaconfascation/(adj-verb(d)).
 
 grammar-word-transtitional/statment/transitional:reposessatation/(adj-verb(d)).
+
+currenmonatization
