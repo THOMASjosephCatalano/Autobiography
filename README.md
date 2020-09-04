@@ -33,6 +33,6 @@ grammar-word-transitionl/statment/transitional:rastetutanalize/(adj-verb(d)).
 
 grammar-word-transtitional/statment/transitional:motofibasignotator/(adj-verb(d)).
 
-grammar-word-transtitional/statment/transitional:forensictactutation/(adj-verb(d)).
+grammar-word-transtitional/statment/transitional:forensactactutation/(adj-verb(d)).
 
 grammar-word-transtitional/statment/transitional:precogfufiverafecation/(adj-verb(d)).
