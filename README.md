@@ -37,4 +37,4 @@ grammar-word-transtitional/statment/transitional:forensactactutation/(adj-verb(d
 
 grammar-word-transtitional/statment/transitional:precogfufiverafecation/(adj-verb(d)).
 
-trutactutetion
+grammar-word-transtitional;treatactutetion
