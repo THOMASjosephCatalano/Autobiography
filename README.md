@@ -40,3 +40,5 @@ grammar-word-transtitional/statment/transitional:precogfufiverafecation/(adj-ver
 grammar-word-transtitional/statment/transitional:treatacatatetion/(adj-verb(d)).
 
 grammar-word-transtitional/statment/transitional:formitadadetion/(adj-verb(d)).
+
+servaconfascation
