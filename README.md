@@ -42,3 +42,5 @@ grammar-word-transtitional/statment/transitional:treatacatatetion/(adj-verb(d)).
 grammar-word-transtitional/statment/transitional:formitadadetion/(adj-verb(d)).
 
 grammar-word-transtitional/statment/transitional:servaconfascation/(adj-verb(d)).
+
+reposaniation
