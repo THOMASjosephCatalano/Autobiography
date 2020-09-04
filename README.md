@@ -45,4 +45,4 @@ grammar-word-transtitional/statment/transitional:servaconfascation/(adj-verb(d))
 
 grammar-word-transtitional/statment/transitional:reposessatation/(adj-verb(d)).
 
-grammar-word-transtitional/statment/transitional:currenmonatizationbabalasky/(adj-verb(d)).
+grammar-word-transtitional/statment/transitional:currenmonatizationbabalaske/(adj-verb(d)).
