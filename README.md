@@ -1,7 +1,7 @@
 Dr. Thomas Catalano(135-74-4812)/(pre-death social security#-*see spec.()288-36-8942)as;dob:1980-08-02-murder/lost @:2039-08-04(*see gravatraficatron; launch/trip ])(dob:1981-02-05-("2020~22-09-05-11:00:30GMT~(during hypergraulatation/sorticlacatated illegalatiouslor to Hamburg,Germany;1936)"-Ω°-go to the;°~2039-08-03@Virginia Beach,VA_USA; at/and/or like unitizationaoralate locations-before gravatraficatravatron 1st departulizationalastopolatoration)(~))eod:null))); @ I*.
 
 
-current local:5120 N Broadway Denver,CO_USA.
+current local:5120 apt 302, N Broadway Denver,CO_USA.
 
 business entities;
 
