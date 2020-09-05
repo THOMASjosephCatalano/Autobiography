@@ -1,5 +1,5 @@
 Dr. Thomas Catalano(135-74-4812)/(pre-death social security#-*see spec.()288-36-8942))(dob:1981-02-05/2020-09-05-10:13:30GMT-Ω°-go to the;°~2039-08-03@1312NBroadwayHollywoodAveLosAngelesCA-before gravatraficatravatron 1st departulizationalastopolatoration)(~))eod:null))); @ I*.
-[Mr. & Mrs. Nogazi & Sik]::1980-08-02]
+[Mr.Nogazi]::1980-08-02]
 
 conceptslearningmachine.com 
 
