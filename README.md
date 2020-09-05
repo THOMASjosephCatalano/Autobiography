@@ -52,3 +52,5 @@ grammar-word-transtitional/statment/transitional:reposessatation/(adj-verb(d)).
 grammar-word-transtitional/statment/transitional:currenmonatizationbabalaske/(adj-verb(d)).
 
 grammar-word-transtitional/statment/transitional:recacogogainanition/(adj-verb(d)).
+
+grammar-word-transtitional/statment/transitional:collectacatorvasulator/(adj-verb(d)).
