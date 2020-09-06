@@ -23,6 +23,8 @@ github.com/altusnets
 
 github.com/TheBitMarket
 
+Catalano Ltd.
+
 Catalano Concepts Limited Liability Company
 
 ALTUSNET Limited Liability Company
