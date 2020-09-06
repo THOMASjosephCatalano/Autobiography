@@ -8,7 +8,7 @@ April 3.1978
 February 5,1978
 730-87-1102
 --------------------
-adsress local:5120 apt 302, N Broadway Denver,CO_USA.
+address local:5120 apt 302, N Broadway Denver,CO_USA.
 
 ----------
 entities;
