@@ -20,6 +20,11 @@ github.com/altusnets
 
 github.com/TheBitMarket
 
+Catalano Concepts Limited Liability Company
+
+ALTUSNET Limited Liability Company
+
+CLM Limited Liability Company
 
 -----------
 #
