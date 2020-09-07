@@ -71,4 +71,4 @@ grammar-word-transtitional/statment/transitional:recacogogainanition/(adj-verb(d
 
 grammar-word-transtitional/statment/transitional:collectaxatatorvasulator/(adj-verb(d)).
 
-/;esetera so forth;
+/;etcetera so forth;
