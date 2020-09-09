@@ -6,10 +6,10 @@ Copyright (c) BIT(s);"BIT(s)"
 Copyright (c) BIT(s);"BIT(s)":algorithm;"this LICENSE inclusive"\.
 Coptright (c) motion by &| of panticulation serfractions perpetuation;as the algorithm:
              "motion by &| of panticulation serfractions perpetuation".
-Copyright (c) BIT(s)(information/time/frames) extrapolation by and/or of percentile factorization;as the algorithm:               
+Copyright (c) BIT(s)(information/time/frames) extrapolation by and/or of percentile factorization;algorithm:               
              "BIT(s)(information/time/frames) extrapolation by and/or of percentile factorization".   
 Copyright (c) transaction(s)/transactionary serfraction(s) require(s) bartertutional servitudinal account
-              proxing space-time/frame(past(s) present(s) and/or future(s));as the algorithm:
+              proxing space-time/frame(past(s) present(s) and/or future(s));algorithm:
               "transaction(s)/transactionary serfraction(s) require(s) bartertutionl servitudinal account
               proxing space-time(past(s), present(s) and/or future(s))".
 Copyright (c) "lense(s)'s";material-mater-state:lense(s)'s.   
