@@ -12,11 +12,11 @@ Copyright (c) transaction(s)/transactionary serfraction(s) require(s) bartertuti
               proxing space-time/frame(past(s) present(s) &| future(s));algorithm:
               "transaction(s)/transactionary serfraction(s) require(s) bartertutionl servitudinal account
               proxing space-time(past(s), present(s) &| future(s))"\.
-Copyright (c) "lense(s)'s";material-mater-state:lense(s)'s\.   
-Copyright (c) "magnet(s)'s";material-mater-state:magnet(s)'s\.
-Copyright (c) "semiconductor(s)'s/conductor(s)'s";material-mater-state:semiconductor(s)'s/conductor(s)'s\.
-Copyright (c) "crystal(s)'s/crystal-structure(s)'s";material-mater-state:crystal(s)'s/crystal-structure(s)'s(ziener-diode(s)'s)\.
-Copyright (c) "mater-material-mass-structure(s)'s";mater-material-mass-structure(s)'s\.
+Copyright (c) "lense(s)";material-mater-state:lense(s)\.   
+Copyright (c) "magnet(s)";material-mater-state:magnet(s)\.
+Copyright (c) "semiconductor(s)/conductor(s)";material-mater-state:semiconductor(s)/conductor(s)\.
+Copyright (c) "crystal(s)'s/crystal-structure(s)";material-mater-state:crystal(s)/crystal-structure(s)(ziener-diode(s))\.
+Copyright (c) "mater-material-mass-structure(s)";mater-material-mass-structure(s)\.
 
 All rights reserved.
             
