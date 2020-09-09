@@ -7,19 +7,7 @@ Copyright (c) BIT(s);"BIT(s)":algorithm;"this LICENSE inclusive"\.Copyright (c) 
               life fulfentamation hearanth primaly;[""no"; && pain(s)/|\ache(s)/|\ickened(s)/|\discomfort(s)/|\eraid(s) && \ //"only"; && exhilarating life force masterbatesk forate lifelode ecstasy && \"](); human/mechanical/classical/quantum primalactoration && _always_ && every/any way shape and/or form; physicality earned coracurrencies concurrently;; 
               oneimotoeyatolatatufatermaterbatorbaskatracerfantastaticulisoustrodanersaitonator ;; oneimotovasculatorvaderproprecatorlishisfatorsaitonator;;
               politicasivisonarydafabuloustaticlisous | ""["_*BOARD*__Doctor_General-Admiral-CFO-CEO-President__the.emancipator.the.propriatator.the__ThomasJosephCatalano"(s)""] "Catalano Ltd." "Catalano Concepts LimitedLiabilityCompany" "CLM LimitedLiabilityCompany" "& hosted entities"" | mechanical() | ["classical | quantum"] | "_computer-processor_" _utility's_ _*invention's_ _*formula's_ _*enginee_ | --implementator/my testafator/;;"inclusitation() "_fee's/taxes_accountafiscalator""\.
- Coptright (c) motion by &| of panticulation serfractions perpetuation;as the algorithm:
-             "motion by &| of panticulation serfractions perpetuation".
-Copyright (c) bit(s)(information/time/frames) extrapolation by and/or of percentile factorization;as the algorithm:               
-             "bit(s)(information/time/frames) extrapolation by and/or of percentile factorization".   
-Copyright (c) transaction(s)/transactionary serfraction(s) require(s) bartertutional servitudinal account
-              proxing space-time/frame(past(s) present(s) and/or future(s));as the algorithm:
-              "transaction(s)/transactionary serfraction(s) require(s) bartertutionl servitudinal account
-              proxing space-time(past(s), present(s) and/or future(s))".
-Copyright (c) "lense(s)'s";material-mater-state:lense(s)'s.   
-Copyright (c) "magnet(s)'s";material-mater-state:magnet(s)'s.
-Copyright (c) "semiconductor(s)'s/conductor(s)'s";material-mater-state:semiconductor(s)'s/conductor(s)'s.
-Copyright (c) "crystal(s)'s/crystal-structure(s)'s";material-mater-state:crystal(s)'s/crystal-structure(s)'s(ziener-diode(s)'s).
-Copyright (c) "mater-material-mass-structure's";mater-material-mass-structure's.             
+          
 All rights reserved.             
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
