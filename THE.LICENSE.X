@@ -9,9 +9,9 @@ Coptright (c) motion by &| of panticulation serfractions perpetuation;algorithm:
 Copyright (c) BIT(s)(information/time/frames) extrapolation by and/or of percentile factorization;algorithm:               
              "BIT(s)(information/time/frames) extrapolation by and/or of percentile factorization".   
 Copyright (c) transaction(s)/transactionary serfraction(s) require(s) bartertutional servitudinal account
-              proxing space-time/frame(past(s) present(s) and/or future(s));algorithm:
+              proxing space-time/frame(past(s) present(s) &| future(s));algorithm:
               "transaction(s)/transactionary serfraction(s) require(s) bartertutionl servitudinal account
-              proxing space-time(past(s), present(s) and/or future(s))".
+              proxing space-time(past(s), present(s) &| future(s))".
 Copyright (c) "lense(s)'s";material-mater-state:lense(s)'s.   
 Copyright (c) "magnet(s)'s";material-mater-state:magnet(s)'s.
 Copyright (c) "semiconductor(s)'s/conductor(s)'s";material-mater-state:semiconductor(s)'s/conductor(s)'s.
