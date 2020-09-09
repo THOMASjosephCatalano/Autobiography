@@ -6,8 +6,8 @@ Copyright (c) BIT(s);"BIT(s)"
 Copyright (c) BIT(s);"BIT(s)";algorithm:"this LICENSE inclusive"\.
 Coptright (c) motion by &| of panticulation serfractions perpetuation;algorithm:
              "motion by &| of panticulation serfractions perpetuation".
-Copyright (c) BIT(s)(information/time/frames) extrapolation by and/or of percentile factorization;algorithm:               
-             "BIT(s)(information/time/frames) extrapolation by and/or of percentile factorization".   
+Copyright (c) BIT(s)(information/time/frames) extrapolation by &| of percentile factorization;algorithm:               
+             "BIT(s)(information/time/frames) extrapolation by &| of percentile factorization".   
 Copyright (c) transaction(s)/transactionary serfraction(s) require(s) bartertutional servitudinal account
               proxing space-time/frame(past(s) present(s) &| future(s));algorithm:
               "transaction(s)/transactionary serfraction(s) require(s) bartertutionl servitudinal account
@@ -17,7 +17,7 @@ Copyright (c) "magnet(s)'s";material-mater-state:magnet(s)'s.
 Copyright (c) "semiconductor(s)'s/conductor(s)'s";material-mater-state:semiconductor(s)'s/conductor(s)'s.
 Copyright (c) "crystal(s)'s/crystal-structure(s)'s";material-mater-state:crystal(s)'s/crystal-structure(s)'s(ziener-diode(s)'s).
 Copyright (c) "mater-material-mass-structure's";mater-material-mass-structure's.
-\.
+
 All rights reserved.
             
 Permission is hereby granted, free of charge, to any person obtaining a copy
