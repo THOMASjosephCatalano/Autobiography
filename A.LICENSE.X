@@ -1,6 +1,6 @@
 MIT License
 
-;
+
 Copyright (c) THOMAS CATALANO\.
 ;
 Copyright (c) ALTUSNET\.
@@ -8,7 +8,6 @@ Copyright (c) ALTUSNET\.
 Copyright (c) "*"\.
 ;
 Copyright (c) ""\.
-;
 
 All rights reserved.    
 
