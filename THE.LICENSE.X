@@ -17,18 +17,16 @@ Copyright (c) "semiconductor(s)'s/conductor(s)'s";material-mater-state:semicondu
 Copyright (c) "crystal(s)'s/crystal-structure(s)'s";material-mater-state:crystal(s)'s/crystal-structure(s)'s(ziener-diode(s)'s).
 Copyright (c) "mater-material-mass-structure's";mater-material-mass-structure's.
 
-All rights reserved.    
-
+All rights reserved.
+            
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
-
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
-
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
