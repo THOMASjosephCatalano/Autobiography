@@ -1,7 +1,7 @@
 MIT License
 
 Copyright (c) _*BOARD*__Doctor_General-Admiral-CFO-CEO-President THOMAS "JOSEPH" CATALANO/(135-74-4812)DOB:1981-02-05/\.
-Copyright (c) BIT(s);""BIT(s) LICENSE"\.
+Copyright (c) BIT(s);"BIT(s) LICENSE"\.
 Copyright (c) BIT(s);"BIT(s)"
 Copyright (c) BIT(s);"BIT(s)":algorithm;"this LICENSE inclusive"\.
 Copyright (c) BIT(s);"BIT(s)":algorithm;"this LICENSE inclusive"\.Copyright (c) BIT(s);"BIT(s)":algorithm;"this LICENSE inclusive";:*["(the)"]*(); | politicasivisonarydafabuloustaticlicous | ""["_*BOARD*__Doctor_General-Admiral-CFO-CEO-President__the.emancipator.the.propriatator.the__ThomasJosephCatalano"(s)""] "Catalano Ltd." "Catalano Concepts LimitedLiabilityCompany" "CLM LimitedLiabilityCompany" "& hosted entities"" | mechanical() | ["classical | quantum"] | "_computer-processor_" _utility's_ _*invention's_ _*formula's_ _*enginee_ | -implamentator/my testator;;
