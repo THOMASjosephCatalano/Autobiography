@@ -2,7 +2,7 @@ MIT License
 
 Copyright (c) THOMAS "JOSEPH" CATALANO(135-74-4812)DOB:1981-05-02/.
 Copyright (c) BIT(s);"BIT(s)"
-Copyright (c) BIT(s);"BIT(s)":algorithm;:"this LICENSE inclusive"\.
+Copyright (c) BIT(s);"BIT(s)":algorithm;"this LICENSE inclusive"\.
 Coptright (c) motion by and/or of panticulation serfractions perpetuation;as the algorithm:
              "motion by and/or of panticulation serfractions perpetuation".
 Copyright (c) bit(s)(information and time/frame) extrapolation by and/or of percentile factorization;as the algorithm:               
