@@ -14,6 +14,8 @@ Copyright (c) github.com/tomsnode\.
 Copyright (c) github.com/conceptslearningmachine\.
 ;
 Copyright (c) github.com/ALTUSNETS\.
+;
+Copyright (c) github.com/TheBitMarket\.
 
 
 All rights reserved.    
