@@ -63,7 +63,9 @@ Copyright (c) AMD\.
 ;
 Copyright (c) IBM\.
 ;
-Copyright (c) MICROSOFT\.
+Copyright (c) MICROSOFT inc./llc.\.
+;
+Copyright (c) 
 
 
 All rights reserved.    
