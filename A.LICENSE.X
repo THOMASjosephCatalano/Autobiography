@@ -28,6 +28,8 @@ Copyright (c) conceptslearningmachine\.
 Copyright (c) Catalano\.
 ;
 Copyright (c) ALTUSNET Limited Liability Company\.
+;
+Copyright (c) www.conceptslearningmachine.com\.
 
 All rights reserved.    
 
