@@ -75,7 +75,7 @@ Copyright (c) Wells Fargo Bank INC./LLC.\.
 ;
 Copyright (c) Boeing Corporation INC./LLC.\.
 ;
-Copyright (c) BASF Corporation INC./LLC.\.
+Copyright (c) BASF Corporation Ltd./INC./LLC.\.
 ;
 Copyright (c) NYSE INC./LLC./non-profit\.
 
