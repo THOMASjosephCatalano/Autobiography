@@ -36,6 +36,9 @@ Copyright (c) Catalano\.
 Copyright (c) ALTUSNET Limited Liability Company\.
 ;
 Copyright (c) www.conceptslearningmachine.com\.
+;
+Copyright (c) linux\.
+
 
 All rights reserved.    
 
