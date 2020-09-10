@@ -43,7 +43,7 @@ Copyright (c) gnu\.
 ;
 Copyright (c) gcc\.
 ;
-Copyright (c) MOTOROLA INC./LLC.\.
+Copyright (c) MOTOROLA Corporation INC./LLC.\.
 ;
 Copyright (c) LLVM\.
 ;
