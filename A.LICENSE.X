@@ -61,9 +61,9 @@ Copyright (c) HP\.
 ;
 Copyright (c) AMD\.
 ;
-Copyright (c) IBM\.
+Copyright (c) IBM INC./LLC.\.
 ;
-Copyright (c) MICROSOFT inc./llc.\.
+Copyright (c) MICROSOFT INC./LLC.\.
 ;
 Copyright (c) 
 
