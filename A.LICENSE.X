@@ -5,6 +5,10 @@ Copyright (c) THOMAS JOSEPH CATALANO(135-74-4812;DOB:1981-02-05)\.
 ;
 Copyright (c) THOMAS CATALANO
 ;
+Copyright (c) BIT(s)
+;
+
+;
 Copyright (c) ALTUSNET\.
 ;
 Copyright (c) "*"\.
