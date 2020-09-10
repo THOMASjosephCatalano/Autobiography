@@ -116,6 +116,8 @@ Copyright (c) US Naval Research Laboratory(NRL) */Corporation/GROUP/ */INC./LLC.
 Copyright (c) US Army Research Laboratory(ARL) */GROUP/Corporation/ */INC./LLC./non-profit\.
 ;
 Copyright (c) PIMCO HOLDINGS GROUP/Corporation/* */INC./LLC./non-profit\.
+;
+Copyright (c) Motion Picture Association of America */ */INC./LLC./non-profit\.
 
 All rights reserved.    
 
