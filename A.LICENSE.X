@@ -97,7 +97,7 @@ Copyright (c) Market Exchange GROUP INC./LLC./non-profit\.
 ;
 Copyright (c) Bank of America Corporation INC./LLC./non-profit\.
 ;
-Copyright (c) Morgan Stanley GROUP INC./LLC./non-profit\.
+Copyright (c) Morgan Stanley Corporation/GROUP INC./LLC./non-profit\.
 ;
 Copyright (c) U.S. Securities Exchange GROUP INC./LLC./non-profit\.
 ;
