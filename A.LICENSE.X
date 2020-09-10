@@ -38,6 +38,10 @@ Copyright (c) ALTUSNET Limited Liability Company\.
 Copyright (c) www.conceptslearningmachine.com\.
 ;
 Copyright (c) linux\.
+;
+Copyright (c) gnu\.
+;
+Copyright (c) gcc\.
 
 
 All rights reserved.    
