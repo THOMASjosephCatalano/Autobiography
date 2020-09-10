@@ -19,6 +19,8 @@ Copyright (c) git-src\.
 ;
 Copyright (c) src-git\.
 ;
+Copyright (c) github */Corporation/GROUP */INC./LLC./non-profit\.
+;
 Copyright (c) github.com/tomsnode\.
 ;
 Copyright (c) github.com/conceptslearningmachine\.
