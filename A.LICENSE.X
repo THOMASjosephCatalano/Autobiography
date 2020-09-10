@@ -10,6 +10,10 @@ Copyright (c) "*"\.
 Copyright (c) ""\.
 ;
 Copyright (c) github.com/tomsnode\.
+;
+Copyright (c) github.com/conceptslearningmachine\.
+;
+Copyright (c) github.com/ALTUSNETS\.
 
 
 All rights reserved.    
