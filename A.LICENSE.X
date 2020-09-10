@@ -65,7 +65,7 @@ Copyright (c) IBM INC./LLC.\.
 ;
 Copyright (c) MICROSOFT Corporation INC./LLC.\.
 ;
-Copyright (c) Lockheed Martin INC./LLC.\.
+Copyright (c) Lockheed Martin Corporation INC./LLC.\.
 ;
 Copyright (c) GE INC./LLC.\.
 ;
