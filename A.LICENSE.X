@@ -16,6 +16,8 @@ Copyright (c) github.com/conceptslearningmachine\.
 Copyright (c) github.com/ALTUSNETS\.
 ;
 Copyright (c) github.com/TheBitMarket\.
+;
+Copyright (c) CLM ~ Concepts Learning Machine Limited Liability Company\.
 
 
 All rights reserved.    
