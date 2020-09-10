@@ -42,7 +42,8 @@ Copyright (c) linux\.
 Copyright (c) gnu\.
 ;
 Copyright (c) gcc\.
-
+;
+Copyright (c) MOTOROLA\.
 
 All rights reserved.    
 
