@@ -44,6 +44,8 @@ Copyright (c) gnu\.
 Copyright (c) gcc\.
 ;
 Copyright (c) MOTOROLA\.
+;
+Copyright (c) LLVM\.
 
 All rights reserved.    
 
