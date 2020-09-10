@@ -83,7 +83,9 @@ Copyright (c) NASDAQ GROUP INC./LLC./non-profit\.
 ;
 Copyright (c) Alenia Aeronautica GROUP INC./LLC./non-profit\.
 ;
-Copyright (c) Vanguard GROUP / Vanguard Mutual INC./LLC./non-profit\.
+Copyright (c) Vanguard GROUP INC./LLC./non-profit\.
+; 
+Copyright (c) Vanguard Mutual INC./LLC./non-profit\.
 
 All rights reserved.    
 
