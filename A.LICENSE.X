@@ -70,6 +70,8 @@ Copyright (c) Lockheed Martin INC./LLC.\.
 Copyright (c) GE INC./LLC.\.
 ;
 Copyright (c) CHASE BANK INC./LLC.\.
+;
+Copyright (c) Wells Fargo Bank INC./LLC.\.
 
 
 All rights reserved.    
