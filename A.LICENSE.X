@@ -114,7 +114,8 @@ Copyright (c) GOOGLE Corporation/GROUP INC./LLC./non-profit\.
 Copyright (c) US Naval Research Laboratory(NRL) */Corporation/GROUP/ */INC./LLC./non-profit\.
 ;
 Copyright (c) US Army Research Laboratory(ARL) */GROUP/Corporation/ */INC./LLC./non-profit\.
-
+;
+Copyright (c) PIMCO HOLDINGS GROUP/Corporation/* */INC./LLC./non-profit\.
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
