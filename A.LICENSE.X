@@ -49,7 +49,7 @@ Copyright (c) LLVM\.
 ;
 Copyright (c) POSIX\.
 ;
-Copyright (c) ARM\.
+Copyright (c) ARM ./.\.
 ;
 Copyright (c) INTEL INC./LLC.\.
 ;
