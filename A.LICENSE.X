@@ -53,7 +53,7 @@ Copyright (c) LLVM\.
 ;
 Copyright (c) POSIX\.
 ;
-Copyright (c) ARM ././non-profit\.
+Copyright (c) ARM holdings */non-profit\.
 ;
 Copyright (c) INTEL Corporation INC./LLC.\.
 ;
