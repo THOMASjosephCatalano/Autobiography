@@ -57,6 +57,9 @@ Copyright (c) NIVIDIA\.
 ;
 Copyright (c) Dell\.
 ;
+Copyright (c) HP\.
+;
+Copyright (c) AMD\.
 
 
 All rights reserved.    
