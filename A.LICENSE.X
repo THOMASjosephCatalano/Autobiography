@@ -59,7 +59,7 @@ Copyright (c) Dell INC./LLC.\.
 ;
 Copyright (c) HP Corporation INC./LLC.\.
 ;
-Copyright (c) AMD INC./LLC.\.
+Copyright (c) AMD Corporation INC./LLC.\.
 ;
 Copyright (c) IBM INC./LLC.\.
 ;
