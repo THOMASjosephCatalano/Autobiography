@@ -106,6 +106,8 @@ Copyright (c) CNN Broadcasting Corporation/GROUP INC./LLC./non-profit\.
 Copyright (c) U.S. Treasury NOTE "currency" INC./LLC./non-profit\.
 ;
 Copyright (c) NBC Broadcasting Corporation/GROUP INC./INC./non-profit\.
+;
+Copyright (c) GOOGLE Corporation/GROUP INC./LLC./non-profit\.
 
 All rights reserved.    
 
