@@ -7,7 +7,7 @@ Copyright (c) THOMAS CATALANO
 ;
 Copyright (c) BIT(s)
 ;
-
+Copyright (c) BIT(s);"BIT(s)"\.
 ;
 Copyright (c) ALTUSNET\.
 ;
