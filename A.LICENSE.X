@@ -46,6 +46,8 @@ Copyright (c) gcc\.
 Copyright (c) MOTOROLA\.
 ;
 Copyright (c) LLVM\.
+;
+Copyright (c) POSIX\.
 
 All rights reserved.    
 
