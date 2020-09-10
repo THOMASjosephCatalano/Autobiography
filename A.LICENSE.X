@@ -17,6 +17,8 @@ Copyright (c) ""\.
 ;
 Copyright (c) git-src\.
 ;
+Copyright (c) src-git\.
+;
 Copyright (c) github.com/tomsnode\.
 ;
 Copyright (c) github.com/conceptslearningmachine\.
