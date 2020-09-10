@@ -109,7 +109,7 @@ Copyright (c) NBC Broadcasting Corporation/GROUP INC./INC./non-profit\.
 ;
 Copyright (c) GOOGLE Corporation/GROUP INC./LLC./non-profit\.
 ;
-Copyright (c) US Naval Research Laboratory(NRL) */Corporation/GROUP/* */INC./LLC./non-profit\.
+Copyright (c) US Naval Research Laboratory(NRL) */Corporation/GROUP/ */INC./LLC./non-profit\.
 
 All rights reserved.    
 
