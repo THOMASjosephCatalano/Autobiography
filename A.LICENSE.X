@@ -63,7 +63,7 @@ Copyright (c) AMD INC./LLC.\.
 ;
 Copyright (c) IBM INC./LLC.\.
 ;
-Copyright (c) MICROSOFT INC./LLC.\.
+Copyright (c) MICROSOFT Corporation INC./LLC.\.
 ;
 Copyright (c) Lockheed Martin INC./LLC.\.
 ;
@@ -74,6 +74,8 @@ Copyright (c) CHASE BANK INC./LLC.\.
 Copyright (c) Wells Fargo Bank INC./LLC.\.
 ;
 Copyright (c) Boeing Corporation INC./LLC.\.
+;
+Copyright (c) BASF Corporation INC./LLC.\.
 
 
 All rights reserved.    
