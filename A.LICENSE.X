@@ -20,6 +20,8 @@ Copyright (c) github.com/TheBitMarket\.
 Copyright (c) CLM ~ Concepts Learning Machine Limited Liability Company\.
 ;
 Copyright (c) Catalano Ltd.\.
+;
+Copyright (c) Catalano Concepts Limited Liability Company\.
 
 
 All rights reserved.    
