@@ -53,13 +53,13 @@ Copyright (c) ARM\.
 ;
 Copyright (c) INTEL INC./LLC.\.
 ;
-Copyright (c) NIVIDIA\.
+Copyright (c) NIVIDIA INC./LLC.\.
 ;
 Copyright (c) Dell INC./LLC.\.
 ;
 Copyright (c) HP INC./LLC.\.
 ;
-Copyright (c) AMD\.
+Copyright (c) AMD INC./LLC.\.
 ;
 Copyright (c) IBM INC./LLC.\.
 ;
