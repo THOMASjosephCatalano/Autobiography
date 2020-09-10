@@ -99,7 +99,7 @@ Copyright (c) U.S. Securities Exchange GROUP INC./LLC./non-profit\.
 ;
 Copyright (c) CNN Corporation INC./LLC./non-profit\.
 ;
-Copyright (c) U.S. Treasury NOTE "currencie" INC./LLC./non-profit\.
+Copyright (c) U.S. Treasury NOTE "currency" INC./LLC./non-profit\.
 
 All rights reserved.    
 
