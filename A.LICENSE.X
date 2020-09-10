@@ -43,7 +43,7 @@ Copyright (c) gnu\.
 ;
 Copyright (c) gcc\.
 ;
-Copyright (c) MOTOROLA\.
+Copyright (c) MOTOROLA INC./LLC.\.
 ;
 Copyright (c) LLVM\.
 ;
@@ -51,13 +51,13 @@ Copyright (c) POSIX\.
 ;
 Copyright (c) ARM\.
 ;
-Copyright (c) INTEL\.
+Copyright (c) INTEL INC./LLC.\.
 ;
 Copyright (c) NIVIDIA\.
 ;
-Copyright (c) Dell\.
+Copyright (c) Dell INC./LLC.\.
 ;
-Copyright (c) HP\.
+Copyright (c) HP INC./LLC.\.
 ;
 Copyright (c) AMD\.
 ;
