@@ -81,7 +81,7 @@ Copyright (c) NYSE GROUP INC./LLC./non-profit\.
 ;
 Copyright (c) NASDAQ GROUP INC./LLC./non-profit\.
 ;
-Copyright (c) Alenia Aeronautica\.
+Copyright (c) Alenia Aeronautica GROUP INC./LLC./non-profit\.
 
 All rights reserved.    
 
