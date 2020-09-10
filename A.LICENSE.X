@@ -22,7 +22,10 @@ Copyright (c) CLM ~ Concepts Learning Machine Limited Liability Company\.
 Copyright (c) Catalano Ltd.\.
 ;
 Copyright (c) Catalano Concepts Limited Liability Company\.
-
+;
+Copyright (c) conceptslearningmachine\.
+;
+Copyright (c) Catalano\.
 
 All rights reserved.    
 
