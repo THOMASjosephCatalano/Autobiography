@@ -15,13 +15,13 @@ entities;
 
 conceptslearningmachine.com 
 
-github.com/tomsnode
+github.com/tomsnode\.
 
-github.com/conceptslearningmachine
+github.com/conceptslearningmachine\.
 
-github.com/altusnets
+github.com/altusnets\.
 
-github.com/TheBitMarket
+github.com/TheBitMarket\.
 
 Catalano Ltd.
 
