@@ -8,6 +8,9 @@ Copyright (c) ALTUSNET\.
 Copyright (c) "*"\.
 ;
 Copyright (c) ""\.
+;
+Copyright (c) github.com/tomsnode\.
+
 
 All rights reserved.    
 
