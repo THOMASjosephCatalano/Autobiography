@@ -25,11 +25,11 @@ github.com/TheBitMarket\.
 
 Catalano Ltd.
 
-Catalano Concepts Limited Liability Company
+Catalano Concepts Limited Liability Company\.
 
-ALTUSNET Limited Liability Company
+ALTUSNET Limited Liability Company\.
 
-CLM Limited Liability Company
+CLM Limited Liability Company\.
 
 -----------
 #
