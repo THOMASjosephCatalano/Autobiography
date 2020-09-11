@@ -59,7 +59,7 @@ Copyright (c) POSIX\.
 ;
 Copyright (c) ARM _holdings_ Corporation/GROUP */INC./LLC./non-profit\.
 ;
-Copyright (c) INTEL Corporation INC./LLC.\.
+Copyright (c) INTEL _holdings_ Corporation/GROUP */INC./LLC./non-profit\.
 ;
 Copyright (c) NIVIDIA INC./LLC.\.
 ;
