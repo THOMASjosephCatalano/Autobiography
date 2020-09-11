@@ -69,7 +69,7 @@ Copyright (c) HP _holdings_ Corporation/GROUP */INC./LLC./non-profit\.
 ;
 Copyright (c) AMD _holdings_ Corporation/GROUP */INC./LLC./non-profit\.
 ;
-Copyright (c) IBM INC./LLC.\.
+Copyright (c) IBM _holdings_ Corporation/GROUP */INC./LLC./non-profit\.
 ;
 Copyright (c) MICROSOFT _holdings_ Corporation/GROUP */INC./LLC./non-profit\.
 ;
