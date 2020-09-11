@@ -73,7 +73,7 @@ Copyright (c) IBM INC./LLC.\.
 ;
 Copyright (c) MICROSOFT Corporation INC./LLC.\.
 ;
-Copyright (c) Lockheed Martin Corporation/GROUP INC./LLC./non-profit\.
+Copyright (c) Lockheed Martin _holdings_ Corporation/GROUP */INC./LLC./non-profit\.
 ;
 Copyright (c) GE holdings Corporation/GROUP */INC./LLC./non-profit\.
 ;
