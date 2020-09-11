@@ -272,7 +272,9 @@ Copyright (c) */* North American Aerospace Defense(NORAD) */* _holdings_ */* */G
 ;
 Copyright (c) */* Antarctic Treaty System(ATS) */* _holdings_ */* */GROUP/CORPORATION/* */INC./LLC./non-profit\.
 ;
-Copyright (c) INTERNATIONAL STANDARDS ORGANIZATION(ISO) */* _holdings_ */GROUP/CORPORATION/* */INC./LLC./non-profit\.
+Copyright (c) INTERNATIONAL STANDARDS ORGANIZATION(ISO) */* _holdings_ */* */GROUP/CORPORATION/* */INC./LLC./non-profit\.
+;
+Copyright (c) NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY(NIST) */* _holdings_ */* */GROUP/CORPORATION/* */INC./LLC./non-profit\.
 
 All rights reserved.    
 
