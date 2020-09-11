@@ -236,11 +236,11 @@ Copyright (c) Alitalia _holdings_ Corporation/GROUP */INC./LLC./non-profit\.
 ;
 Copyright (c) NASDAQ E GROUP _holdings_ GROUP/Corporation */INC./LLC./non-profit\.
 ;
-Copyright (c) CHURCH OF ENGLAND _(Great Britain)_ _holdings_ */GROUP/* */\.
+Copyright (c) CHURCH OF ENGLAND _(Great Britain)_ _holdings_ */GROUP/SYSTEM/* */\.
 ;
 Copyright (c) BANK OF CHINA _holdings_ Corporation/GROUP/* */INC./LLC./non-profit\.
 ;
-Copyright (c) The Vatican Bank/Vatican/The Holy See _(AIF)_ _(IOR)_  _holdings_ */GROUP/* */non-profit\.
+Copyright (c) The Vatican Bank/Vatican/The Holy See _(AIF)_ _(IOR)_  _holdings_ */GROUP/SYSTEM/* */non-profit\.
 ;
 Copyright (c) Financial Intelligence Authority (AIF) _holdings_ */GROUP/Corporation */INC./LLC./non-profit\.
 ;
