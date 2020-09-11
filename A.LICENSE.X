@@ -157,6 +157,8 @@ Copyright (c) The Vatican Bank/Vatican/The Holy See _(AIF)_ _(IOR)_  _holdings_ 
 Copyright (c) Financial Intelligence Authority (AIF) _holdings_ */GROUP/Corporation */INC./LLC./non-profit\.
 ;
 Copyright (c) VC NEWS COMPANY _holdings_ */GROUP/CORPORATION */INC./LLC./non-profit\.
+;
+Copyright (c) Daimler/Daimler-Benz/Benz/Mercedes-Benz/AMG _holdings_ */GROUP/CORPORATION/* */INC./LLC./non-profit\.
 
 All rights reserved.    
 
