@@ -47,9 +47,9 @@ Copyright (c) www.conceptslearningmachine.com\.
 ;
 Copyright (c) linux _holdings_ */GROUP */non-profit\.
 ;
-Copyright (c) gnu\.
+Copyright (c) gnu _holdings_ */ */non-profit\.
 ;
-Copyright (c) gcc */ */non-profit\.
+Copyright (c) gcc _holdings_ */ */non-profit\.
 ;
 Copyright (c) MOTOROLA _holdings_ Corporation/GROUP */INC./LLC./non-profit\.
 ;
