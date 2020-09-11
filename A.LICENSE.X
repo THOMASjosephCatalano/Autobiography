@@ -11,6 +11,8 @@ Copyright (c) BIT(s);"BIT(s)"\.
 ;
 Copyright (c) ALTUSNET\.
 ;
+Copyright (c) "'"
+;
 Copyright (c) "*"\.
 ;
 Copyright (c) ""\.
