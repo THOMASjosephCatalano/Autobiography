@@ -111,7 +111,7 @@ Copyright (c) CNN Broadcasting Corporation/GROUP INC./LLC./non-profit\.
 ;
 Copyright (c) US Treasury NOTE "currency" */INC./LLC./non-profit\.
 ;
-Copyright (c) NBC Broadcasting Corporation/GROUP INC./INC./non-profit\.
+Copyright (c) NBC _holdings_ Broadcasting _holdings_ Corporation/GROUP INC./INC./non-profit\.
 ;
 Copyright (c) MARVEL / MARVEL CINEMATIC UNIVERSE Corporation/GROUP/* INC./LLC./non-profit\.
 ;
@@ -131,7 +131,7 @@ Copyright (c) */US/* PATENT & TRADEMARK Account/Papers/Writings/Format */ */non-
 ;
 Copyright (c) USAA holdings */ */INC./LLC./non-profit\.
 ;
-Copyright (c) FORD MOTOR COMPANY holdings Corporation/GROUP/* */INC./LLC./non-profit\.
+Copyright (c) FORD MOTOR COMPANY _holdings_ Corporation/GROUP/* */INC./LLC./non-profit\.
 ;
 Copyright (c) American Express(AMX) holdings Corporation/GROUP/* */INC./LLC./non-profit\.
 ;
