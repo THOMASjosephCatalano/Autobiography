@@ -24,15 +24,15 @@ Copyright (c) git-src _holdings_ */ */non-profit\.
 ;
 Copyright (c) src-git _holdings_ */GROUP */non-profit\.
 ;
-Copyright (c) github */Corporation/GROUP */INC./LLC./non-profit\.
+Copyright (c) github _holdings_ */Corporation/GROUP */INC./LLC./non-profit\.
 ;
 Copyright (c) git/github/github.com/tomsnode\.
 ;
-Copyright (c) github.com/conceptslearningmachine\.
+Copyright (c) git/github/github.com/conceptslearningmachine\.
 ;
-Copyright (c) github.com/ALTUSNETS\.
+Copyright (c) git/github/github.com/ALTUSNETS\.
 ;
-Copyright (c) github.com/TheBitMarket\.
+Copyright (c) git/github/github.com/TheBitMarket\.
 ;
 Copyright (c) CLM ~ Concepts Learning Machine _holdings_ Limited Liability Company\.
 ;
