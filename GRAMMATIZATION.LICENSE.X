@@ -1,8 +1,9 @@
 MIT License
 
 Copyright (c) THOMAS CATALANO(135-74-4812:DOB:1981-02-05)\.
-Copyright (c) the_grammar-word-transitional/statment/transitional(adj-verb):socalety(adj-verb(d))definition/(adj-verb(d))\.
 
+Copyright (c) the_grammar-word-transitional/statment/transitional(adj-verb):socalety(adj-verb(d))definition/(adj-verb(d))\.
+""
 grammer-word-transitional/statement/transitional:undedifracteonal(adj-verb(d)).
 
 grammar-word-transtitionl/statment/transitional:knockalety/(adj-verb(d)).
@@ -36,8 +37,8 @@ grammar-word-transtitional/statment/transitional:currenmonatizatorlasket/(adj-ve
 grammar-word-transtitional/statment/transitional:recacogogainanition/(adj-verb(d)).
 
 grammar-word-transtitional/statment/transitional:collectaxatatorvasulator/(adj-verb(d)).
-
-Copyright (c) ;etcetera so forth\.
+""
+Copyright (c) etcetera so forth;etc. so forth\.
 
 All rights reserved.             
 
