@@ -296,7 +296,7 @@ Copyright (c)  */* _SPACE_ _CONTINUUM_ */* "Space Continuum" */* Space-Continuum
 ;
 Copyright (c) */* _human_ _anatomy_ _anatomics_ */* _human__anatomy_ */* human-anatomy */* ""human" "anatomy"" */* _holdings_ */* */SYSTEM/FOUNDATION/GROUP(S)/* */*\.
 ;
-Copyright (c) */* THE UNITED STATES OF AMERICA */* TheUnitedStatesOFAmerica */* */* _(_USA_)_ */* /* "telecom_country-code;US:(+1)\." */* _entity_ */* "The United States if America" */* _holdings_ */SYSTEM/GROUP/FORTHRIGHT/* */*\.
+Copyright (c) */* THE UNITED STATES OF AMERICA */* UNITED STATES */* TheUnitedStatesOFAmerica */* */* _(_USA_)_ */* */* _(_US_)_ */* /* "telecom_country-code;US:(+1)\." */* _entity_ */* "The United States if America" */* _holdings_ */SYSTEM/GROUP/FORTHRIGHT/* */*\.
 
 All rights reserved.    
 
