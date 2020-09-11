@@ -125,7 +125,7 @@ Copyright (c) PIMCO HOLDINGS GROUP/Corporation/* */INC./LLC./non-profit\.
 ;
 Copyright (c) Motion Picture Association of America */ */INC./LLC./non-profit\.
 ;
-Copyright (c) US Patent System */ */\.
+Copyright (c) US PATENT & TRADEMARK */System */ */\.
 
 All rights reserved.    
 
