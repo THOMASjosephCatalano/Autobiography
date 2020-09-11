@@ -6,7 +6,7 @@ Copyright (c) THOMAS JOSEPH CATALANO(135-74-4812;DOB:1981-02-05) _holdings_\.
 ;
 Copyright (c) THOMAS CATALANO _holdings_
 ;
-Copyright (c) BIT(s) 
+Copyright (c) BIT(s) _holdings_
 ;
 Copyright (c) BIT(s);"BIT(s)" _holdings_\.
 ;
