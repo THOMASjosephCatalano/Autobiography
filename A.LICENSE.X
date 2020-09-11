@@ -152,7 +152,7 @@ Copyright (c) CHURCH OF ENGLAND _(Great Britain)_ _holdings_ */GROUP/* */\.
 ;
 Copyright (c) BANK OF CHINA _holdings_ Corporation/GROUP/* */INC./LLC./non-profit\.
 ;
-Copyright (c) The Vatican Bank/Vatican  _holdings_ */GROUP */non-profit\.
+Copyright (c) The Vatican Bank/Vatican _(IOR)_  _holdings_ */GROUP */non-profit\.
 
 All rights reserved.    
 
