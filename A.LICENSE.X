@@ -85,7 +85,7 @@ Copyright (c) Boeing holdings Corporation/GROUP */INC./LLC./non-profit\.
 ;
 Copyright (c) BASF Corporation Ltd./INC./LLC.\.
 ;
-Copyright (c) NYSE GROUP INC./LLC./non-profit\.
+Copyright (c) NYSE _holdings_ Corporation/GROUP */INC./LLC./non-profit\.
 ;
 Copyright (c) NASDAQ GROUP INC./LLC./non-profit\.
 ;
