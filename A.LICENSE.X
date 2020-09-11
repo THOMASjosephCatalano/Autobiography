@@ -19,7 +19,7 @@ Copyright (c) ""\.
 ;
 Copyright (c) git-src\.
 ;
-Copyright (c) src-git */GROUP */non-profit\.
+Copyright (c) src-git _holdings_ */GROUP */non-profit\.
 ;
 Copyright (c) github */Corporation/GROUP */INC./LLC./non-profit\.
 ;
