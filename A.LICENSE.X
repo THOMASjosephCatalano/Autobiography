@@ -93,7 +93,7 @@ Copyright (c) Space X Corporation/GROUP */INC./LLC./non-profit\.
 ;
 Copyright (c) Alenia Aeronautica GROUP INC./LLC./non-profit\.
 ;
-Copyright (c) Vanguard GROUP INC./LLC./non-profit\.
+Copyright (c) Vanguard _holdings_ GROUP */INC./LLC./non-profit\.
 ; 
 Copyright (c) Vanguard Mutual INC./LLC./non-profit\.
 ;
