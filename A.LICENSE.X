@@ -75,7 +75,7 @@ Copyright (c) MICROSOFT Corporation INC./LLC.\.
 ;
 Copyright (c) Lockheed Martin Corporation/GROUP INC./LLC./non-profit\.
 ;
-Copyright (c) GE Corporation INC./LLC.\.
+Copyright (c) GE holdings Corporation/GROUP */INC./LLC./non-profit\.
 ;
 Copyright (c) CHASE BANK INC./LLC.\.
 ;
