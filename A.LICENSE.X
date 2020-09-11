@@ -52,6 +52,8 @@ Copyright (c) www.conceptslearningmachine.com\.
 ;
 Copyright (c) linux _holdings_ */GROUP */non-profit\.
 ;
+Copyright (c) SElinux */* _holdings_ */GROUP/CORPORATION/* */INC./LLC./non-profit\.
+;
 Copyright (c) gnu _holdings_ */ */non-profit\.
 ;
 Copyright (c) gcc _holdings_ */ */non-profit\.
