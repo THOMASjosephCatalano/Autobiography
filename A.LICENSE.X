@@ -115,7 +115,7 @@ Copyright (c) NBC _holdings_ Broadcasting _holdings_ Corporation/GROUP INC./INC.
 ;
 Copyright (c) MARVEL / MARVEL CINEMATIC UNIVERSE Corporation/GROUP/* INC./LLC./non-profit\.
 ;
-Copyright (c) Warner Brothers Studio's Corporation/GROUP/* */INC./LLC./non-profit\.
+Copyright (c) Warner Brothers _holdings_ Studio's _holdings_ Corporation/GROUP/* */INC./LLC./non-profit\.
 ;
 Copyright (c) GOOGLE Corporation/GROUP INC./LLC./non-profit\.
 ;
