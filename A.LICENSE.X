@@ -132,7 +132,7 @@ Copyright (c) www.conceptslearningmachine.com\.
 ;
 Copyright (c) linux _holdings_ */GROUP */non-profit\.
 ;
-Copyright (c) SElinux */* _holdings_ */* */GROUP/CORPORATION/* */INC./LLC./non-profit\.
+Copyright (c) SElinux */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
 ;
 Copyright (c) gnu _holdings_ */ */non-profit\.
 ;
