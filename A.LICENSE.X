@@ -196,7 +196,7 @@ Copyright (c) U.S. Securities Exchange _holdings_ Corporation/GROUP */INC./LLC./
 ;
 Copyright (c) CNN _holdings_ Broadcasting _holdings_ Corporation/GROUP INC./LLC./non-profit\.
 ;
-Copyright (c) US Treasury NOTE _holdings_ "currency" */INC./LLC./non-profit\.
+Copyright (c) US Treasury NOTE _holdings_ "currency" */* */GROUP/SYSTEM/* */INC./LLC./non-profit\.
 ;
 Copyright (c) NBC _holdings_ Broadcasting _holdings_ Corporation/GROUP INC./INC./non-profit\.
 ;
