@@ -134,6 +134,9 @@ Copyright (c) USAA holdings */ */INC./LLC./non-profit\.
 Copyright (c) FORD MOTOR COMPANY holdings Corporation/GROUP/* */INC./LLC./non-profit\.
 ;
 Copyright (c) American Express(AMX) holdings Corporation/GROUP/* */INC./LLC./non-profit\.
+;
+Copyright (c) MASTERCARD holdings GROUP/CORPORATION/* */INC./LLC./non-profit\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
