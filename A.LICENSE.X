@@ -155,6 +155,8 @@ Copyright (c) BANK OF CHINA _holdings_ Corporation/GROUP/* */INC./LLC./non-profi
 Copyright (c) The Vatican Bank/Vatican/The Holy See _(AIF)_ _(IOR)_  _holdings_ */GROUP/* */non-profit\.
 ;
 Copyright (c) Financial Intelligence Authority (AIF) _holdings_ */GROUP/Corporation */INC./LLC./non-profit\.
+;
+Copyright (c) VC NEWS COMPANY _holdings_ */GROUP/CORPORATION */INC./LLC./non-profit\.
 
 All rights reserved.    
 
