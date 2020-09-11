@@ -24,7 +24,7 @@ Copyright (c) "www."\.
 ;
 Copyright (c) 
 ;
-Copyright (c) "Ph.D"\.
+Copyright (c) "Ph.D" Ph.D/Ph.D. */* licensing/SYSTEM/* */*\.
 ;
 Copyright (c) "Ph.D."\.
 ;
