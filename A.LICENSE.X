@@ -22,6 +22,10 @@ Copyright (c) "*"\.
 ;
 Copyright (c) ""\.
 ;
+Copyright (c) "."
+;
+Copyright (c) ":"
+;
 Copyright (c) git-src _holdings_ */ */non-profit\.
 ;
 Copyright (c) src-git _holdings_ */GROUP */non-profit\.
