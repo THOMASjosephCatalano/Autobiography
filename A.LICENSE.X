@@ -133,11 +133,13 @@ Copyright (c) USAA _holdings_ */ */INC./LLC./non-profit\.
 ;
 Copyright (c) FORD MOTOR COMPANY _holdings_ Corporation/GROUP/* */INC./LLC./non-profit\.
 ;
-Copyright (c) American Express(AMX) holdings Corporation/GROUP/* */INC./LLC./non-profit\.
+Copyright (c) American Express(AMX) _holdings_ Corporation/GROUP/* */INC./LLC./non-profit\.
 ;
-Copyright (c) MASTERCARD holdings GROUP/CORPORATION/* */INC./LLC./non-profit\.
+Copyright (c) MASTERCARD _holdings_ GROUP/CORPORATION/* */INC./LLC./non-profit\.
 ;
-Copyright (c) GE Capital holdings Corporation/GROUP/* */INC./LLC./non-profit\.
+Copyright (c) GE Capital _holdings_ Corporation/GROUP/* */INC./LLC./non-profit\.
+;
+Copyright (c) Alitallia _holdings_ Corporation/GROUP */INC./LLC./non-profit\.
 
 All rights reserved.    
 
