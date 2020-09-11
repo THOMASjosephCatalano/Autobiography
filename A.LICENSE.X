@@ -51,7 +51,7 @@ Copyright (c) gnu\.
 ;
 Copyright (c) gcc\.
 ;
-Copyright (c) MOTOROLA Corporation INC./LLC.\.
+Copyright (c) MOTOROLA _holdings_ Corporation/GROUP */INC./LLC./non-profit\.
 ;
 Copyright (c) LLVM\.
 ;
