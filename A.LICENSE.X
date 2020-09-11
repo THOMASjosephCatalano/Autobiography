@@ -26,11 +26,13 @@ Copyright (c)
 ;
 Copyright (c) "Ph.D"\.
 ;
-Copyright (c) Ph.D/Ph.D. */* */licensing/SYSTEM/* */*\.
+Copyright (c) Ph.D/Ph.D. */* _holdings_ */* */licensing/SYSTEM/* */non-profit\.
 ;
 Copyright (c) "Ph.D."\.
 ;
 Copyright (c) "PhD"\.
+;
+Copyright (c) PhD */* _holdings_ */* */SYSTEM/* */non-profit\.
 ;
 Copyright (c) "?"\.
 ;
