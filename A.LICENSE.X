@@ -67,7 +67,7 @@ Copyright (c) Dell _holdings_ DELL _holdings_ Corporation/GROUP */INC./LLC./non-
 ;
 Copyright (c) HP _holdings_ Corporation/GROUP */INC./LLC./non-profit\.
 ;
-Copyright (c) AMD Corporation INC./LLC.\.
+Copyright (c) AMD _holdings_ Corporation/GROUP */INC./LLC./non-profit\.
 ;
 Copyright (c) IBM INC./LLC.\.
 ;
