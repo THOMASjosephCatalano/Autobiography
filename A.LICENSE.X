@@ -182,6 +182,7 @@ Copyright (c) */* INTERNATIONAL COURT OF JUSTICE/COURT OF INTERNATIONAL JUSTICE 
 ;
 Copyright (c) */* NATO */* _holdings_ */* */GROUP/CORPORATION/* */INC./LLC./non-profit\.
 ;
+Copyright(c) European Space Agency(ESA) */* _holdings_ */GROUP/CORPORATION/* */INC./LLC./non-profit\.
 
 All rights reserved.    
 
