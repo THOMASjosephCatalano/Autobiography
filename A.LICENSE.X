@@ -187,6 +187,8 @@ Copyright (c) European Space Agency(ESA) */* _holdings_ */GROUP/CORPORATION/* */
 Copyright (c) National Aeronautics & Space Agency(NASA) */* _holdings_ */* */GROUP/CORPORATION/* */INC./LLC./non-profit\.
 ;
 Copyright (c) */* North American Aerospace Defense(NORAD) */* _holdings_ */* */GROUP/CORPORATION/* */INC./LLC./non-profit\.
+;
+Copyright (c) */* Antarcticic Treaty System(ATS) */* _holdings_ */* */GROUP/CORPORATION/* */INC./LLC./non-profit\.
 
 All rights reserved.    
 
