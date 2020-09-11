@@ -65,7 +65,7 @@ Copyright (c) NIVIDIA INC./LLC.\.
 ;
 Copyright (c) Dell INC./LLC.\.
 ;
-Copyright (c) HP Corporation INC./LLC.\.
+Copyright (c) HP _holdings_ Corporation/GROUP */INC./LLC./non-profit\.
 ;
 Copyright (c) AMD Corporation INC./LLC.\.
 ;
