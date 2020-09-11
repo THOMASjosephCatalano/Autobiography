@@ -87,7 +87,7 @@ Copyright (c) BASF Corporation Ltd./INC./LLC.\.
 ;
 Copyright (c) NYSE _holdings_ Corporation/GROUP */INC./LLC./non-profit\.
 ;
-Copyright (c) NASDAQ GROUP INC./LLC./non-profit\.
+Copyright (c) NASDAQ _holdings_ GROUP/Corporation */INC./LLC./non-profit\.
 ;
 Copyright (c) Space X Corporation/GROUP */INC./LLC./non-profit\.
 ;
