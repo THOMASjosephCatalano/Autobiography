@@ -140,6 +140,8 @@ Copyright (c) MASTERCARD _holdings_ GROUP/CORPORATION/* */INC./LLC./non-profit\.
 Copyright (c) GE Capital _holdings_ Corporation/GROUP/* */INC./LLC./non-profit\.
 ;
 Copyright (c) Alitalia _holdings_ Corporation/GROUP */INC./LLC./non-profit\.
+;
+Copyright (c) NASDAQ E GROUP _holdings_ GROUP/Corporation */INC./LLC./non-profit\.
 
 All rights reserved.    
 
