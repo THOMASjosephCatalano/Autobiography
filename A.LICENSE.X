@@ -131,7 +131,8 @@ Copyright (c) */US/* PATENT & TRADEMARK Account/Papers/Writings/Format */ */non-
 ;
 Copyright (c) USAA holdings */ */INC./LLC./non-profit\.
 ;
-Copyright (c) FORD MOTOR COMPANY Corporation/GROUP/* */INC./LLC./non-profit\.
+Copyright (c) FORD MOTOR COMPANY holdings Corporation/GROUP/* */INC./LLC./non-profit\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
