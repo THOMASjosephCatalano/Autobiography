@@ -165,7 +165,10 @@ Copyright (c) FIAT _holdings_ */GROUP/CORPORATION/* */INC./LLC./non-profit\.
 Copyright (c) ASTON MARTIN COACH WORKS _holdings_ GROUP/CORPORATION */INC./LLC./non-profit\.
 ;
 Copyright (c) VW Motor Works _holdings_ GROUP/CORPORATION/* */INC./LLC./non-profit\.
-
+;
+Copyright (c) HBO _holdings_ GROUP/Corporation/* */INC./LLC./non-profit\.
+;
+Copyright (c) GM _holdings_ GROUP/Corporation */INC./LLC./non-profit\.
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
