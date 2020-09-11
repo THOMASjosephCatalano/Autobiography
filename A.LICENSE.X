@@ -151,6 +151,8 @@ Copyright (c) NASDAQ E GROUP _holdings_ GROUP/Corporation */INC./LLC./non-profit
 Copyright (c) CHURCH OF ENGLAND _(Great Britain)_ _holdings_ */GROUP/* */\.
 ;
 Copyright (c) BANK OF CHINA _holdings_ Corporation/GROUP/* */INC./LLC./non-profit\.
+;
+Copyright (c) Vatican/Vatican City _holdings_ */GROUP */non-profit\.
 
 All rights reserved.    
 
