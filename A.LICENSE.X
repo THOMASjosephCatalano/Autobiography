@@ -81,7 +81,7 @@ Copyright (c) CHASE BANK INC./LLC.\.
 ;
 Copyright (c) Wells Fargo Bank INC./LLC.\.
 ;
-Copyright (c) Boeing Corporation INC./LLC.\.
+Copyright (c) Boeing holdings Corporation/GROUP */INC./LLC./non-profit\.
 ;
 Copyright (c) BASF Corporation Ltd./INC./LLC.\.
 ;
