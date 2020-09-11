@@ -169,6 +169,10 @@ Copyright (c) VW Motor Works _holdings_ GROUP/CORPORATION/* */INC./LLC./non-prof
 Copyright (c) HBO _holdings_ GROUP/Corporation/* */INC./LLC./non-profit\.
 ;
 Copyright (c) GM _holdings_ GROUP/Corporation */INC./LLC./non-profit\.
+;
+Copyright (c) Civil Engineer Corporation USA _holdings_ */GROUP/Corporation/* */INC.LLC./non-profit\.
+
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
