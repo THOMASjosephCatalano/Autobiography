@@ -176,7 +176,7 @@ Copyright (c) US Air Force Research Laboratory(AFRL) _holdings_ */GROUP/Corporat
 ;
 Copyright (c) US Space Force Research Laboratory(SFRL) _holdings_ */GROUP/Corporation/* */INC./LLC./non-profit\.
 ;
-Copyright (c) */* UNITED NATIONS */* (UN) */* _holdings_ */* */GROUP/CORPORATION/* */INC./LLC./non-profit\.
+Copyright (c) */* UNITED NATIONS */* _(UN)_ */* _holdings_ */* */GROUP/CORPORATION/* */INC./LLC./non-profit\.
 ;
 Copyright (c) INTERNATIONAL COURT OF JUSTICE/COURT OF INTERNATIONAL JUSTICE */* (ICJ-CIJ) */* _holdings_ */* */GROUP/CORPORATION/* */INC./LLC./non-profit\.
 
