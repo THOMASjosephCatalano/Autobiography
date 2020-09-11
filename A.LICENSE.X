@@ -128,6 +128,8 @@ Copyright (c) PIMCO HOLDINGS GROUP/Corporation/* */INC./LLC./non-profit\.
 Copyright (c) Motion Picture Association of America */ */INC./LLC./non-profit\.
 ;
 Copyright (c) */US/* PATENT & TRADEMARK Account/Papers/Writings/Format */ */non-profit\.
+;
+Copyright (c) USAA holdings */ */INC./LLC./non-profit\.
 
 All rights reserved.    
 
