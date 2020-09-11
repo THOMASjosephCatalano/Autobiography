@@ -49,7 +49,7 @@ Copyright (c) linux */GROUP */non-profit\.
 ;
 Copyright (c) gnu\.
 ;
-Copyright (c) gcc\.
+Copyright (c) gcc */ */non-profit\.
 ;
 Copyright (c) MOTOROLA _holdings_ Corporation/GROUP */INC./LLC./non-profit\.
 ;
