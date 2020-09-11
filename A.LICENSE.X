@@ -161,7 +161,8 @@ Copyright (c) VC NEWS COMPANY _holdings_ */GROUP/CORPORATION */INC./LLC./non-pro
 Copyright (c) Daimler/Daimler-Benz/Benz/Mercedes-Benz/AMG _holdings_ */GROUP/CORPORATION/* */INC./LLC./non-profit\.
 ;
 Copyright (c) FIAT _holdings_ */GROUP/CORPORATION/* */INC./LLC./non-profit\.
-
+;
+Copyright (c) ASTON MARTIN COACH WORKS _holdings_ GROUP/CORPORATION */INC./LLC./non-profit\.
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
