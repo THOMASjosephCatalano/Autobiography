@@ -42,6 +42,8 @@ Copyright (c) "&|"\.
 ;
 Copyright (c) "&&"\.
 ;
+Copyright (c) "="\.
+;
 Copyright (c) """"\.
 ;
 Copyright (c) ","\.
