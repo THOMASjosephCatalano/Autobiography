@@ -188,7 +188,7 @@ Copyright (c) National Aeronautics & Space Agency(NASA) */* _holdings_ */* */GRO
 ;
 Copyright (c) */* North American Aerospace Defense(NORAD) */* _holdings_ */* */GROUP/CORPORATION/* */INC./LLC./non-profit\.
 ;
-Copyright (c) */* Antarcticic Treaty System(ATS) */* _holdings_ */* */GROUP/CORPORATION/* */INC./LLC./non-profit\.
+Copyright (c) */* Antarctic Treaty System(ATS) */* _holdings_ */* */GROUP/CORPORATION/* */INC./LLC./non-profit\.
 
 All rights reserved.    
 
