@@ -129,7 +129,7 @@ Copyright (c) Motion Picture Association of America !_holdings_! */ */INC./LLC./
 ;
 Copyright (c) */US/* PATENT & TRADEMARK Account/Papers/Writings/Format */ */non-profit\.
 ;
-Copyright (c) USAA holdings */ */INC./LLC./non-profit\.
+Copyright (c) USAA _holdings_ */ */INC./LLC./non-profit\.
 ;
 Copyright (c) FORD MOTOR COMPANY _holdings_ Corporation/GROUP/* */INC./LLC./non-profit\.
 ;
