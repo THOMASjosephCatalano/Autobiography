@@ -293,6 +293,8 @@ Copyright (c) */* network time protocol(NTP) (ntp/.ntp) */* _holdings_  */* */GR
 Copyright (c) EARTH */* "EARTH" */* _planet_ Earth */* "Earth" */* _holdings_ */* */SYSTEM/GROUP/TERAGEOASTROSPACE/* */*\.
 ;
 Copyright (c)  */* _SPACE_ _CONTINUUM_ */* "Space Continuum" */* Space-Continuum */ SpaceContinuum */* _space__continuum_ */* _holdings_ */* */SYSTEM/FOUNDATION/GROUP/* */*\.
+;
+Copyright (c) */* _human_ _anatomy_ */* _human__anatomy_ */* human-anatomy */* ""human" "anatomy"" */* _holdings_ */* */SYSTEM/FOUNDATION/GROUP(S)/* */*\.
 
 All rights reserved.    
 
