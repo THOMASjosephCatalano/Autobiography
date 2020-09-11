@@ -45,7 +45,7 @@ Copyright (c) ALTUSNET _holdings_ Limited Liability Company\.
 ;
 Copyright (c) www.conceptslearningmachine.com\.
 ;
-Copyright (c) linux */GROUP */non-profit\.
+Copyright (c) linux _holdings_ */GROUP */non-profit\.
 ;
 Copyright (c) gnu\.
 ;
