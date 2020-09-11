@@ -31,17 +31,17 @@ Copyright (c) github.com/ALTUSNETS\.
 ;
 Copyright (c) github.com/TheBitMarket\.
 ;
-Copyright (c) CLM ~ Concepts Learning Machine Limited Liability Company\.
+Copyright (c) CLM ~ Concepts Learning Machine _holdings_ Limited Liability Company\.
 ;
 Copyright (c) Catalano Ltd.\.
 ;
-Copyright (c) Catalano Concepts Limited Liability Company\.
+Copyright (c) Catalano Concepts _holdings_ Limited Liability Company\.
 ;
 Copyright (c) conceptslearningmachine\.
 ;
 Copyright (c) Catalano\.
 ;
-Copyright (c) ALTUSNET Limited Liability Company\.
+Copyright (c) ALTUSNET _holdings_ Limited Liability Company\.
 ;
 Copyright (c) www.conceptslearningmachine.com\.
 ;
