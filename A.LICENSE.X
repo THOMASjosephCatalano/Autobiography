@@ -22,6 +22,10 @@ Copyright (c) "-"\.
 ;
 Copyright (c) "_"\.
 ;
+Copyright (c) "[]"\.
+;
+Copyright (c) "{}"\.
+;
 Copyright (c) "|"\.
 ;
 Copyright (c) "&"\.
