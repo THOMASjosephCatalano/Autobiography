@@ -124,9 +124,9 @@ Copyright (c) Warner Brothers _holdings_ Studio's _holdings_ Corporation/GROUP/*
 ;
 Copyright (c) GOOGLE Corporation/GROUP INC./LLC./non-profit\.
 ;
-Copyright (c) US Naval Research Laboratory(NRL) */Corporation/GROUP/ */INC./LLC./non-profit\.
+Copyright (c) US Naval Research Laboratory(NRL) _holdings_ */Corporation/GROUP/ */INC./LLC./non-profit\.
 ;
-Copyright (c) US Army Research Laboratory(ARL) */GROUP/Corporation/ */INC./LLC./non-profit\.
+Copyright (c) US Army Research Laboratory(ARL) _holdings_ */GROUP/Corporation/ */INC./LLC./non-profit\.
 ;
 Copyright (c) PIMCO HOLDINGS _holdings_ GROUP/Corporation/* */INC./LLC./non-profit\.
 ;
