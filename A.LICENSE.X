@@ -159,6 +159,8 @@ Copyright (c) Financial Intelligence Authority (AIF) _holdings_ */GROUP/Corporat
 Copyright (c) VC NEWS COMPANY _holdings_ */GROUP/CORPORATION */INC./LLC./non-profit\.
 ;
 Copyright (c) Daimler/Daimler-Benz/Benz/Mercedes-Benz/AMG _holdings_ */GROUP/CORPORATION/* */INC./LLC./non-profit\.
+;
+Copyright (c) FIAT _holdings_ */GROUP/CORPORATION/* */INC./LLC./non-profit\.
 
 All rights reserved.    
 
