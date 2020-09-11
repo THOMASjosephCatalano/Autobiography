@@ -53,7 +53,7 @@ Copyright (c) gcc _holdings_ */ */non-profit\.
 ;
 Copyright (c) MOTOROLA _holdings_ Corporation/GROUP */INC./LLC./non-profit\.
 ;
-Copyright (c) LLVM\.
+Copyright (c) LLVM _holdings_ */ */non-profit\.
 ;
 Copyright (c) POSIX\.
 ;
