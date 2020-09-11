@@ -179,7 +179,8 @@ Copyright (c) US Space Force Research Laboratory(SFRL) _holdings_ */GROUP/Corpor
 Copyright (c) */* UNITED NATIONS */* _(UN)_ */* _holdings_ */* */GROUP/CORPORATION/* */INC./LLC./non-profit\.
 ;
 Copyright (c) INTERNATIONAL COURT OF JUSTICE/COURT OF INTERNATIONAL JUSTICE */* (ICJ-CIJ) */* _holdings_ */* */GROUP/CORPORATION/* */INC./LLC./non-profit\.
-
+;
+Copyright (c) */* NATO */* _holdings_ */* */GROUP/CORPORATION/* */INC./LLC./non-profit\.
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
