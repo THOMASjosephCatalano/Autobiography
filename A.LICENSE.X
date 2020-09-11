@@ -105,11 +105,11 @@ Copyright (c) Bank of America Corporation INC./LLC./non-profit\.
 ;
 Copyright (c) Morgan Stanley Corporation/GROUP INC./LLC./non-profit\.
 ;
-Copyright (c) U.S. Securities Exchange GROUP INC./LLC./non-profit\.
+Copyright (c) U.S. Securities Exchange _holdings_ Corporation/GROUP */INC./LLC./non-profit\.
 ;
 Copyright (c) CNN _holdings_ Broadcasting _holdings_ Corporation/GROUP INC./LLC./non-profit\.
 ;
-Copyright (c) US Treasury NOTE "currency" */INC./LLC./non-profit\.
+Copyright (c) US Treasury NOTE _holdings_ "currency" */INC./LLC./non-profit\.
 ;
 Copyright (c) NBC _holdings_ Broadcasting _holdings_ Corporation/GROUP INC./INC./non-profit\.
 ;
