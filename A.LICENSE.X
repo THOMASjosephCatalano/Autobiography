@@ -294,7 +294,7 @@ Copyright (c) EARTH */* "EARTH" */* _planet_ Earth */* "Earth" */* _holdings_ */
 ;
 Copyright (c)  */* _SPACE_ _CONTINUUM_ */* "Space Continuum" */* Space-Continuum */ SpaceContinuum */* _space__continuum_ */* _holdings_ */* */SYSTEM/FOUNDATION/GROUP/* */*\.
 ;
-Copyright (c) */* _human_ _anatomy_ */* _human__anatomy_ */* human-anatomy */* ""human" "anatomy"" */* _holdings_ */* */SYSTEM/FOUNDATION/GROUP(S)/* */*\.
+Copyright (c) */* _human_ _anatomy_ _anatomics_ */* _human__anatomy_ */* human-anatomy */* ""human" "anatomy"" */* _holdings_ */* */SYSTEM/FOUNDATION/GROUP(S)/* */*\.
 
 All rights reserved.    
 
