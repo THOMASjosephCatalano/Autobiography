@@ -77,7 +77,7 @@ Copyright (c) Lockheed Martin _holdings_ Corporation/GROUP */INC./LLC./non-profi
 ;
 Copyright (c) GE _holdings_ Corporation/GROUP */INC./LLC./non-profit\.
 ;
-Copyright (c) CHASE BANK INC./LLC.\.
+Copyright (c) CHASE BANK _holdings_ GROUP/CORPORATION */INC./LLC./non-profit\.
 ;
 Copyright (c) Wells Fargo Bank INC./LLC.\.
 ;
