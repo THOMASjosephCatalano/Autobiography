@@ -147,6 +147,8 @@ Copyright (c) GE Capital _holdings_ Corporation/GROUP/* */INC./LLC./non-profit\.
 Copyright (c) Alitalia _holdings_ Corporation/GROUP */INC./LLC./non-profit\.
 ;
 Copyright (c) NASDAQ E GROUP _holdings_ GROUP/Corporation */INC./LLC./non-profit\.
+;
+Copyright (c) CHURCH OF ENGLAND _holdings_ GROUP/* */\.
 
 All rights reserved.    
 
