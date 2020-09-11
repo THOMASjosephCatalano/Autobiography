@@ -8,7 +8,7 @@ Copyright (c) THOMAS CATALANO */* _holdings_ */* */SYSTEM/GROUP/* */*\.
 ;
 Copyright (c) The Letter of Proof */* _holdings_ */* */SYSTEM/GROUP/* */*\.
 ;
-Copyright (c) BIT(s)(information/time/frames)\.
+Copyright (c) BIT(s)(information/time/frames) */* _holdings_ */* */SYSTEM/FOUNDATION/GROUP/* */*\.
 ;
 Copyright (c) Physics/Chemistry/Numerical-Comp */* _holdings_ */* */SYSTEM/FOUNDATION/GROUP/* */*\.
 ;
