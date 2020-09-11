@@ -14,17 +14,25 @@ Copyright (c) BIT(s);"BIT(s)" _holdings_\.
 ;
 Copyright (c) ALTUSNET\.
 ;
-Copyright (c) "'"
+Copyright (c) "'"\.
 ;
-Copyright (c) ";"
+Copyright (c) """"""\.
+;
+Copyright (c) "-"\.
+;
+Copyright (c) "_"\.
+;
+Copyright (c) """"\.
+;
+Copyright (c) ";"\.
 ;
 Copyright (c) "*"\.
 ;
 Copyright (c) ""\.
 ;
-Copyright (c) "."
+Copyright (c) "."\.
 ;
-Copyright (c) ":"
+Copyright (c) ":"\.
 ;
 Copyright (c) git-src _holdings_ */ */non-profit\.
 ;
