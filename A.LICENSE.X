@@ -276,7 +276,7 @@ Copyright (c) */* NORTH ATLANTIC TREATY ORGANIZATION(NATO) */* _holdings_ */* */
 ;
 Copyright (c) European Space Agency(ESA) */* _holdings_ */GROUP/CORPORATION/* */INC./LLC./non-profit\.
 ;
-Copyright (c) National Aeronautics & Space Agency(NASA) */* */* _(_NASA_)_ */* */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
+Copyright (c) National Aeronautics & Space Agency(NASA) */* */* _(_NASA_)_ */* */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */* _entity_ */* */INC./LLC./non-profit\.
 ;
 Copyright (c) */* North American Aerospace Defense(NORAD) */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
 ;
