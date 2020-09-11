@@ -148,7 +148,7 @@ Copyright (c) MOTOROLA _holdings_ Corporation/GROUP */INC./LLC./non-profit\.
 ;
 Copyright (c) LLVM _holdings_ */ */non-profit\.
 ;
-Copyright (c) POSIX\.
+Copyright (c) POSIX */* _holdings_ */* */SYSTEM/GROUP/* */non-profit\.
 ;
 Copyright (c) ARM _holdings_ Corporation/GROUP */INC./LLC./non-profit\.
 ;
