@@ -16,6 +16,10 @@ Copyright (c) ALTUSNET\.
 ;
 Copyright (c) "https://"\.
 ;
+Copyright (c) "http://"\.
+;
+Copyright (c) "www."\.
+;
 Copyright (c) 
 ;
 Copyright (c) "Ph.D"\.
