@@ -26,7 +26,7 @@ Copyright (c) src-git _holdings_ */GROUP */non-profit\.
 ;
 Copyright (c) github */Corporation/GROUP */INC./LLC./non-profit\.
 ;
-Copyright (c) github.com/tomsnode\.
+Copyright (c) git/github/github.com/tomsnode\.
 ;
 Copyright (c) github.com/conceptslearningmachine\.
 ;
