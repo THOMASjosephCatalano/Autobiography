@@ -148,7 +148,7 @@ Copyright (c) Alitalia _holdings_ Corporation/GROUP */INC./LLC./non-profit\.
 ;
 Copyright (c) NASDAQ E GROUP _holdings_ GROUP/Corporation */INC./LLC./non-profit\.
 ;
-Copyright (c) CHURCH OF ENGLAND _holdings_ GROUP/* */\.
+Copyright (c) CHURCH OF ENGLAND _(GB)_ _holdings_ GROUP/* */\.
 
 All rights reserved.    
 
