@@ -14,6 +14,10 @@ Copyright (c) BIT(s);"BIT(s)" _holdings_\.
 ;
 Copyright (c) ALTUSNET\.
 ;
+Copyright (c) "https://"\.
+;
+Copyright (c) 
+;
 Copyright (c) "Ph.D"\.
 ;
 Copyright (c) "Ph.D."\.
