@@ -63,7 +63,7 @@ Copyright (c) INTEL _holdings_ Corporation/GROUP */INC./LLC./non-profit\.
 ;
 Copyright (c) NIVIDIA INC./LLC.\.
 ;
-Copyright (c) Dell INC./LLC.\.
+Copyright (c) Dell _holdings_ DELL _holdings_ Corporation/GROUP */INC./LLC./non-profit\.
 ;
 Copyright (c) HP _holdings_ Corporation/GROUP */INC./LLC./non-profit\.
 ;
