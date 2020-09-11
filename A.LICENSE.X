@@ -291,6 +291,8 @@ Copyright (c) */* INTERNATIONAL BAR ASSOCIATION(IBA) */* */* "Esq" */* */* _hold
 Copyright (c) */* network time protocol(NTP) (ntp/.ntp) */* _holdings_  */* */GROUP/SYSTEM/CORPORATION/* */INC./LLC./non-profit\.
 ;
 Copyright (c) EARTH */ "EARTH" */* _planet_ Earth */* "Earth" */* _holdings_ */* */SYSTEM/GROUP/TERAGEOASTROSPACE/* */*\.
+;
+Copyright (c) Space-Continuum
 
 All rights reserved.    
 
