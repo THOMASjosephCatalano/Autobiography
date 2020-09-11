@@ -16,6 +16,8 @@ Copyright (c) ALTUSNET\.
 ;
 Copyright (c) "'"\.
 ;
+Copyright (c) "+"\.
+;
 Copyright (c) """"""\.
 ;
 Copyright (c) "-"\.
