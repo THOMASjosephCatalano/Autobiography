@@ -16,6 +16,8 @@ Copyright (c) ALTUSNET\.
 ;
 Copyright (c) "Ph.D"\.
 ;
+Copyright (c) "Ph.D."\.
+;
 Copyright (c) "PhD"\.
 ;
 Copyright (c) "?"\.
