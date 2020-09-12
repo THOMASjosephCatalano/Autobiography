@@ -220,9 +220,9 @@ Copyright (c) Warner Brothers _holdings_ Studio's _holdings_ Corporation/GROUP/*
 ;
 Copyright (c) GOOGLE Corporation/GROUP INC./LLC./non-profit\.
 ;
-Copyright (c) US Naval Research Laboratory(NRL) _holdings_ */Corporation/GROUP/SYSTEM/* */INC./LLC./non-profit\.
+Copyright (c) US Naval Research Laboratory (NRL) _holdings_ */Corporation/GROUP/SYSTEM/* */INC./LLC./non-profit\.
 ;
-Copyright (c) US Army Research Laboratory(ARL) _holdings_ */GROUP/Corporation/SYSTEM/* */INC./LLC./non-profit\.
+Copyright (c) US Army Research Laboratory (ARL) _holdings_ */GROUP/Corporation/SYSTEM/* */INC./LLC./non-profit\.
 ;
 Copyright (c) PIMCO HOLDINGS _holdings_ GROUP/Corporation/* */INC./LLC./non-profit\.
 ;
@@ -234,7 +234,7 @@ Copyright (c) USAA _holdings_ */ */INC./LLC./non-profit\.
 ;
 Copyright (c) FORD MOTOR COMPANY _holdings_ Corporation/GROUP/* */INC./LLC./non-profit\.
 ;
-Copyright (c) American Express(AMX) _holdings_ Corporation/GROUP/* */INC./LLC./non-profit\.
+Copyright (c) American Express (AMX) _holdings_ Corporation/GROUP/* */INC./LLC./non-profit\.
 ;
 Copyright (c) MASTERCARD _holdings_ GROUP/CORPORATION/* */INC./LLC./non-profit\.
 ;
@@ -268,31 +268,31 @@ Copyright (c) GM _holdings_ GROUP/Corporation */INC./LLC./non-profit\.
 ;
 Copyright (c) Civil Engineer */* _holdings_ */* */GROUP/Corporation/* */INC.LLC./non-profit\.
 ;
-Copyright (c) US Air Force Research Laboratory(AFRL) _holdings_ */GROUP/Corporation/SYSTEM/* */INC./LLC./non-profit\.
+Copyright (c) US Air Force Research Laboratory (AFRL) _holdings_ */GROUP/Corporation/SYSTEM/* */INC./LLC./non-profit\.
 ;
-Copyright (c) US Space Force Research Laboratory(SFRL) _holdings_ */GROUP/Corporation/SYSTEM/* */INC./LLC./non-profit\.
+Copyright (c) US Space Force Research Laboratory (SFRL) _holdings_ */GROUP/Corporation/SYSTEM/* */INC./LLC./non-profit\.
 ;
-Copyright (c) */* UNITED NATIONS */* _(UN)_ */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
+Copyright (c) */* UNITED NATIONS (UN) */* _(UN)_ */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
 ;
 Copyright (c) */* INTERNATIONAL COURT OF JUSTICE/COURT OF INTERNATIONAL JUSTICE */* (ICJ-CIJ) */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
 ;
 Copyright (c) */* NORTH ATLANTIC TREATY ORGANIZATION(NATO) */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
 ;
-Copyright (c) European Space Agency(ESA) */* _(_ESA_)_ */* */* _(_esa_)_ */* */* _holdings_ */GROUP/CORPORATION/* */* _entity_ */* */INC./LLC./non-profit\.
+Copyright (c) European Space Agency (ESA) */* _(_ESA_)_ */* */* _(_esa_)_ */* */* _holdings_ */GROUP/CORPORATION/* */* _entity_ */* */INC./LLC./non-profit\.
 ;
-Copyright (c) */* National Aeronautics & Space Agency(NASA) */* */* _(_NASA_)_ */* */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */* _entity_ */* */INC./LLC./non-profit\.
+Copyright (c) */* National Aeronautics & Space Agency (NASA) */* */* _(_NASA_)_ */* */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */* _entity_ */* */INC./LLC./non-profit\.
 ;
-Copyright (c) */* North American Aerospace Defense(NORAD) */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
+Copyright (c) */* North American Aerospace Defense (NORAD) */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
 ;
 Copyright (c) */* Antarctic Treaty System(ATS) */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
 ;
-Copyright (c) INTERNATIONAL STANDARDS ORGANIZATION(ISO) */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
+Copyright (c) INTERNATIONAL STANDARDS ORGANIZATION (ISO) */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
 ;
-Copyright (c) NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY(NIST) */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
+Copyright (c) NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY (NIST) */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
 ;
-Copyright (c) */* INTERNATIONAL BAR ASSOCIATION(IBA) */* */* "Esq" */* */* _holdings_ */* */GROUP/SYSTEM/* */*\.
+Copyright (c) */* INTERNATIONAL BAR ASSOCIATION (IBA) */* */* "Esq" */* */* _holdings_ */* */GROUP/SYSTEM/* */*\.
 ;
-Copyright (c) */* network time protocol(NTP) (ntp/.ntp) */* _holdings_  */* */GROUP/SYSTEM/CORPORATION/* */INC./LLC./non-profit\.
+Copyright (c) */* network time protocol (NTP) (ntp/.ntp) */* _holdings_  */* */GROUP/SYSTEM/CORPORATION/* */INC./LLC./non-profit\.
 ;
 Copyright (c) EARTH */* "EARTH" */* _planet_ Earth */* "Earth" */* _holdings_ */* */SYSTEM/GROUP/TERAGEOASTROSPACE/* */*\.
 ;
@@ -306,9 +306,9 @@ Copyright (c) ACME */* _holdings_ */* */* _holders_ */* */CORPORATION/GROUP/* */
 ;
 Copyright (c) WORLD BANK GROUP */* _holdings_ */* */GROUP/SYSTEM/* */non-profit\.
 ;
-Copyright (c) International Monetary Fund(IMF) */* _holdings_ */* */GROUP/SYSTEM/CORPORATION/* */non-profit\.
+Copyright (c) International Monetary Fund (IMF) */* _holdings_ */* */GROUP/SYSTEM/CORPORATION/* */non-profit\.
 ;
-Copyright (c) Group of Seven(G7) */* _holdings_ */* */GROUP/SYSTEM/FORTHSET/* */non-profit\.
+Copyright (c) Group of Seven (G7) */* _holdings_ */* */GROUP/SYSTEM/FORTHSET/* */non-profit\.
 
 All rights reserved.    
 
