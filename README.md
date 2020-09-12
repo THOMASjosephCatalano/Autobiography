@@ -73,3 +73,5 @@ grammar-word-transtitional/statment/transitional:recacogogainanition/(adj-verb(d
 grammar-word-transtitional/statment/transitional:collectaxatatorvasulator/(adj-verb(d)).
 
 ;etcetera so forth;adj-verb grammitization-words.
+
+;etcetera so forth;etc so forth\.
