@@ -2,13 +2,13 @@ MIT License
 
 Copyright (c) THOMAS CATALANO
 ;
-Copyright (c) */* THOMAS JOSEPH CATALANO(135-74-4812;DOB:1981-02-05) */* */* _holdings_ */* *GROUP/SYSTEM/* */*\.
+Copyright (c) */* THOMAS JOSEPH CATALANO(135-74-4812;DOB:1981-02-05) */* */* _holdings_ */* *GROUP/SYSTEM/* */\.
 ;
-Copyright (c) */* THOMAS CATALANO */* _holdings_ */* */SYSTEM/GROUP/* */*\.
+Copyright (c) */* THOMAS CATALANO */* _holdings_ */* */SYSTEM/GROUP/* */\.
 ;
-Copyright (c) The Letter of Proof */* _holdings_ */* */SYSTEM/GROUP/* */*\.
+Copyright (c) The Letter of Proof */* _holdings_ */* */SYSTEM/GROUP/* */\.
 ;
-Copyright (c) BIT(s);"BIT(s)"(information/time/frames) */* _holdings_ */* */SYSTEM/FOUNDATION/GROUP/* */*\.
+Copyright (c) BIT(s);"BIT(s)"(information/time/frames) */* _holdings_ */* */SYSTEM/FOUNDATION/GROUP/* */\.
 ;
 Copyright (c) BIT(s);"BIT(s) "LICENSE""\.
 ;
@@ -18,7 +18,7 @@ Copyright (c) BIT(s);"BIT(s)" _holdings_\.
 ;
 Copyright (c) ALTUSNET\.
 ;
-Copyright (c) "cryptocurrency" */* cryptocurrency((blockchain;algorithm)&|"like") */* */* _holdings_ */* */*\.
+Copyright (c) "cryptocurrency" */* cryptocurrency((blockchain;algorithm)&|"like") */* */* _holdings_ */* */\.
 ;
 Copyright (c) "https://"\.
 ;
