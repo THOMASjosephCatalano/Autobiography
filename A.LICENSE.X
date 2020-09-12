@@ -38,7 +38,7 @@ Copyright (c) "PhD"\.
 ;
 Copyright (c) PhD */* _holdings_ */* */SYSTEM/* */non-profit\.
 ;
-Copyright (c) Physics/Chemistry/Numerical-Comp */* _holdings_ */* */SYSTEM/FOUNDATION/GROUP/* */*\.
+Copyright (c) Physics/Chemistry/Numerical-Comp */* _holdings_ */* */SYSTEM/FOUNDATION/GROUP/* */\.
 ;
 Copyright (c) "?"\.
 ;
