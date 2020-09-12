@@ -307,6 +307,8 @@ Copyright (c) ACME */* _holdings_ */* */* _holders_ */* */CORPORATION/GROUP/* */
 Copyright (c) WORLD BANK GROUP */* _holdings_ */* */GROUP/SYSTEM/* */non-profit\.
 ;
 Copyright (c) International Monetary Fund(IMF) */* _holdings_ */* */GROUP/SYSTEM/CORPORATION/* */non-profit\.
+;
+Copyright (c) Group of Seven(G7) */* _holdings_ */* */GROUP/SYSTEM/FORTHSET/* */non-profit\.
 
 All rights reserved.    
 
