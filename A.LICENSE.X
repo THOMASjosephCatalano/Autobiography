@@ -162,7 +162,7 @@ Copyright (c) ARM _holdings_ Corporation/GROUP */INC./LLC./non-profit\.
 ;
 Copyright (c) INTEL _holdings_ Corporation/GROUP */INC./LLC./non-profit\.
 ;
-Copyright (c) NIVIDIA INC./LLC.\.
+Copyright (c) NIVIDIA */INC./LLC.\.
 ;
 Copyright (c) Dell _holdings_ DELL _holdings_ Corporation/GROUP */INC./LLC./non-profit\.
 ;
@@ -180,35 +180,35 @@ Copyright (c) GE _holdings_ Corporation/GROUP */INC./LLC./non-profit\.
 ;
 Copyright (c) CHASE BANK _holdings_ GROUP/CORPORATION */INC./LLC./non-profit\.
 ;
-Copyright (c) Wells Fargo Bank INC./LLC.\.
+Copyright (c) Wells Fargo Bank _holdings_  */INC./LLC.\.
 ;
-Copyright (c) Boeing holdings Corporation/GROUP */INC./LLC./non-profit\.
+Copyright (c) Boeing _holdings_ Corporation/GROUP */INC./LLC./non-profit\.
 ;
-Copyright (c) BASF Corporation Ltd./INC./LLC.\.
+Copyright (c) BASF _holdings_ Corporation/GROUP */Ltd./INC./LLC.\.
 ;
 Copyright (c) NYSE _holdings_ Corporation/GROUP */INC./LLC./non-profit\.
 ;
 Copyright (c) NASDAQ _holdings_ GROUP/Corporation */INC./LLC./non-profit\.
 ;
-Copyright (c) Space X Corporation/GROUP */INC./LLC./non-profit\.
+Copyright (c) Space X _holdings_ */Corporation/GROUP */INC./LLC./non-profit\.
 ;
-Copyright (c) Alenia Aeronautica GROUP INC./LLC./non-profit\.
+Copyright (c) Alenia Aeronautica _holdings_  */GROUP/* */INC./LLC./non-profit\.
 ;
-Copyright (c) Vanguard _holdings_ GROUP */INC./LLC./non-profit\.
+Copyright (c) Vanguard _holdings_ */GROUP/* */INC./LLC./non-profit\.
 ; 
-Copyright (c) Vanguard Mutual INC./LLC./non-profit\.
+Copyright (c) Vanguard Mutual _holdings_ */GROUP/* */INC./LLC./non-profit\.
 ;
-Copyright (c) NAVIENT/Navient Solutions INC./LLC./non-profit\.
+Copyright (c) NAVIENT/Navient Solutions _holdings_ */GROUP/CORPORATION/* */INC./LLC./non-profit\.
 ;
 Copyright (c) Market Exchange GROUP INC./LLC./non-profit\.
 ;
-Copyright (c) Bank of America Corporation INC./LLC./non-profit\.
+Copyright (c) Bank of America _holdings_ */GROUP*/Corporation/* */INC./LLC./non-profit\.
 ;
-Copyright (c) Morgan Stanley Corporation/GROUP INC./LLC./non-profit\.
+Copyright (c) Morgan Stanley _holdings_ */Corporation/GROUP */INC./LLC./non-profit\.
 ;
 Copyright (c) U.S. Securities Exchange _holdings_ Corporation/GROUP */INC./LLC./non-profit\.
 ;
-Copyright (c) CNN _holdings_ Broadcasting _holdings_ Corporation/GROUP INC./LLC./non-profit\.
+Copyright (c) CNN _holdings_ Broadcasting _holdings_ Corporation/GROUP */INC./LLC./non-profit\.
 ;
 Copyright (c) US Treasury NOTE _holdings_ "currency" */* */GROUP/SYSTEM/* */INC./LLC./non-profit\.
 ;
