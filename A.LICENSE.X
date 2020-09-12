@@ -276,7 +276,7 @@ Copyright (c) */* INTERNATIONAL COURT OF JUSTICE/COURT OF INTERNATIONAL JUSTICE 
 ;
 Copyright (c) */* NORTH ATLANTIC TREATY ORGANIZATION(NATO) */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
 ;
-Copyright (c) European Space Agency(ESA) */* _holdings_ */GROUP/CORPORATION/* */* _entity_ */* */INC./LLC./non-profit\.
+Copyright (c) European Space Agency(ESA) */* _(_ESA_)_ */* */* _holdings_ */GROUP/CORPORATION/* */* _entity_ */* */INC./LLC./non-profit\.
 ;
 Copyright (c) */* National Aeronautics & Space Agency(NASA) */* */* _(_NASA_)_ */* */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */* _entity_ */* */INC./LLC./non-profit\.
 ;
