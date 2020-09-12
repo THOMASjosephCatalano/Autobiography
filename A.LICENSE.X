@@ -12,8 +12,6 @@ Copyright (c) BIT(s);"BIT(s)"(information/time/frames) */* _holdings_ */* */SYST
 ;
 Copyright (c) BIT(s);"BIT(s) "LICENSE""\.
 ;
-Copyright (c) Physics/Chemistry/Numerical-Comp */* _holdings_ */* */SYSTEM/FOUNDATION/GROUP/* */*\.
-;
 Copyright (c) BIT(s) _holdings_
 ;
 Copyright (c) BIT(s);"BIT(s)" _holdings_\.
@@ -39,6 +37,8 @@ Copyright (c) "Ph.D."\.
 Copyright (c) "PhD"\.
 ;
 Copyright (c) PhD */* _holdings_ */* */SYSTEM/* */non-profit\.
+;
+Copyright (c) Physics/Chemistry/Numerical-Comp */* _holdings_ */* */SYSTEM/FOUNDATION/GROUP/* */*\.
 ;
 Copyright (c) "?"\.
 ;
