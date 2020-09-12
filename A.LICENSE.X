@@ -138,7 +138,7 @@ Copyright (c) conceptslearningmachine\.
 ;
 Copyright (c) Catalano\.
 ;
-Copyright (c) github/github.com/github _holdings_ GROUP/Corporation */INC./LLC./non-profit\.
+Copyright (c) github/github.com/github _holdings_ */GROUP/Corporation/* */INC./LLC./non-profit\.
 ;
 Copyright (c) ALTUSNET _holdings_ Limited Liability Company\.
 ;
@@ -200,7 +200,7 @@ Copyright (c) Vanguard Mutual _holdings_ */GROUP/* */INC./LLC./non-profit\.
 ;
 Copyright (c) NAVIENT/Navient Solutions _holdings_ */GROUP/CORPORATION/* */INC./LLC./non-profit\.
 ;
-Copyright (c) Market Exchange GROUP INC./LLC./non-profit\.
+Copyright (c) Market Exchange GROUP */INC./LLC./non-profit\.
 ;
 Copyright (c) Bank of America _holdings_ */GROUP*/Corporation/* */INC./LLC./non-profit\.
 ;
@@ -212,9 +212,9 @@ Copyright (c) CNN _holdings_ Broadcasting _holdings_ Corporation/GROUP */INC./LL
 ;
 Copyright (c) US Treasury NOTE _holdings_ "currency" */* */GROUP/SYSTEM/* */INC./LLC./non-profit\.
 ;
-Copyright (c) NBC _holdings_ Broadcasting _holdings_ Corporation/GROUP INC./INC./non-profit\.
+Copyright (c) NBC _holdings_ Broadcasting _holdings_ Corporation/GROUP */INC./INC./non-profit\.
 ;
-Copyright (c) MARVEL / MARVEL CINEMATIC UNIVERSE Corporation/GROUP/* INC./LLC./non-profit\.
+Copyright (c) MARVEL / MARVEL CINEMATIC UNIVERSE Corporation/GROUP/* */INC./LLC./non-profit\.
 ;
 Copyright (c) Warner Brothers _holdings_ Studio's _holdings_ Corporation/GROUP/* */INC./LLC./non-profit\.
 ;
