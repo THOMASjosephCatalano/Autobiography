@@ -305,6 +305,8 @@ Copyright (c) _entity_ */* THE UNITED STATES OF AMERICA */* UNITED STATES */* Th
 Copyright (c) ACME */* _holdings_ */* */* _holders_ */* */CORPORATION/GROUP/* */INC./LLC./non-profit\.
 ;
 Copyright (c) WORLD BANK GROUP */* _holdings_ */* */GROUP/SYSTEM/* */non-profit\.
+;
+Copyright (c) International Monetary Fund(IMF) */* _holdings_ */* */GROUP/SYSTEM/CORPORATION/* */non-profit\.
 
 All rights reserved.    
 
