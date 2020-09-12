@@ -296,9 +296,9 @@ Copyright (c) */* network time protocol (NTP) (ntp/.ntp) */* _holdings_  */* */G
 ;
 Copyright (c) EARTH */* "EARTH" */* _planet_ Earth */* "Earth" */* _holdings_ */* */SYSTEM/GROUP/TERAGEOASTROSPACE/* */*\.
 ;
-Copyright (c)  */* _SPACE_ _CONTINUUM_ */* "Space Continuum" */* Space-Continuum */ SpaceContinuum */* _space__continuum_ */* _holdings_ */* */SYSTEM/FOUNDATION/GROUP/* */*\.
+Copyright (c)  */* _SPACE_ _CONTINUUM_ */* "Space Continuum" */* Space-Continuum */ SpaceContinuum */* _space__continuum_ */* _holdings_ */* */SYSTEM/FOUNDATION/GROUP/* */\.
 ;
-Copyright (c) */* _human_ _anatomy_ _anatomics_ */* _human__anatomy_ */* human-anatomy */* ""human" "anatomy"" */* _holdings_ */* */SYSTEM/FOUNDATION/GROUP(S)/* */*\.
+Copyright (c) */* _human_ _anatomy_ _anatomics_ */* _human__anatomy_ */* human-anatomy */* ""human" "anatomy"" */* _holdings_ */* */SYSTEM/FOUNDATION/GROUP(S)/* */\.
 ;
 Copyright (c) _entity_ */* THE UNITED STATES OF AMERICA */* UNITED STATES */* TheUnitedStatesOFAmerica */* */* _(_USA_)_ */* */* _(_US_)_ */* */* _(_U.S.A_)_ */* */ _(_U.S._)_ */* /* "telecom_country-code;US:(+1)\."  */* "The United States of America" */* */* United States */* */* _holdings_ */* */* _entity_ */* *STATE/COUNTRY//SYSTEM/GROUP/FORTHRIGHT/* _entity_ */\.
 ;
