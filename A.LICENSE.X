@@ -264,7 +264,7 @@ Copyright (c) HBO _holdings_ GROUP/Corporation/* */INC./LLC./non-profit\.
 ;
 Copyright (c) GM _holdings_ GROUP/Corporation */INC./LLC./non-profit\.
 ;
-Copyright (c) Civil Engineer Corp _holdings_ */GROUP/Corporation/* */INC.LLC./non-profit\.
+Copyright (c) Civil Engineer */* _holdings_ */* */GROUP/Corporation/* */INC.LLC./non-profit\.
 ;
 Copyright (c) US Air Force Research Laboratory(AFRL) _holdings_ */GROUP/Corporation/SYSTEM/* */INC./LLC./non-profit\.
 ;
