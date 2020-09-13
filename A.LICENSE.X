@@ -14,8 +14,7 @@ Copyright (c) ;transaction(s)/transactionary serfraction(s) require(s) bartertut
               proxing space-time(past(s), present(s) &| future(s))"\.
 
 Copyright (c) ;BIT(s)-mater-material-mass-structure(s)'s;"BIT(s)-mater-material-mass-structure(s)'s"\.
-
-
+;
 Copyright (c) ;"License-FORMAT_LEGAL-ACQUISITION-EQUES";this "license" "inclusive":/""Copyright (c)" _"ENTITY"_ "-" _"BACK"_ "-" _"SUB-FIELD"_ "-" _-"BACK"_ "-" _"LEGAL"_ "-" "_"_/_"_"\(.)",(*/* = "continuous"/"pre-post"; merandum(s)'s, etc so forth, not required preposit of _entity) sefor ex.)""License"-"FORMAT"_LEGAL-ACQUISITION-EQUES")\.
 ;
 Copyright (c) ;"THOMAS CATALANO"
