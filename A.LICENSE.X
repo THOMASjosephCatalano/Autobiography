@@ -130,7 +130,7 @@ Copyright (c) git/github/github.com/TheBitMarket */* _holdings */* */* */\.
 ;
 Copyright (c) CLM ~ Concepts Learning Machine */* _holdings_ */* */Limited Liability Company*/ */\.
 ;
-Copyright (c) Catalano Ltd.\.
+Copyright (c) Catalano Ltd. */* _holdings_ */* */\.
 ;
 Copyright (c) ALTUSNET */* _holdings_ */* */Limited Liability Company/* */\.
 ;
