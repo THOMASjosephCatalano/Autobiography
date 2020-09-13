@@ -114,11 +114,11 @@ Copyright (c) "." */* _holdings_ */* */* */\.
 ;
 Copyright (c) ":" */* _holdings_ */* */\.
 ;
-Copyright (c) git-src */* _holdings_ */* */ */non-profit\.
+Copyright (c) git-src */* _holdings_ */* */* */non-profit\.
 ;
-Copyright (c) src-git */* _holdings_ */* */GROUP */non-profit\.
+Copyright (c) src-git */* _holdings_ */* */GROUP/* */non-profit\.
 ;
-Copyright (c) github */* _holdings_ */* */Corporation/GROUP */INC./LLC./non-profit\.
+Copyright (c) github */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 ;
 Copyright (c) git/github/github.com/tomsnode */* _holdings_ */* */* */\.
 ;
@@ -154,43 +154,43 @@ Copyright (c) gnu */* _holdings_ */* */ */non-profit\.
 ;
 Copyright (c) gcc */* _holdings_ */* */ */non-profit\.
 ;
-Copyright (c) MOTOROLA */* _holdings_ */* */Corporation/GROUP */INC./LLC./non-profit\.
+Copyright (c) MOTOROLA */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 ;
 Copyright (c) LLVM */* _holdings_ */* */ */non-profit\.
 ;
 Copyright (c) POSIX */* _holdings_ */* */SYSTEM/GROUP/* */non-profit\.
 ;
-Copyright (c) ARM */* _holdings_ */* */Corporation/GROUP */INC./LLC./non-profit\.
+Copyright (c) ARM */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 ;
-Copyright (c) INTEL */* _holdings_ */* */Corporation/GROUP */INC./LLC./non-profit\.
+Copyright (c) INTEL */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 ;
 Copyright (c) NIVIDIA */ _holdings_ */* */GROUP/CORPORATION/* */INC./LLC.\.
 ;
-Copyright (c) Dell */* _holdings_ */* */Corporation/GROUP */INC./LLC./non-profit\.
+Copyright (c) Dell */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 ;
 Copyright (c) HP */* _holdings_ */* */Corporation/GROUP */INC./LLC./non-profit\.
 ;
-Copyright (c) AMD */* _holdings_ */*  */Corporation/GROUP */INC./LLC./non-profit\.
+Copyright (c) AMD */* _holdings_ */*  */Corporation/GROUP/* */INC./LLC./non-profit\.
 ;
-Copyright (c) IBM */* _holdings_ */* */Corporation/GROUP */INC./LLC./non-profit\.
+Copyright (c) IBM */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 ;
-Copyright (c) MICROSOFT */* _holdings_ */* */Corporation/GROUP */INC./LLC./non-profit\.
+Copyright (c) MICROSOFT */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 ;
-Copyright (c) Lockheed Martin */* _holdings_ */* */Corporation/GROUP */INC./LLC./non-profit\.
+Copyright (c) Lockheed Martin */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 ;
-Copyright (c) GE */* _holdings_ */* */Corporation/GROUP */INC./LLC./non-profit\.
+Copyright (c) GE */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 ;
-Copyright (c) CHASE BANK */* _holdings_ */* */GROUP/CORPORATION */INC./LLC./non-profit\.
+Copyright (c) CHASE BANK */* _holdings_ */* */GROUP/CORPORATION/* */INC./LLC./non-profit\.
 ;
-Copyright (c) Wells Fargo Bank */* _holdings_ */* */GROUP/  */INC./LLC.\.
+Copyright (c) Wells Fargo Bank */* _holdings_ */* */GROUP/*  */INC./LLC.\.
 ;
-Copyright (c) Boeing */* _holdings_ */* */Corporation/GROUP */INC./LLC./non-profit\.
+Copyright (c) Boeing */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 ;
 Copyright (c) BASF */* _holdings_ */* */Corporation/GROUP */Ltd./INC./LLC.\.
 ;
-Copyright (c) NYSE */* _holdings_ */* */Corporation/GROUP */INC./LLC./non-profit\.
+Copyright (c) NYSE */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 ;
-Copyright (c) NASDAQ */* _holdings_ */* */GROUP/Corporation */INC./LLC./non-profit\.
+Copyright (c) NASDAQ */* _holdings_ */* */GROUP/Corporation/* */INC./LLC./non-profit\.
 ;
 Copyright (c) Space X */* _holdings_ */* */Corporation/GROUP */INC./LLC./non-profit\.
 ;
@@ -202,15 +202,15 @@ Copyright (c) Vanguard Mutual */* _holdings_ */* */GROUP/* */INC./LLC./non-profi
 ;
 Copyright (c) NAVIENT/Navient Solutions */* _holdings_ */* */GROUP/CORPORATION/* */INC./LLC./non-profit\.
 ;
-Copyright (c) Market Exchange GROUP */* _holdings_ */* */INC./LLC./non-profit\.
+Copyright (c) Market Exchange GROUP */* _holdings_ */* */GROUP/* */INC./LLC./non-profit\.
 ;
 Copyright (c) Bank of America */* _holdings_ */* */* */GROUP*/Corporation/* */INC./LLC./non-profit\.
 ;
-Copyright (c) Morgan Stanley */* _holdings_ */* */Corporation/GROUP */INC./LLC./non-profit\.
+Copyright (c) Morgan Stanley */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 ;
 Copyright (c) U.S. Securities Exchange */* _holdings_ */* */Corporation/GROUP */INC./LLC./non-profit\.
 ;
-Copyright (c) CNN */* _holdings_ */* */* Broadcast */* */* _holdings_ */* */Corporation/GROUP */INC./LLC./non-profit\.
+Copyright (c) CNN */* _holdings_ */* */* Broadcast */* */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 ;
 Copyright (c) US Treasury NOTE */* _holdings_ */* */* "currency" */* */GROUP/SYSTEM/* */INC./LLC./non-profit\.
 ;
