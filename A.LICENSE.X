@@ -1,5 +1,7 @@
 MIT License
 
+Copyright (c) ;LICENSE-FORMAT_LEGAL-ACQUISITION-EQUESTRIAN//""Copyright (c)" _"ENTITY"_ "-" _"BACK"_ "-" _"SUB-FIELD"_ "-" _-"BACK"_ "-" _"LEGAL"_ "-" "_"_/_"_"\(.)",(*/* = "continuous"/"pre-post"; merandum(s)'s, etc so forth, not required preposit of _entity, by ex.)\.
+;
 Copyright (c) THOMAS CATALANO
 ;
 Copyright (c) */* THOMAS JOSEPH CATALANO(135-74-4812;DOB:1981-02-05) */* */* _holdings_ */* *GROUP/SYSTEM/* */\.
