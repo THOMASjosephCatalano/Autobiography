@@ -22,7 +22,14 @@ Copyright (c) ;"Trademark"
 ;
 Copyright (c) ;"©"
 ;
-Copyright (c) ;"0-9"
+Copyright (c) ;"~0~9~"
+;
+Copyright (c) ;"0"
+;
+Copyright (c) ;"1"
+;
+Copyright (c) ;"2"
+
 ;
 Copyright (c) ;"$"
 ;
