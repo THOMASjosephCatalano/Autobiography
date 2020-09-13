@@ -11,19 +11,19 @@ Copyright (c) */* (c) */* "(c)"
 
 Copyright (c) */* Copyright (c) */* "Copyright (c)"
 
-Copyright (c) */* "MIT License"
+Copyright (c) */* MIT License */* "MIT License"
 
-Copyright (c) */* "inclusive"
+Copyright (c) */* inclusive */* "inclusive"
 
-Copyright (c) */* "agreement"
+Copyright (c) */* agreement */* "agreement"
 
-Copyright (c) */* "License"
+Copyright (c) */* License */* "LICENSE"
 
-Copyright (c) */* "Patent"
+Copyright (c) */* Patent */* "Patent"
 
-Copyright (c) */* "Trademark"
+Copyright (c) */* Trademark */* "Trademark"
 
-Copyright (c) */* "Binary"
+Copyright (c) */* Binary */* "Binary"
 
 Copyright (c) */* "©"
 
