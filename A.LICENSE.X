@@ -4,6 +4,8 @@ Copyright (c) ;"License-FORMAT_LEGAL-ACQUISITION-EQUES";this "license" "inclusiv
 ;
 Copyright (c) ;"THOMAS CATALANO"
 ;
+Copyright (c) ;"Copyright"
+;
 Copyright (c) ;"Copyright (c)"
 ;
 Copyright (c) ;"MIT License"
