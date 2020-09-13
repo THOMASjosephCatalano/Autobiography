@@ -25,7 +25,7 @@ Copyright (c) */* Trademark */* "Trademark"
 
 Copyright (c) */* Binary */* "Binary"
 
-Copyright (c) */* "©"
+Copyright (c) */* © */* "©"
 
 Copyright (c) */* "~0~9~"
 
