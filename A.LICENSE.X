@@ -333,6 +333,8 @@ Copyright (c) The International Olympic Committee (IOC) (CIO) (NOC) */ _holdings
 Copyright (c) TeamUSA (USOC) */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
 ;
 Copyright (c) America Broadcasting Company (ABC) */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
+;
+Copyright (c) Scudaria Ferrari */* Ferrari */* */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
 
 All rights reserved.    
 
