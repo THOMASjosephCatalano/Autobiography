@@ -188,33 +188,33 @@ Copyright (c) */* Wells Fargo Bank */* _holdings_ */* */GROUP/*  */INC./LLC.\.
 ;
 Copyright (c) */* Boeing */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 ;
-Copyright (c) BASF */* _holdings_ */* */Corporation/GROUP */Ltd./INC./LLC.\.
+Copyright (c) */* BASF */* _holdings_ */* */Corporation/GROUP */Ltd./INC./LLC.\.
 ;
-Copyright (c) NYSE */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
+Copyright (c) */* NYSE */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 ;
-Copyright (c) NASDAQ */* _holdings_ */* */GROUP/Corporation/* */INC./LLC./non-profit\.
+Copyright (c) */* NASDAQ */* _holdings_ */* */GROUP/Corporation/* */INC./LLC./non-profit\.
 ;
-Copyright (c) Space X */* _holdings_ */* */Corporation/GROUP */INC./LLC./non-profit\.
+Copyright (c) */* Space X */* _holdings_ */* */Corporation/GROUP */INC./LLC./non-profit\.
 ;
 Copyright (c) Alenia Aeronautica */* _holdings_ */* */GROUP/* */INC./LLC./non-profit\.
 ;
-Copyright (c) Vanguard */* _holdings_ */* */GROUP/* */INC./LLC./non-profit\.
+Copyright (c) */* Vanguard */* _holdings_ */* */GROUP/* */INC./LLC./non-profit\.
 ; 
-Copyright (c) Vanguard Mutual */* _holdings_ */* */GROUP/* */INC./LLC./non-profit\.
+Copyright (c) */* Vanguard Mutual */* _holdings_ */* */GROUP/* */INC./LLC./non-profit\.
 ;
-Copyright (c) NAVIENT/Navient Solutions */* _holdings_ */* */GROUP/CORPORATION/* */INC./LLC./non-profit\.
+Copyright (c) */* NAVIENT/Navient Solutions */* _holdings_ */* */GROUP/CORPORATION/* */INC./LLC./non-profit\.
 ;
 Copyright (c) Market Exchange GROUP */* _holdings_ */* */GROUP/* */INC./LLC./non-profit\.
 ;
-Copyright (c) Bank of America */* _holdings_ */* */* */GROUP*/Corporation/* */INC./LLC./non-profit\.
+Copyright (c) */* Bank of America */* _holdings_ */* */* */GROUP*/Corporation/* */INC./LLC./non-profit\.
 ;
-Copyright (c) Morgan Stanley */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
+Copyright (c) */* Morgan Stanley */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 ;
-Copyright (c) U.S. Securities Exchange */* _holdings_ */* */Corporation/GROUP */INC./LLC./non-profit\.
+Copyright (c) */* U.S. Securities Exchange */* _holdings_ */* */Corporation/GROUP */INC./LLC./non-profit\.
 ;
-Copyright (c) CNN */* _holdings_ */* */* Broadcast */* */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
+Copyright (c) */* CNN */* _holdings_ */* */* Broadcast */* */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 ;
-Copyright (c) US Treasury NOTE */* _holdings_ */* */* _monetization__currency_ */* */* "currencies" */* */GROUP/SYSTEM/* */INC./LLC./non-profit\.
+Copyright (c) */* US Treasury NOTE */* _holdings_ */* */* _monetization__currency_ */* */* "currencies" */* */GROUP/SYSTEM/* */INC./LLC./non-profit\.
 ;
 Copyright (c) National Broadcasting Company (NBC) */* _holdings_ */* */Corporation/GROUP/* */INC./INC./non-profit\.
 ;
