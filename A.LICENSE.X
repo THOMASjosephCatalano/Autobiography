@@ -228,7 +228,7 @@ Copyright (c) US Army Research Laboratory (ARL) */* _holdings_ */* */GROUP/Corpo
 ;
 Copyright (c) PIMCO HOLDINGS */* _holdings_ */* */GROUP/Corporation/* */INC./LLC./non-profit\.
 ;
-Copyright (c) Motion Picture Association of America */* !_holdings_! */* */ */INC./LLC./non-profit\.
+Copyright (c) Motion Picture Association of America */* _holdings_ */* */ */INC./LLC./non-profit\.
 ;
 Copyright (c) */* */US/* */* PATENT & TRADEMARK */* _holdings_ */* */Account/Papers/Writings/Format/SYSTEM/GROUP/* */ */non-profit\.
 ;
