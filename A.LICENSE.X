@@ -48,13 +48,13 @@ Copyright (c) */* "'" */* _holdings_ */* */* */\.
 ;
 Copyright (c) */* "+" */* _holdings_ */* */* */\.
 ;
-Copyright (c) ""-"" */* _holdings_ */* */* */\.
+Copyright (c) */* ""-"" */* _holdings_ */* */* */\.
 ;
-Copyright (c) "×" */* _holdings_ */* */* */\.
+Copyright (c) */* "×" */* _holdings_ */* */* */\.
 ;
-Copyright (c) "÷" */* _holdings_ */* */* */\.
+Copyright (c) */* "÷" */* _holdings_ */* */* */\.
 ;
-Copyright (c) """""" */* _holdings_ */* */* */\.
+Copyright (c) */* """""" */* _holdings_ */* */* */\.
 ;
 Copyright (') """ */* _holdings_ */* */* */\.
 ;
@@ -236,49 +236,49 @@ Copyright (c) */* */US/* */* */* ""PATENT" _&_ "TRADEMARK"" */* */* _holdings_ *
 ;
 Copyright (c) */* USAA */* _holdings_ */* */ */INC./LLC./non-profit\.
 ;
-Copyright (c) General Motors (GM) */* "cars/trucks/automobiles/vehicles" */* */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
+Copyright (c) */* General Motors (GM) */* "cars/trucks/automobiles/vehicles" */* */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
 ;
-Copyright (c) FORD MOTOR COMPANY */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
+Copyright (c) */* FORD MOTOR COMPANY */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 ;
-Copyright (c) American Express (AMX) */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
+Copyright (c) */* American Express (AMX) */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 ;
-Copyright (c) MASTERCARD */* _holdings_ */* */GROUP/CORPORATION/* */INC./LLC./non-profit\.
+Copyright (c) */* MASTERCARD */* _holdings_ */* */GROUP/CORPORATION/* */INC./LLC./non-profit\.
 ;
-Copyright (c) VISA */* _holdings_ */* */GROUP/CORPORATION/* */\
+Copyright (c) */* VISA */* _holdings_ */* */GROUP/CORPORATION/* */\
 ;
-Copyright (c) GE Capital */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
+Copyright (c) */* GE Capital */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 ;
-Copyright (c) Alitalia */* _holdings_ */* */Corporation/GROUP */INC./LLC./non-profit\.
+Copyright (c) */* Alitalia */* _holdings_ */* */Corporation/GROUP */INC./LLC./non-profit\.
 ;
-Copyright (c) NASDAQ E GROUP */* _holdings_ */* */GROUP/Corporation */INC./LLC./non-profit\.
+Copyright (c) */* NASDAQ E GROUP */* _holdings_ */* */GROUP/Corporation */INC./LLC./non-profit\.
 ;
-Copyright (c) CHURCH OF ENGLAND */* _(Great Britain)_ */* */*_(GB)_ */* */* _holdings_ */* */GROUP/SYSTEM/* */\.
+Copyright (c) */* CHURCH OF ENGLAND */* _(Great Britain)_ */* */*_(GB)_ */* */* _holdings_ */* */GROUP/SYSTEM/* */\.
 ;
-Copyright (c) BANK OF CHINA */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
+Copyright (c) */* BANK OF CHINA */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 ;
-Copyright (c) The Vatican Bank/Vatican/The Holy See */* _(AIF)_ */* */* _(IOR)_ */* */* _holdings_ */* */GROUP/SYSTEM/* */non-profit\.
+Copyright (c) */* The Vatican Bank/Vatican/The Holy See */* _(AIF)_ */* */* _(IOR)_ */* */* _holdings_ */* */GROUP/SYSTEM/* */non-profit\.
 ;
-Copyright (c) Financial Intelligence Authority (AIF) */* _holdings_ */* */GROUP/Corporation */INC./LLC./non-profit\.
+Copyright (c) */* Financial Intelligence Authority (AIF) */* _holdings_ */* */GROUP/Corporation */INC./LLC./non-profit\.
 ;
-Copyright (c) VC NEWS COMPANY */* _holdings_ */* */GROUP/CORPORATION */INC./LLC./non-profit\.
+Copyright (c) */* VC NEWS COMPANY */* _holdings_ */* */GROUP/CORPORATION */INC./LLC./non-profit\.
 ;
-Copyright (c) Daimler/Daimler-Benz/Benz/Mercedes-Benz/AMG */* "GROUP" */* */* _holdings_ */* */GROUP/CORPORATION/* */INC./LLC./non-profit\.
+Copyright (c) */* Daimler/Daimler-Benz/Benz/Mercedes-Benz/AMG */* "GROUP" */* */* _holdings_ */* */GROUP/CORPORATION/* */INC./LLC./non-profit\.
 ;
-Copyright (c) FIAT */* _holdings_ */* */GROUP/CORPORATION/* */INC./LLC./non-profit\.
+Copyright (c) */* FIAT */* _holdings_ */* */GROUP/CORPORATION/* */INC./LLC./non-profit\.
 ;
-Copyright (c) ASTON MARTIN COACH WORKS */* _holdings_ */* GROUP/CORPORATION */INC./LLC./non-profit\.
+Copyright (c) */* ASTON MARTIN COACH WORKS */* _holdings_ */* GROUP/CORPORATION */INC./LLC./non-profit\.
 ;
-Copyright (c) VW GROUP */* _holdings_ */* GROUP/CORPORATION/* */INC./LLC./non-profit\.
+Copyright (c) */* VW GROUP */* _holdings_ */* GROUP/CORPORATION/* */INC./LLC./non-profit\.
 ;
-Copyright (c) HBO */* _holdings_ */* */GROUP/Corporation/* */INC./LLC./non-profit\.
+Copyright (c) */* HBO */* _holdings_ */* */GROUP/Corporation/* */INC./LLC./non-profit\.
 ;
-Copyright (c) GM financial */* _holdings_ */* */GROUP/Corporation */INC./LLC./non-profit\.
+Copyright (c) */* GM financial */* _holdings_ */* */GROUP/Corporation */INC./LLC./non-profit\.
 ;
-Copyright (c) Civil Engineer */* _holdings_ */* */GROUP/Corporation/* */INC.LLC./non-profit\.
+Copyright (c) */* Civil Engineer */* _holdings_ */* */GROUP/Corporation/* */INC.LLC./non-profit\.
 ;
-Copyright (c) US Air Force Research Laboratory (AFRL) _holdings_ */GROUP/Corporation/SYSTEM/* */INC./LLC./non-profit\.
+Copyright (c) */* US Air Force Research Laboratory (AFRL) _holdings_ */GROUP/Corporation/SYSTEM/* */INC./LLC./non-profit\.
 ;
-Copyright (c) US Space Force Research Laboratory (SFRL) _holdings_ */GROUP/Corporation/SYSTEM/* */INC./LLC./non-profit\.
+Copyright (c) */* US Space Force Research Laboratory (SFRL) _holdings_ */GROUP/Corporation/SYSTEM/* */INC./LLC./non-profit\.
 ;
 Copyright (c) */* UNITED NATIONS (UN) */* _(UN)_ */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
 ;
@@ -294,9 +294,9 @@ Copyright (c) */* North American Aerospace Defense (NORAD) */* _holdings_ */* */
 ;
 Copyright (c) */* Antarctic Treaty System(ATS) */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
 ;
-Copyright (c) INTERNATIONAL STANDARDS ORGANIZATION (ISO) */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
+Copyright (c) */* INTERNATIONAL STANDARDS ORGANIZATION (ISO) */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
 ;
-Copyright (c) NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY (NIST) */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
+Copyright (c) */* NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY (NIST) */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
 ;
 Copyright (c) */* INTERNATIONAL BAR ASSOCIATION (IBA) */* */* "Esq" */* */* _holdings_ */* */GROUP/SYSTEM/* */*\.
 ;
