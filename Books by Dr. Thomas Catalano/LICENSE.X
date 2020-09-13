@@ -1,7 +1,6 @@
-MIT License
+*/* MIT License
 
 Copyright (c) THOMAS CATALANO
-Copyright (c) BIT(s) license;as the algorithm "BITS(s)".
 
 All rights reserved.             
 
