@@ -32,13 +32,13 @@ Copyright (c)
 ;
 Copyright (c) "Ph.D"\.
 ;
-Copyright (c) Ph.D/Ph.D. */* _holdings_ */* */licensing/SYSTEM/GROUP(s)/FOUNDATION/* */non-profit\.
+Copyright (c) */* Ph.D/Ph.D. */* _holdings_ */* */licensing/SYSTEM/GROUP(s)/FOUNDATION/* */non-profit\.
 ;
 Copyright (c) "Ph.D."\.
 ;
 Copyright (c) "PhD"\.
 ;
-Copyright (c) PhD */* _holdings_ */* */SYSTEM/GROUP/FOUNDATION/* */non-profit\.
+Copyright (c) */* PhD */* _holdings_ */* */SYSTEM/GROUP/FOUNDATION/* */non-profit\.
 ;
 Copyright (c) */* Physics/Chemistry/Numerical-Comp */* */* _holdings_ */* */SYSTEM/FOUNDATION/GROUP/* */\.
 ;
