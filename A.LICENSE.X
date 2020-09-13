@@ -335,6 +335,8 @@ Copyright (c) TeamUSA (USOC) */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\
 Copyright (c) America Broadcasting Company (ABC) */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
 ;
 Copyright (c) Scudaria Ferrari */* Ferrari */* */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
+;
+Copyright (c) Automobiles Ettore Bugatti */* Bugatti */* */* _holdings_ */* */GROUP/CORPORATION/* */\.
 
 All rights reserved.    
 
