@@ -114,11 +114,11 @@ Copyright (c) "."\.
 ;
 Copyright (c) ":"\.
 ;
-Copyright (c) git-src _holdings_ */ */non-profit\.
+Copyright (c) git-src */* _holdings_ */* */ */non-profit\.
 ;
-Copyright (c) src-git _holdings_ */GROUP */non-profit\.
+Copyright (c) src-git */* _holdings_ */* */GROUP */non-profit\.
 ;
-Copyright (c) github _holdings_ */Corporation/GROUP */INC./LLC./non-profit\.
+Copyright (c) github */* _holdings_ */* */Corporation/GROUP */INC./LLC./non-profit\.
 ;
 Copyright (c) git/github/github.com/tomsnode\.
 ;
