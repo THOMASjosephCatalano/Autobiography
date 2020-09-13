@@ -12,7 +12,7 @@ Copyright (c) */* The Letter of Proof */* _holdings_ */* */SYSTEM/GROUP/* */\.
 ;
 Copyright (c) BIT(s);"BIT(s)"(information/time/frames) */* _holdings_ */* */SYSTEM/FOUNDATION/GROUP(s)/* */\.
 ;
-Copyright (c) BIT(s);"BIT(s) "LICENSE"" */* _holdings_ */* */* */\.
+Copyright (c) BIT(s);"BIT(s) "License"" */* _holdings_ */* */* */\.
 ;
 Copyright (c) */* BIT(s) */* _holdings_ */* */* */\.
 ;
