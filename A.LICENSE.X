@@ -283,9 +283,9 @@ Copyright (c) */* US Army Research Laboratory (ARL) */* _holdings_ */* */GROUP/C
 
 Copyright (c) */* PIMCO HOLDINGS */* _holdings_ */* */GROUP/Corporation/* */INC./LLC./non-profit\.
 
-Copyright (c) */* Motion Picture Association of America */* _holdings_ */* */ */INC./LLC./non-profit\.
+Copyright (c) */* Motion Picture Association of America */* _holdings_ */* */* */INC./LLC./non-profit\.
 
-Copyright (c) */* */US/* */* */* ""PATENT" _&_ "TRADEMARK"" */* */* _holdings_ */* */Account/Papers/Writings/Format/SYSTEM/GROUP/* */ */non-profit\.
+Copyright (c) */* */US/* */* */* ""PATENT" _&_ "TRADEMARK"" */* */* _holdings_ */* */Account/Papers/Writings/Format/SYSTEM/GROUP/TENDER/* */ */non-profit\.
 
 Copyright (c) */* USAA */* _holdings_ */* */ */INC./LLC./non-profit\.
 
@@ -345,7 +345,7 @@ Copyright (c) */* National Aeronautics & Space Agency (NASA) */* */* _(_NASA_)_ 
 
 Copyright (c) */* North American Aerospace Defense (NORAD) */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
 
-Copyright (c) */* Antarctic Treaty System(ATS) */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
+Copyright (c) */* Antarctic Treaty System (ATS) */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
 
 Copyright (c) */* INTERNATIONAL STANDARDS ORGANIZATION (ISO) */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
 
