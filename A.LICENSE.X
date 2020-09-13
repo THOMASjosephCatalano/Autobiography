@@ -73,7 +73,7 @@ Copyright (c) */* BIT(s);"BIT(s)" */* _holdings_ */* */* */\.
 
 Copyright (c) */* ALTUSNET */* _holdings */* */\.
 
-Copyright (c) ;"cryptocurrency" */* */cryptocurrency/*;:((blockchain;algorithm)&|"like") */* */* _holdings_ */* */\.
+Copyright (c) ;*/* "cryptocurrency" */* */cryptocurrency/*;:((blockchain;algorithm)&|"like") */* */* _holdings_ */* */\.
 
 Copyright (c) */* https:// */* */*"https://" */* */* _holdings */* */* */\.
 
@@ -85,11 +85,11 @@ Copyright (c) */* Copyright (c) */* */* _holdings_ */* */\.
 
 Copyright (c) */* Ph.D/Ph.D. */* _holdings_ */* */licensing/SYSTEM/GROUP(s)/FOUNDATION/* */non-profit\.
 
-Copyright (c) ;"Ph.D"
+Copyright (c) ;*/* "Ph.D"
 
-Copyright (c) ;"Ph.D."
+Copyright (c) ;*/* "Ph.D."
 
-Copyright (c) ;"PhD"
+Copyright (c) ;*/* "PhD"
 
 Copyright (c) */* PhD */* _holdings_ */* */SYSTEM/GROUP/FOUNDATION/* */non-profit\.
 
