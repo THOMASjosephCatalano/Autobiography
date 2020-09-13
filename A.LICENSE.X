@@ -144,7 +144,7 @@ Copyright (c) github/github.com/github _holdings_ */GROUP/Corporation/* */INC./L
 ;
 Copyright (c) ALTUSNET _holdings_ Limited Liability Company\.
 ;
-Copyright (c) www.conceptslearningmachine.com\.
+Copyright (c) www.conceptslearningmachine.com */* _holdings_ */* */\.
 ;
 Copyright (c) linux */* _holdings_ */* */GROUP/SYSTEM/* */non-profit\.
 ;
