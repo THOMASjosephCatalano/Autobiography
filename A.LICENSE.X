@@ -206,7 +206,7 @@ Copyright (c) Market Exchange GROUP */* _holdings_ */* */INC./LLC./non-profit\.
 ;
 Copyright (c) Bank of America */* _holdings_ */* */* */GROUP*/Corporation/* */INC./LLC./non-profit\.
 ;
-Copyright (c) Morgan Stanley */* _holdings_ */Corporation/GROUP */INC./LLC./non-profit\.
+Copyright (c) Morgan Stanley */* _holdings_ */* */Corporation/GROUP */INC./LLC./non-profit\.
 ;
 Copyright (c) U.S. Securities Exchange */* _holdings_ */* */Corporation/GROUP */INC./LLC./non-profit\.
 ;
@@ -250,27 +250,27 @@ Copyright (c) Alitalia _holdings_ Corporation/GROUP */INC./LLC./non-profit\.
 ;
 Copyright (c) NASDAQ E GROUP _holdings_ GROUP/Corporation */INC./LLC./non-profit\.
 ;
-Copyright (c) CHURCH OF ENGLAND _(Great Britain)_ _holdings_ */GROUP/SYSTEM/* */\.
+Copyright (c) CHURCH OF ENGLAND */* _(Great Britain)_ */* */*_(GB)_ */* */* _holdings_ */* */GROUP/SYSTEM/* */\.
 ;
-Copyright (c) BANK OF CHINA _holdings_ Corporation/GROUP/* */INC./LLC./non-profit\.
+Copyright (c) BANK OF CHINA */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 ;
-Copyright (c) The Vatican Bank/Vatican/The Holy See _(AIF)_ _(IOR)_  _holdings_ */GROUP/SYSTEM/* */non-profit\.
+Copyright (c) The Vatican Bank/Vatican/The Holy See _(AIF)_ _(IOR)_ */* _holdings_ */* */GROUP/SYSTEM/* */non-profit\.
 ;
-Copyright (c) Financial Intelligence Authority (AIF) _holdings_ */GROUP/Corporation */INC./LLC./non-profit\.
+Copyright (c) Financial Intelligence Authority (AIF) */* _holdings_ */* */GROUP/Corporation */INC./LLC./non-profit\.
 ;
-Copyright (c) VC NEWS COMPANY _holdings_ */GROUP/CORPORATION */INC./LLC./non-profit\.
+Copyright (c) VC NEWS COMPANY */* _holdings_ */* */GROUP/CORPORATION */INC./LLC./non-profit\.
 ;
-Copyright (c) Daimler/Daimler-Benz/Benz/Mercedes-Benz/AMG _holdings_ */GROUP/CORPORATION/* */INC./LLC./non-profit\.
+Copyright (c) Daimler/Daimler-Benz/Benz/Mercedes-Benz/AMG */* _holdings_ */* */GROUP/CORPORATION/* */INC./LLC./non-profit\.
 ;
-Copyright (c) FIAT _holdings_ */GROUP/CORPORATION/* */INC./LLC./non-profit\.
+Copyright (c) FIAT */* _holdings_ */* */GROUP/CORPORATION/* */INC./LLC./non-profit\.
 ;
 Copyright (c) ASTON MARTIN COACH WORKS _holdings_ GROUP/CORPORATION */INC./LLC./non-profit\.
 ;
-Copyright (c) VW GROUP _holdings_ GROUP/CORPORATION/* */INC./LLC./non-profit\.
+Copyright (c) VW GROUP */* _holdings_ */* GROUP/CORPORATION/* */INC./LLC./non-profit\.
 ;
-Copyright (c) HBO _holdings_ GROUP/Corporation/* */INC./LLC./non-profit\.
+Copyright (c) HBO */* _holdings_ */* */GROUP/Corporation/* */INC./LLC./non-profit\.
 ;
-Copyright (c) GM _holdings_ GROUP/Corporation */INC./LLC./non-profit\.
+Copyright (c) GM financial */* _holdings_ */* */GROUP/Corporation */INC./LLC./non-profit\.
 ;
 Copyright (c) Civil Engineer */* _holdings_ */* */GROUP/Corporation/* */INC.LLC./non-profit\.
 ;
