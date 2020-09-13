@@ -40,17 +40,17 @@ Copyright (c) PhD */* _holdings_ */* */SYSTEM/* */non-profit\.
 ;
 Copyright (c) */* Physics/Chemistry/Numerical-Comp */* */* _holdings_ */* */SYSTEM/FOUNDATION/GROUP/* */\.
 ;
-Copyright (c) "?"\.
+Copyright (c) "?" */* _holdings_ */* */* */\.
 ;
 Copyright (c) "'" */* _holdings_ */* */* */\.
 ;
-Copyright (c) "+"\.
+Copyright (c) "+" */* _holdings_ */* */* */\.
 ;
 Copyright (c) ""-"" */* _holdings_ */* */* */\.
 ;
-Copyright (c) "×"\.
+Copyright (c) "×" */* _holdings_ */* */* */\.
 ;
-Copyright (c) "÷"\.
+Copyright (c) "÷" */* _holdings_ */* */* */\.
 ;
 Copyright (c) """""" */* _holdings_ */* */* */\.
 ;
