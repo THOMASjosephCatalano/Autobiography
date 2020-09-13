@@ -315,6 +315,8 @@ Copyright (c) Federation International Automobile (FIA) */* _holdings_ */* */GRO
 Copyright (c) National Football League (NFL) */* _holdings_ */* */GROUP/CORPORATION/SYSTEM*/ */\.
 ;
 Copyright (c) Federation International Football Association (FIFA) (fifa) */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
+;
+Copyright (c) National Basketball Association (NBA) */* _holdings_ */* GROUP/CORPORATION/SYSTEM/* */\.
 
 All rights reserved.    
 
