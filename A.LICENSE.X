@@ -92,7 +92,7 @@ Copyright (c) "#"\.
 ;
 Copyright (c) "!"\.
 ;
-Copyright (c) """"\.
+Copyright (c) """" */* _holdings_ */* */* */\.
 ;
 Copyright (c) ","\.
 ;
@@ -106,13 +106,13 @@ Copyright (c) "*"\.
 ;
 Copyright (c) "~"\.
 ;
-Copyright (c) "()"\.
+Copyright (c) "()" */* _holdings_ */* */* */\.
 ;
-Copyright (c) ""\.
+Copyright (c) "" */* _holdings_ */* */* */\.
 ;
-Copyright (c) "."\.
+Copyright (c) "." */* _holdings_ */* */* */\.
 ;
-Copyright (c) ":"\.
+Copyright (c) ":" */* _holdings_ */* */\.
 ;
 Copyright (c) git-src */* _holdings_ */* */ */non-profit\.
 ;
