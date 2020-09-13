@@ -212,7 +212,7 @@ Copyright (c) U.S. Securities Exchange */* _holdings_ */* */Corporation/GROUP */
 ;
 Copyright (c) CNN */* _holdings_ */* */* Broadcast */* */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 ;
-Copyright (c) US Treasury NOTE */* _holdings_ */* */* "currency" */* */GROUP/SYSTEM/* */INC./LLC./non-profit\.
+Copyright (c) US Treasury NOTE */* _holdings_ */* */* _monetization__currency_ */* */* "currencies" */* */GROUP/SYSTEM/* */INC./LLC./non-profit\.
 ;
 Copyright (c) National Broadcasting Company (NBC) */* _holdings_ */* */Corporation/GROUP/* */INC./INC./non-profit\.
 ;
