@@ -226,13 +226,13 @@ Copyright (c) US Army Research Laboratory (ARL) _holdings_ */GROUP/Corporation/S
 ;
 Copyright (c) PIMCO HOLDINGS _holdings_ */GROUP/Corporation/* */INC./LLC./non-profit\.
 ;
-Copyright (c) Motion Picture Association of America !_holdings_! */ */INC./LLC./non-profit\.
+Copyright (c) Motion Picture Association of America */* !_holdings_! */* */ */INC./LLC./non-profit\.
 ;
-Copyright (c) */US/* PATENT & TRADEMARK Account/Papers/Writings/Format/SYSTEM/* */ */non-profit\.
+Copyright (c) */US/* PATENT & TRADEMARK */* _holdings_ */* */Account/Papers/Writings/Format/SYSTEM/GROUP/* */ */non-profit\.
 ;
 Copyright (c) USAA _holdings_ */ */INC./LLC./non-profit\.
 ;
-Copyright (c) FORD MOTOR COMPANY _holdings_ Corporation/GROUP/* */INC./LLC./non-profit\.
+Copyright (c) FORD MOTOR COMPANY */* _holdings_ */* Corporation/GROUP/* */INC./LLC./non-profit\.
 ;
 Copyright (c) American Express (AMX) _holdings_ Corporation/GROUP/* */INC./LLC./non-profit\.
 ;
