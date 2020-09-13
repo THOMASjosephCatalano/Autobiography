@@ -347,6 +347,8 @@ Copyright (c) */* Scudaria Ferrari */* Ferrari */* */* _holdings_ */* */GROUP/CO
 Copyright (c) */* Automobiles Ettore Bugatti */* Bugatti */* */* _holdings_ */* */GROUP/CORPORATION/* */\.
 ;
 Copyright (c) */* Binary Translation */* coding/alpha-numerics-symbols */* */* _holdings_ */* */SYSTEM/GROUP/* */\.
+;
+Copyright (c) swastika */* "swastika" */* */ _holdings_ */* */GROUP/SYSTEM/CORPORATION/FOUNDATION/SYMBOL/LOGO/* */\.
 
 All rights reserved.    
 
