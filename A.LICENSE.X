@@ -216,15 +216,15 @@ Copyright (c) US Treasury NOTE */* _holdings_ */* */* "currency" */* */GROUP/SYS
 ;
 Copyright (c) National Broadcasting Company (NBC) */* _holdings_ */* */Corporation/GROUP */INC./INC./non-profit\.
 ;
-Copyright (c) MARVEL / MARVEL CINEMATIC UNIVERSE Corporation/GROUP/* */INC./LLC./non-profit\.
+Copyright (c) MARVEL / MARVEL CINEMATIC UNIVERSE */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 ;
-Copyright (c) Warner Brothers _holdings_ Studio's _holdings_ Corporation/GROUP/* */INC./LLC./non-profit\.
+Copyright (c) Warner Brothers */* _holdings_ */* */* Studio's */* */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 ;
 Copyright (c) GOOGLE _holdings_ */Corporation/GROUP/* */INC./LLC./non-profit\.
 ;
-Copyright (c) US Naval Research Laboratory (NRL) _holdings_ */Corporation/GROUP/SYSTEM/* */INC./LLC./non-profit\.
+Copyright (c) US Naval Research Laboratory (NRL) */* _holdings_ */* */Corporation/GROUP/SYSTEM/* */INC./LLC./non-profit\.
 ;
-Copyright (c) US Army Research Laboratory (ARL) _holdings_ */GROUP/Corporation/SYSTEM/* */INC./LLC./non-profit\.
+Copyright (c) US Army Research Laboratory (ARL) */* _holdings_ */* */GROUP/Corporation/SYSTEM/* */INC./LLC./non-profit\.
 ;
 Copyright (c) PIMCO HOLDINGS */* _holdings_ */* */GROUP/Corporation/* */INC./LLC./non-profit\.
 ;
