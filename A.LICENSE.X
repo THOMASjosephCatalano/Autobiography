@@ -60,7 +60,7 @@ Copyright (c) */* """ */* _holdings_ */* */* */\.
 ;
 Copyright (c) */* "-" */* _holdings_ */* */* */\.
 ;
-Copyright (c) "_" */* _holdings_ */* */* */\.
+Copyright (c) */* "_" */* _holdings_ */* */* */\.
 ;
 Copyright (c) */* ""<""">"" */* _holdings_ */* */* */\.
 ;
@@ -84,11 +84,11 @@ Copyright (c) */* "&|" */* _holdings_ */* */* */\.
 ;
 Copyright (c) */* "&&" */* _holdings_ */* */* */\.
 ;
-Copyright (c) "=" */* _holdings_ */* */* */\.
+Copyright (c) */* "=" */* _holdings_ */* */* */\.
 ;
-Copyright (c) "%" */* _holdings_ */* */* */\.
+Copyright (c) */* "%" */* _holdings_ */* */* */\.
 ;
-Copyright (c) "%%" */* _holdings_ */* */* */\.
+Copyright (c) */* "%%" */* _holdings_ */* */* */\.
 ;
 Copyright (c) "#" */* _holdings_ */* */* */\.
 ;
