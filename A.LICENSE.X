@@ -42,11 +42,11 @@ Copyright (c) */* Physics/Chemistry/Numerical-Comp */* */* _holdings_ */* */SYST
 ;
 Copyright (c) "?"\.
 ;
-Copyright (c) "'"\.
+Copyright (c) "'" */* _holdings_ */* */* */\.
 ;
 Copyright (c) "+"\.
 ;
-Copyright (c) ""-""\.
+Copyright (c) ""-"" */* _holdings_ */* */* */\.
 ;
 Copyright (c) "×"\.
 ;
@@ -56,9 +56,9 @@ Copyright (c) """""" */* _holdings_ */* */* */\.
 ;
 Copyright (') """ */* _holdings_ */* */* */\.
 ;
-Copyright (c) "-"\.
+Copyright (c) "-" */* _holdings_ */* */* */\.
 ;
-Copyright (c) "_"\.
+Copyright (c) "_" */* _holdings_ */* */* */\.
 ;
 Copyright (c) "<>"\.
 ;
