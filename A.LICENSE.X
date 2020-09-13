@@ -214,7 +214,7 @@ Copyright (c) CNN */* _holdings_ */* */* Broadcast */* */* _holdings_ */* */Corp
 ;
 Copyright (c) US Treasury NOTE */* _holdings_ */* */* "currency" */* */GROUP/SYSTEM/* */INC./LLC./non-profit\.
 ;
-Copyright (c) National Broadcasting Company (NBC) */* _holdings_ */* */Corporation/GROUP */INC./INC./non-profit\.
+Copyright (c) National Broadcasting Company (NBC) */* _holdings_ */* */Corporation/GROUP/* */INC./INC./non-profit\.
 ;
 Copyright (c) MARVEL / MARVEL CINEMATIC UNIVERSE */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 ;
