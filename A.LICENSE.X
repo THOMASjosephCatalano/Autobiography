@@ -9,23 +9,23 @@ Copyright (c) ;*/* "Copyright"
 
 Copyright (c) ;*/* "(c)"
 
-Copyright (c) ;"Copyright (c)"
+Copyright (c) ;*/* "Copyright (c)"
 
-Copyright (c) ;"MIT License"
+Copyright (c) ;*/* "MIT License"
 
-Copyright (c) ;"inclusive"
+Copyright (c) ;*/* "inclusive"
 
-Copyright (c) ;"agreement"
+Copyright (c) ;*/* "agreement"
 
-Copyright (c) ;"License"
+Copyright (c) ;*/* "License"
 
-Copyright (c) ;"Patent"
+Copyright (c) ;*/* "Patent"
 
-Copyright (c) ;"Trademark"
+Copyright (c) ;*/* "Trademark"
 
-Copyright (c) ;"Binary"
+Copyright (c) ;*/* "Binary"
 
-Copyright (c) ;"©"
+Copyright (c) ;*/* "©"
 
 Copyright (c) ;"~0~9~"
 
