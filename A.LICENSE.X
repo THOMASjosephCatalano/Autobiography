@@ -236,13 +236,15 @@ Copyright (c) USAA _holdings_ */ */INC./LLC./non-profit\.
 ;
 Copyright (c) General Motors (GM) */* "cars/trucks/automobiles/vehicles" */* */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
 ;
-Copyright (c) FORD MOTOR COMPANY */* _holdings_ */* Corporation/GROUP/* */INC./LLC./non-profit\.
+Copyright (c) FORD MOTOR COMPANY */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 ;
-Copyright (c) American Express (AMX) _holdings_ Corporation/GROUP/* */INC./LLC./non-profit\.
+Copyright (c) American Express (AMX) */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 ;
-Copyright (c) MASTERCARD _holdings_ GROUP/CORPORATION/* */INC./LLC./non-profit\.
+Copyright (c) MASTERCARD */* _holdings_ */* */GROUP/CORPORATION/* */INC./LLC./non-profit\.
 ;
-Copyright (c) GE Capital _holdings_ Corporation/GROUP/* */INC./LLC./non-profit\.
+Copyright (c) VISA */* _holdings_ */* */GROUP/CORPORATION/* */\
+;
+Copyright (c) GE Capital */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 ;
 Copyright (c) Alitalia _holdings_ Corporation/GROUP */INC./LLC./non-profit\.
 ;
