@@ -24,7 +24,7 @@ Copyright (c) "https://" */* _holdings */* */* */\.
 ;
 Copyright (c) "http://"\.
 ;
-Copyright (c) "www."\.
+Copyright (c) "www." */* _holdings_ */* */* */\.
 ;
 Copyright (c) 
 ;
