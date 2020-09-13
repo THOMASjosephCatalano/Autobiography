@@ -116,7 +116,7 @@ Copyright (c) ":" */* _holdings_ */* */\.
 ;
 Copyright (c) git-src */* _holdings_ */* */* */non-profit\.
 ;
-Copyright (c) src-git */* _holdings_ */* */GROUP/* */non-profit\.
+Copyright (c) src-git */* _holdings_ */* *SYSTEM//GROUP/* */non-profit\.
 ;
 Copyright (c) github */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 ;
