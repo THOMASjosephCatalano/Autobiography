@@ -5,11 +5,11 @@ Copyright (c) */* "License-FORMAT_LEGAL-ACQUISITION-EQUES";this "license" "inclu
 
 Copyright (c) */* THOMAS CATALANO */* "THOMAS CATALANO"
 
-Copyright (c) */* "Copyright"
+Copyright (c) */* Copyright */* "Copyright"
 
-Copyright (c) */* "(c)"
+Copyright (c) */* (c) */* "(c)"
 
-Copyright (c) */* "Copyright (c)"
+Copyright (c) */* Copyright (c) */* "Copyright (c)"
 
 Copyright (c) */* "MIT License"
 
