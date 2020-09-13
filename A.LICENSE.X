@@ -325,6 +325,8 @@ Copyright (c) National Hockey League (NHL) */* _holdings_ */* */GROUP/CORPORATIO
 Copyright (c) Formula One (F1) */* "automobile" */* */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
 ;
 Copyright (c) The 24hrs of Le Mans () */* automobile" */* */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
+;
+Copyright (c) National Association for Stock Car Racing (NASCAR) */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
 
 All rights reserved.    
 
