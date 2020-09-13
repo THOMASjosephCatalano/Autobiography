@@ -1,5 +1,6 @@
 */* MIT License
 
+Copyright (c) THOMAS CATALANO
 
 Copyright (c) */* "License-FORMAT_LEGAL-ACQUISITION-EQUES";this "license" "inclusive":/""Copyright (c)" _"ENTITY"_ "-" _"BACK"_ "-" _"SUB-FIELD"_ "-" _-"BACK"_ "-" _"LEGAL"_ "-" "_"_/_"_"\(.)",(*/* = "continuous/throughout"/"pre-|-post"; merandum(s)'s, etc so forth, not required preposit of _entity) sefor ex.)""License"-"FORMAT"_LEGAL-ACQUISITION-EQUES")\.
 
