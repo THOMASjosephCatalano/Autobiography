@@ -318,35 +318,35 @@ Copyright (c) */* International Monetary Fund (IMF) */* _holdings_ */* */GROUP/S
 ;
 Copyright (c) */* Group of Seven (G7) */* _holdings_ */* */GROUP/SYSTEM/FORTHSET/* */non-profit\.
 ;
-Copyright (c) Federation International of Automobile (FIA) */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
+Copyright (c) */* Federation International of Automobile (FIA) */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
 ;
-Copyright (c) National Football League (NFL) */* _holdings_ */* */GROUP/CORPORATION/SYSTEM*/ */\.
+Copyright (c) */* National Football League (NFL) */* _holdings_ */* */GROUP/CORPORATION/SYSTEM*/ */\.
 ;
-Copyright (c) Federation International of Football Association (FIFA) (fifa) */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
+Copyright (c) */* Federation International of Football Association (FIFA) (fifa) */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
 ;
-Copyright (c) National Basketball Association (NBA) */* _holdings_ */* GROUP/CORPORATION/SYSTEM/* */\.
+Copyright (c) */* National Basketball Association (NBA) */* _holdings_ */* GROUP/CORPORATION/SYSTEM/* */\.
 ;
-Copyright (c) Major League Baseball (MLB) */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
+Copyright (c) */* Major League Baseball (MLB) */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
 ;
-Copyright (c) National Hockey League (NHL) */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
+Copyright (c) */* National Hockey League (NHL) */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
 ;
-Copyright (c) Formula One (F1) */* "automobile" */* */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
+Copyright (c) */* Formula One (F1) */* "automobile" */* */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
 ;
-Copyright (c) The 24hrs of Le Mans () */* automobile" */* */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
+Copyright (c) */* The 24hrs of Le Mans () */* automobile" */* */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
 ;
 Copyright (c) National Association for Stock Car Racing (NASCAR) */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
 ;
-Copyright (c) The International Olympic Committee (IOC) (CIO) (NOC) */ _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
+Copyright (c) */* The International Olympic Committee (IOC) (CIO) (NOC) */ _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
 ;
-Copyright (c) TeamUSA (USOC) */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
+Copyright (c) */* TeamUSA (USOC) */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
 ;
-Copyright (c) America Broadcasting Company (ABC) */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
+Copyright (c) */* America Broadcasting Company (ABC) */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
 ;
-Copyright (c) Scudaria Ferrari */* Ferrari */* */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
+Copyright (c) */* Scudaria Ferrari */* Ferrari */* */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
 ;
-Copyright (c) Automobiles Ettore Bugatti */* Bugatti */* */* _holdings_ */* */GROUP/CORPORATION/* */\.
+Copyright (c) */* Automobiles Ettore Bugatti */* Bugatti */* */* _holdings_ */* */GROUP/CORPORATION/* */\.
 ;
-Copyright (c) Binary Translation */* coding/alpha-numerics-symbols */* */* _holdings_ */* */SYSTEM/GROUP/* */\.
+Copyright (c) */* Binary Translation */* coding/alpha-numerics-symbols */* */* _holdings_ */* */SYSTEM/GROUP/* */\.
 
 All rights reserved.    
 
