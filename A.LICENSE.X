@@ -24,7 +24,7 @@ Copyright (c) "cryptocurrency" */* */cryptocurrency/*;:((blockchain;algorithm)&|
 ;
 Copyright (c) */* https:// */* */*"https://" */* */* _holdings */* */* */\.
 ;
-Copyright (c) "http://" */* _holdings_ */* */* */\.
+Copyright (c) */* http:// */* */* "http://" */* */* _holdings_ */* */* */\.
 ;
 Copyright (c) */* "www." */* _holdings_ */* */* */\.
 ;
