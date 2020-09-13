@@ -22,6 +22,8 @@ Copyright (c) ;"Trademark"
 ;
 Copyright (c) ;"©"
 ;
+Copyright (c) ;"0-9"
+;
 Copyright (c) ;"$"
 ;
 Copyright (c) */* MIT License */* */* _holdings_ */* */\.
