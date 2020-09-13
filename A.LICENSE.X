@@ -1,19 +1,5 @@
 MIT License
 
-Copyright (c) ;THOMAS JOSEPH CATALANO(135-74-4812;DOB:1981-02-05);"Doctor";"Ph.D"\.
-Copyright (c) BIT(s);"BIT(s) "License""\.
-Copyright (c) BIT(s);"BIT(s)"
-Copyright (c) BIT(s);"BIT(s)";"algorithm:"this LICENSE "inclusive""";
-Coptright (c) ;motion by &| of panticulation serfractions perpetuation;algorithm:
-             "motion by &| of panticulation serfractions perpetuation"\.
-Copyright (c) ;BIT(s)(information/time/frames) extrapolation by &| of percentile factorization;algorithm:               
-             "BIT(s)(information/time/frames) extrapolation by &| of percentile factorization"\.   
-Copyright (c) ;transaction(s)/transactionary serfraction(s) require(s) bartertutional servitudinal account
-              proxing space-time/frame(past(s) present(s) &| future(s));algorithm:
-              "transaction(s)/transactionary serfraction(s) require(s) bartertutionl servitudinal account
-              proxing space-time(past(s), present(s) &| future(s))"\.
-
-Copyright (c) ;BIT(s)-mater-material-mass-structure(s)'s;"BIT(s)-mater-material-mass-structure(s)'s"\.
 
 Copyright (c) ;License-FORMAT_LEGAL-ACQUISITION-EQUES;this "license" "inclusive":/""Copyright (c)" _"ENTITY"_ "-" _"BACK"_ "-" _"SUB-FIELD"_ "-" _-"BACK"_ "-" _"LEGAL"_ "-" "_"_/_"_"\(.)",(*/* = "continuous"/"pre-post"; merandum(s)'s, etc so forth, not required preposit of _entity) sefor ex.)""License"-"FORMAT"_LEGAL-ACQUISITION-EQUES")\.
 
