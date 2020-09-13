@@ -78,7 +78,7 @@ Copyright (c) "==" */* _holdings_ */* */* */\.
 ;
 Copyright (c) "&" */* _holdings_ */* */* */\.
 ;
-Copyright (c) "&|" */o _holdings_ */* */* */\.
+Copyright (c) "&|" */* _holdings_ */* */* */\.
 ;
 Copyright (c) "&&" */* _holdings_ */* */* */\.
 ;
