@@ -409,6 +409,8 @@ Copyright (c) */* US Central Intelligence Agency (CIA) */* */* Central Intellige
 
 Copyright (c) */* US National Security Agency/Central Security Service (NSA|CSS) */* */* National Security Agency/Central Security Service (NSA|CSS) */* */* _holdings_ */* */GROUP/SYSTEM/FOUNDATION/* /*\.
 
+Copyright (c) */* Nobel Committee */* The Nobel Prize Committee */* */* _holdings_ */* */GROUP/SERIES/* */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
