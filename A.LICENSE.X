@@ -6,6 +6,8 @@ Copyright (c) ;"THOMAS CATALANO"
 ;
 Copyright (c) ;"Copyright"
 ;
+Copyright (c) ;"(c)"
+;
 Copyright (c) ;"Copyright (c)"
 ;
 Copyright (c) ;"MIT License"
