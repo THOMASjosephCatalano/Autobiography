@@ -180,13 +180,13 @@ Copyright (c) */* MICROSOFT */* _holdings_ */* */Corporation/GROUP/* */INC./LLC.
 ;
 Copyright (c) */* Lockheed Martin */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 ;
-Copyright (c) GE */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
+Copyright (c) */* GE */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 ;
-Copyright (c) CHASE BANK */* _holdings_ */* */GROUP/CORPORATION/* */INC./LLC./non-profit\.
+Copyright (c) */* CHASE BANK */* _holdings_ */* */GROUP/CORPORATION/* */INC./LLC./non-profit\.
 ;
-Copyright (c) Wells Fargo Bank */* _holdings_ */* */GROUP/*  */INC./LLC.\.
+Copyright (c) */* Wells Fargo Bank */* _holdings_ */* */GROUP/*  */INC./LLC.\.
 ;
-Copyright (c) Boeing */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
+Copyright (c) */* Boeing */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 ;
 Copyright (c) BASF */* _holdings_ */* */Corporation/GROUP */Ltd./INC./LLC.\.
 ;
