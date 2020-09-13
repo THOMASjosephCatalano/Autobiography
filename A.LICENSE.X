@@ -52,9 +52,9 @@ Copyright (c) "×"\.
 ;
 Copyright (c) "÷"\.
 ;
-Copyright (c) """"""\.
+Copyright (c) """""" */* _holdings_ */* */* */\.
 ;
-Copyright (') """\.
+Copyright (') """ */* _holdings_ */* */* */\.
 ;
 Copyright (c) "-"\.
 ;
