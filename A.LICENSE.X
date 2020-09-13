@@ -93,7 +93,7 @@ Copyright (c) ;*/* "PhD"
 
 Copyright (c) */* PhD */* _holdings_ */* */SYSTEM/GROUP/FOUNDATION/* */non-profit\.
 
-Copyright (c) */* Physics/Chemistry/Numerical-Comp */* */* _holdings_ */* */SYSTEM/FOUNDATION/GROUP/* */\.
+Copyright (c) */* Physics/Chemistry/Numerical-Comp */* */* _holdings_ */* */SYSTEM/FOUNDATION/GROUP/TENDER/* */\.
 
 Copyright (c) */* "?" */* _holdings_ */* */* */\.
 
@@ -267,7 +267,7 @@ Copyright (c) */* U.S. Securities Exchange */* _holdings_ */* */Corporation/GROU
 
 Copyright (c) */* CNN */* _holdings_ */* */* Broadcast */* */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 
-Copyright (c) */* US Treasury NOTE */* _holdings_ */* */* _monetization__currency_ */* */* "currencies" */* */GROUP/SYSTEM/SERIES/* */INC./LLC./non-profit\.
+Copyright (c) */* US Treasury NOTE */* _holdings_ */* */* _monetization__currency_ */* */* "currencies" */* *TENDER/GROUP/SYSTEM/SERIES/* */INC./LLC./non-profit\.
 
 Copyright (c) */* National Broadcasting Company (NBC) */* _holdings_ */* */Corporation/GROUP/* */INC./INC./non-profit\.
 
@@ -409,7 +409,7 @@ Copyright (c) */* US Central Intelligence Agency (CIA) */* */* Central Intellige
 
 Copyright (c) */* US National Security Agency/Central Security Service (NSA|CSS) */* */* National Security Agency/Central Security Service (NSA|CSS) */* */* _holdings_ */* */GROUP/SYSTEM/FOUNDATION/* /*\.
 
-Copyright (c) */* The "" Nobel Committee */* The Nobel Prize Committee */* */* The Nobel Prize */* */* _holdings_ */* */GROUP/SERIES/* */\.
+Copyright (c) */* The "" Nobel Committee */* The Nobel Prize Committee */* */* The Nobel Prize */* */* _holdings_ */* */GROUP/SERIES/TENDER/* */\.
 
 All rights reserved.    
 
