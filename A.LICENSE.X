@@ -14,6 +14,8 @@ Copyright (c) ;"MIT License"
 ;
 Copyright (c) ;"inclusive"
 ;
+Copyright (c) ;"agreement"
+;
 Copyright (c) ;"License"
 ;
 Copyright (c) ;"Patent"
