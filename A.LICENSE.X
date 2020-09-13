@@ -42,7 +42,7 @@ Copyright (c) */* PhD */* _holdings_ */* */SYSTEM/GROUP/FOUNDATION/* */non-profi
 ;
 Copyright (c) */* Physics/Chemistry/Numerical-Comp */* */* _holdings_ */* */SYSTEM/FOUNDATION/GROUP/* */\.
 ;
-Copyright (c) ;*/* "?" */* _holdings_ */* */* */\.
+Copyright (c) */* "?" */* _holdings_ */* */* */\.
 ;
 Copyright (c) */* "'" */* _holdings_ */* */* */\.
 ;
@@ -90,7 +90,7 @@ Copyright (c) */* "%" */* _holdings_ */* */* */\.
 ;
 Copyright (c) */* "%%" */* _holdings_ */* */* */\.
 ;
-Copyright (c) "#" */* _holdings_ */* */* */\.
+Copyright (c) ;"#" */* _holdings_ */* */* */\.
 ;
 Copyright (c) "!" */* _holdings_ */* */* */\.
 ;
