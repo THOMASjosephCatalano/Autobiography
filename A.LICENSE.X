@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) ;LICENSE-FORMAT_LEGAL-ACQUISITION-EQUESTRIAN//""Copyright (c)" _"ENTITY"_ "-" _"BACK"_ "-" _"SUB-FIELD"_ "-" _-"BACK"_ "-" _"LEGAL"_ "-" "_"_/_"_"\(.)",(*/* = "continuous"/"pre-post"; merandum(s)'s, etc so forth, not required preposit of _entity, sefor ex.)\.
+Copyright (c) ;LICENSE-FORMAT_LEGAL-ACQUISITION-EQUES//""Copyright (c)" _"ENTITY"_ "-" _"BACK"_ "-" _"SUB-FIELD"_ "-" _-"BACK"_ "-" _"LEGAL"_ "-" "_"_/_"_"\(.)",(*/* = "continuous"/"pre-post"; merandum(s)'s, etc so forth, not required preposit of _entity, sefor ex.)\.
 ;
 Copyright (c) THOMAS CATALANO
 ;
