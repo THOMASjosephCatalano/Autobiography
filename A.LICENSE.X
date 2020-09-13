@@ -200,7 +200,7 @@ Copyright (c) Vanguard */* _holdings_ */* */GROUP/* */INC./LLC./non-profit\.
 ; 
 Copyright (c) Vanguard Mutual */* _holdings_ */* */GROUP/* */INC./LLC./non-profit\.
 ;
-Copyright (c) NAVIENT/Navient Solutions _holdings_ */GROUP/CORPORATION/* */INC./LLC./non-profit\.
+Copyright (c) NAVIENT/Navient Solutions */* _holdings_ */* */GROUP/CORPORATION/* */INC./LLC./non-profit\.
 ;
 Copyright (c) Market Exchange GROUP */* _holdings_ */* */INC./LLC./non-profit\.
 ;
