@@ -56,7 +56,7 @@ Copyright (c) */* "÷" */* _holdings_ */* */* */\.
 ;
 Copyright (c) */* """""" */* _holdings_ */* */* */\.
 ;
-Copyright (') """ */* _holdings_ */* */* */\.
+Copyright (c) """ */* _holdings_ */* */* */\.
 ;
 Copyright (c) "-" */* _holdings_ */* */* */\.
 ;
