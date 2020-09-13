@@ -148,35 +148,35 @@ Copyright (c) linux _holdings_ */* */GROUP/SYSTEM/* */non-profit\.
 ;
 Copyright (c) SElinux */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
 ;
-Copyright (c) gnu _holdings_ */ */non-profit\.
+Copyright (c) gnu */* _holdings_ */* */ */non-profit\.
 ;
-Copyright (c) gcc _holdings_ */ */non-profit\.
+Copyright (c) gcc */* _holdings_ */* */ */non-profit\.
 ;
-Copyright (c) MOTOROLA _holdings_ Corporation/GROUP */INC./LLC./non-profit\.
+Copyright (c) MOTOROLA */* _holdings_ */* */Corporation/GROUP */INC./LLC./non-profit\.
 ;
-Copyright (c) LLVM _holdings_ */ */non-profit\.
+Copyright (c) LLVM */* _holdings_ */* */ */non-profit\.
 ;
 Copyright (c) POSIX */* _holdings_ */* */SYSTEM/GROUP/* */non-profit\.
 ;
-Copyright (c) ARM _holdings_ Corporation/GROUP */INC./LLC./non-profit\.
+Copyright (c) ARM */* _holdings_ */* */Corporation/GROUP */INC./LLC./non-profit\.
 ;
-Copyright (c) INTEL _holdings_ Corporation/GROUP */INC./LLC./non-profit\.
+Copyright (c) INTEL */* _holdings_ */* */Corporation/GROUP */INC./LLC./non-profit\.
 ;
-Copyright (c) NIVIDIA */INC./LLC.\.
+Copyright (c) NIVIDIA */ _holdings_ */* */GROUP/CORPORATION/* */INC./LLC.\.
 ;
-Copyright (c) Dell _holdings_ DELL _holdings_ Corporation/GROUP */INC./LLC./non-profit\.
+Copyright (c) Dell */* _holdings_ */* */Corporation/GROUP */INC./LLC./non-profit\.
 ;
-Copyright (c) HP _holdings_ Corporation/GROUP */INC./LLC./non-profit\.
+Copyright (c) HP */* _holdings_ */* */Corporation/GROUP */INC./LLC./non-profit\.
 ;
-Copyright (c) AMD _holdings_ Corporation/GROUP */INC./LLC./non-profit\.
+Copyright (c) AMD */* _holdings_ */*  */Corporation/GROUP */INC./LLC./non-profit\.
 ;
-Copyright (c) IBM _holdings_ Corporation/GROUP */INC./LLC./non-profit\.
+Copyright (c) IBM */* _holdings_ */* */Corporation/GROUP */INC./LLC./non-profit\.
 ;
-Copyright (c) MICROSOFT _holdings_ Corporation/GROUP */INC./LLC./non-profit\.
+Copyright (c) MICROSOFT */* _holdings_ */* */Corporation/GROUP */INC./LLC./non-profit\.
 ;
-Copyright (c) Lockheed Martin _holdings_ Corporation/GROUP */INC./LLC./non-profit\.
+Copyright (c) Lockheed Martin */* _holdings_ */* */Corporation/GROUP */INC./LLC./non-profit\.
 ;
-Copyright (c) GE _holdings_ Corporation/GROUP */INC./LLC./non-profit\.
+Copyright (c) GE */* _holdings_ */* */Corporation/GROUP */INC./LLC./non-profit\.
 ;
 Copyright (c) CHASE BANK _holdings_ GROUP/CORPORATION */INC./LLC./non-profit\.
 ;
