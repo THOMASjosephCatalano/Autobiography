@@ -310,7 +310,7 @@ Copyright (c) International Monetary Fund (IMF) */* _holdings_ */* */GROUP/SYSTE
 ;
 Copyright (c) Group of Seven (G7) */* _holdings_ */* */GROUP/SYSTEM/FORTHSET/* */non-profit\.
 ;
-Copyright (c) Federation International Automobile (FIA) */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
+Copyright (c) Federation International of Automobile (FIA) */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
 ;
 Copyright (c) National Football League (NFL) */* _holdings_ */* */GROUP/CORPORATION/SYSTEM*/ */\.
 ;
