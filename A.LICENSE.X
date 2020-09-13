@@ -73,6 +73,8 @@ Copyright (c) */* BIT(s);"BIT(s)" */* _holdings_ */* */* */\.
 
 Copyright (c) */* ALTUSNET */* _holdings */* */\.
 
+Copyright (c) */* ALTUSNET */* "ALTUSNET"
+
 Copyright (c) */* "cryptocurrency" */* */cryptocurrency/*;:((blockchain;algorithm)&|"like") */* */* _holdings_ */* */\.
 
 Copyright (c) */* https:// */* */*"https://" */* */* _holdings */* */* */\.
