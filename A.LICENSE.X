@@ -323,6 +323,8 @@ Copyright (c) Major League Baseball (MLB) */* _holdings_ */* */GROUP/CORPORATION
 Copyright (c) National Hockey League (NHL) */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
 ;
 Copyright (c) Formula One (F1) */* "automobile" */* */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
+;
+Copyright (c) The 24hrs of Le Mans () */* automobile" */* */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
 
 All rights reserved.    
 
