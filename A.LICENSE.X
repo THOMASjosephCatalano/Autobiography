@@ -192,7 +192,7 @@ Copyright (c) NYSE */* _holdings_ */* */Corporation/GROUP */INC./LLC./non-profit
 ;
 Copyright (c) NASDAQ */* _holdings_ */* */GROUP/Corporation */INC./LLC./non-profit\.
 ;
-Copyright (c) Space X _holdings_ */Corporation/GROUP */INC./LLC./non-profit\.
+Copyright (c) Space X */* _holdings_ */* */Corporation/GROUP */INC./LLC./non-profit\.
 ;
 Copyright (c) Alenia Aeronautica */* _holdings_ */* */GROUP/* */INC./LLC./non-profit\.
 ;
