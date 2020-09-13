@@ -120,7 +120,7 @@ Copyright (c) src-git */* _holdings_ */* */GROUP */non-profit\.
 ;
 Copyright (c) github */* _holdings_ */* */Corporation/GROUP */INC./LLC./non-profit\.
 ;
-Copyright (c) git/github/github.com/tomsnode\.
+Copyright (c) git/github/github.com/tomsnode */* _holdings_ */* */* */\.
 ;
 Copyright (c) git/github/github.com/conceptslearningmachine\.
 ;
