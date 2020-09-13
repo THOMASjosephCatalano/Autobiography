@@ -14,7 +14,7 @@ Copyright (c) BIT(s);"BIT(s)"(information/time/frames) */* _holdings_ */* */SYST
 ;
 Copyright (c) BIT(s);"BIT(s) "LICENSE"" */* _holdings_ */* */* */\.
 ;
-Copyright (c) BIT(s) */* _holdings_ */* */* */\.
+Copyright (c) */* BIT(s) */* _holdings_ */* */* */\.
 ;
 Copyright (c) BIT(s);"BIT(s)" */* _holdings_ */* */* */\.
 ;
