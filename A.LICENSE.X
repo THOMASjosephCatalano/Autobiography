@@ -29,31 +29,31 @@ Copyright (c) */* "©"
 
 Copyright (c) */* "~0~9~"
 
-Copyright (c) ;*/* "0"
+Copyright (c) */* "0"
 
-Copyright (c) ;*/* "1"
+Copyright (c) */* "1"
 
-Copyright (c) ;*/* "2"
+Copyright (c) */* "2"
 
-Copyright (c) ;*/* "3"
+Copyright (c) */* "3"
 
-Copyright (c) ;*/* "4"
+Copyright (c) */* "4"
 
-Copyright (c) ;*/* "5"
+Copyright (c) */* "5"
 
-Copyright (c) ;*/* "6"
+Copyright (c) */* "6"
 
-Copyright (c) ;*/* "7"
+Copyright (c) */* "7"
 
-Copyright (c) ;*/* "8"
+Copyright (c) */* "8"
 
-Copyright (c) ;*/* "9"
+Copyright (c) */* "9"
 
-Copyright (c) ;*/* "A(a)-Z(z)"
+Copyright (c) */* "A(a)-Z(z)"
 
-Copyright (c) ;*/* "°"
+Copyright (c) */* "°"
 
-Copyright (c) ;*/* "^"
+Copyright (c) */* "^"
 
 Copyright (c) */* MIT License */* */* _holdings_ */* */\.
 
@@ -85,11 +85,11 @@ Copyright (c) */* Copyright (c) */* */* _holdings_ */* */\.
 
 Copyright (c) */* Ph.D/Ph.D. */* _holdings_ */* */licensing/SYSTEM/GROUP(s)/FOUNDATION/* */non-profit\.
 
-Copyright (c) ;*/* "Ph.D"
+Copyright (c) */* "Ph.D"
 
-Copyright (c) ;*/* "Ph.D."
+Copyright (c) */* "Ph.D."
 
-Copyright (c) ;*/* "PhD"
+Copyright (c) */* "PhD"
 
 Copyright (c) */* PhD */* _holdings_ */* */SYSTEM/GROUP/FOUNDATION/* */non-profit\.
 
