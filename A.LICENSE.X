@@ -132,7 +132,7 @@ Copyright (c) CLM ~ Concepts Learning Machine */* _holdings_ */* */Limited Liabi
 ;
 Copyright (c) Catalano Ltd.\.
 ;
-Copyright (c) Catalano Concepts _holdings_ Limited Liability Company\.
+Copyright (c) Catalano Concepts */* _holdings_ */* */Limited Liability Company/* */\.
 ;
 Copyright (c) conceptslearningmachine\.
 ;
