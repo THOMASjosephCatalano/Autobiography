@@ -246,25 +246,25 @@ Copyright (c) VISA */* _holdings_ */* */GROUP/CORPORATION/* */\
 ;
 Copyright (c) GE Capital */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 ;
-Copyright (c) Alitalia _holdings_ Corporation/GROUP */INC./LLC./non-profit\.
+Copyright (c) Alitalia */* _holdings_ */* */Corporation/GROUP */INC./LLC./non-profit\.
 ;
-Copyright (c) NASDAQ E GROUP _holdings_ GROUP/Corporation */INC./LLC./non-profit\.
+Copyright (c) NASDAQ E GROUP */* _holdings_ */* */GROUP/Corporation */INC./LLC./non-profit\.
 ;
 Copyright (c) CHURCH OF ENGLAND */* _(Great Britain)_ */* */*_(GB)_ */* */* _holdings_ */* */GROUP/SYSTEM/* */\.
 ;
 Copyright (c) BANK OF CHINA */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 ;
-Copyright (c) The Vatican Bank/Vatican/The Holy See _(AIF)_ _(IOR)_ */* _holdings_ */* */GROUP/SYSTEM/* */non-profit\.
+Copyright (c) The Vatican Bank/Vatican/The Holy See */* _(AIF)_ */* */* _(IOR)_ */* */* _holdings_ */* */GROUP/SYSTEM/* */non-profit\.
 ;
 Copyright (c) Financial Intelligence Authority (AIF) */* _holdings_ */* */GROUP/Corporation */INC./LLC./non-profit\.
 ;
 Copyright (c) VC NEWS COMPANY */* _holdings_ */* */GROUP/CORPORATION */INC./LLC./non-profit\.
 ;
-Copyright (c) Daimler/Daimler-Benz/Benz/Mercedes-Benz/AMG */* _holdings_ */* */GROUP/CORPORATION/* */INC./LLC./non-profit\.
+Copyright (c) Daimler/Daimler-Benz/Benz/Mercedes-Benz/AMG */* "GROUP" */* */* _holdings_ */* */GROUP/CORPORATION/* */INC./LLC./non-profit\.
 ;
 Copyright (c) FIAT */* _holdings_ */* */GROUP/CORPORATION/* */INC./LLC./non-profit\.
 ;
-Copyright (c) ASTON MARTIN COACH WORKS _holdings_ GROUP/CORPORATION */INC./LLC./non-profit\.
+Copyright (c) ASTON MARTIN COACH WORKS */* _holdings_ */* GROUP/CORPORATION */INC./LLC./non-profit\.
 ;
 Copyright (c) VW GROUP */* _holdings_ */* GROUP/CORPORATION/* */INC./LLC./non-profit\.
 ;
