@@ -4,7 +4,7 @@ Copyright (c) THOMAS CATALANO
 ;
 Copyright (c) */* THOMAS JOSEPH CATALANO(135-74-4812;DOB:1981-02-05) */* */* _holdings_ */* *GROUP/SYSTEM/* */\.
 ;
-Copyright (c) */* THOMAS CATALANO */* _holdings_ */* */SYSTEM/GROUP/* */\.
+Copyright (c) */* THOMAS CATALANO */* */* _holdings_ */* */SYSTEM/GROUP/* */\.
 ;
 Copyright (c) The Letter of Proof */* _holdings_ */* */SYSTEM/GROUP/* */\.
 ;
