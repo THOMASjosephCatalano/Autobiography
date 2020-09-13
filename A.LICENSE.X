@@ -329,6 +329,8 @@ Copyright (c) The 24hrs of Le Mans () */* automobile" */* */* _holdings_ */* */G
 Copyright (c) National Association for Stock Car Racing (NASCAR) */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
 ;
 Copyright (c) The International Olympic Committee (IOC) (CIO) (NOC) */ _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
+;
+Copyright (c) TeamUSA (USOC) */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
 
 All rights reserved.    
 
