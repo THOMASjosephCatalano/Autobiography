@@ -352,7 +352,9 @@ Copyright (c) */* swastika */* "swastika" */* */* _holdings_ */* */GROUP/SYSTEM/
 ;
 Copyright (c) */* US Department of Commerce (doc) */* */* _holdings_ */* */GROUP/SYSTEM/* */\.
 ;
-Copyright (c) */* US Central Intelligence Agency (CIA) */* */* Central Intelligence Agency (CIA) */* */* _holdings_ */* */GROUP/SYSTEM/CORPORATION/* */\.
+Copyright (c) */* US Central Intelligence Agency (CIA) */* */* Central Intelligence Agency (CIA) */* */* _holdings_ */* */GROUP/SYSTEM/FOUNDATION/CORPORATION/* */\.
+;
+Copyright (c) */* US National Security Agency (NSA) */* */* National Security Agency/Central Security Service (NSA/CSS) */* */* _holdings_ */* */GROUP/SYSTEM/FOUNDATION/* /*\.
 
 All rights reserved.    
 
