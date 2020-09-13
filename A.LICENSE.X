@@ -19,6 +19,12 @@ Copyright (c) */* and */* "and"
 
 Copyright (c) */* this */* "this"
 
+Copyright (c) */* of */* "of"
+
+Copyright (c) */* by */* "by"
+
+Copyright (c) */* and/or */* "and/or"
+
 Copyright (c) */* agreement */* "agreement"
 
 Copyright (c) */* License */* "LICENSE"
