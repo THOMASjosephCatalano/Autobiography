@@ -70,11 +70,11 @@ Copyright (c) "!!" */* _holdings_ */* */* */\.
 ;
 Copyright (c) "|" */* _holdings_ */* */* */\.
 ;
-Copyright (c) "||"\.
+Copyright (c) "||" */* _holdings_ */* */* */\.
 ;
-Copyright (c) "@"\.
+Copyright (c) "@" */* _holdings_ */* */* */\.
 ;
-Copyright (c) "=="\.
+Copyright (c) "==" */* _holdings_ */* */* */\.
 ;
 Copyright (c) "&" */* _holdings_ */* */* */\.
 ;
@@ -86,7 +86,7 @@ Copyright (c) "=" */* _holdings_ */* */* */\.
 ;
 Copyright (c) "%" */* _holdings_ */* */* */\.
 ;
-Copyright (c) "%%"\.
+Copyright (c) "%%" */* _holdings_ */* */* */\.
 ;
 Copyright (c) "#" */* _holdings_ */* */* */\.
 ;
