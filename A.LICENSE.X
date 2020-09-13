@@ -341,6 +341,8 @@ Copyright (c) America Broadcasting Company (ABC) */* _holdings_ */* */GROUP/CORP
 Copyright (c) Scudaria Ferrari */* Ferrari */* */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
 ;
 Copyright (c) Automobiles Ettore Bugatti */* Bugatti */* */* _holdings_ */* */GROUP/CORPORATION/* */\.
+;
+Copyright (c) Binary Translation */* coding/alpha-numerics-symbols */* */* _holdings_ */* */SYSTEM/GROUP/* */\.
 
 All rights reserved.    
 
