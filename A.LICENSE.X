@@ -10,13 +10,13 @@ Copyright (c) */* THOMAS CATALANO */* */* _holdings_ */* */SYSTEM/GROUP/* */\.
 ;
 Copyright (c) */* The Letter of Proof */* _holdings_ */* */SYSTEM/GROUP/* */\.
 ;
-Copyright (c) BIT(s);"BIT(s)"(information/time/frames) */* _holdings_ */* */SYSTEM/FOUNDATION/GROUP(s)/* */\.
+Copyright (c) */* BIT(s);"BIT(s)"(information/time/frames) */* _holdings_ */* */SYSTEM/FOUNDATION/GROUP(s)/* */\.
 ;
-Copyright (c) BIT(s);"BIT(s) "License"" */* _holdings_ */* */* */\.
+Copyright (c) */* BIT(s);"BIT(s) "License"" */* _holdings_ */* */* */\.
 ;
 Copyright (c) */* BIT(s) */* _holdings_ */* */* */\.
 ;
-Copyright (c) BIT(s);"BIT(s)" */* _holdings_ */* */* */\.
+Copyright (c) */* BIT(s);"BIT(s)" */* _holdings_ */* */* */\.
 ;
 Copyright (c) */* ALTUSNET */* _holdings */* */\.
 ;
@@ -100,31 +100,31 @@ Copyright (c) */* "," */* _holdings_ */* */* */\.
 ;
 Copyright (c) */* "/" */* _holdings_ */* */* */\.
 ;
-Copyright (c) ;""\"" */* _holdings_ */* */* */\.
+Copyright (c) */* ;""\"" */* _holdings_ */* */* */\.
 ;
-Copyright (c) ;"";"" */* _holdings_ */* */* */\.
+Copyright (c) */* ;"";"" */* _holdings_ */* */* */\.
 ;
-Copyright (c) ;""*"" */* _holdings */* */* */\.
+Copyright (c) */* ;""*"" */* _holdings */* */* */\.
 ;
-Copyright (c) ;""~"" */* _holdings_ */* */* */\.
+Copyright (c) */* ;""~"" */* _holdings_ */* */* */\.
 ;
-Copyright (c) ;""("")"" */* _holdings_ */* */* */\.
+Copyright (c) */* ;""("")"" */* _holdings_ */* */* */\.
 ;
-Copyright (c) ;"" */* _holdings_ */* */* */\.
+Copyright (c) */* ;"" */* _holdings_ */* */* */\.
 ;
-Copyright (c) ;""."" */* _holdings_ */* */* */\.
+Copyright (c) */* ;""."" */* _holdings_ */* */* */\.
 ;
-Copyright (c) ;"":"" */* _holdings_ */* */\.
+Copyright (c) */* ;"":"" */* _holdings_ */* */\.
 ;
-Copyright (c) git-src */* _holdings_ */* */* */non-profit\.
+Copyright (c) */* git-src */* _holdings_ */* */* */non-profit\.
 ;
-Copyright (c) src-git */* _holdings_ */* *SYSTEM//GROUP/* */non-profit\.
+Copyright (c) */* src-git */* _holdings_ */* *SYSTEM//GROUP/* */non-profit\.
 ;
-Copyright (c) github */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
+Copyright (c) */* github */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 ;
-Copyright (c) git/github/github.com/tomsnode */* _holdings_ */* */* */\.
+Copyright (c) */* git/github/github.com/tomsnode */* _holdings_ */* */* */\.
 ;
-Copyright (c) git/github/github.com/conceptslearningmachine */* _holdings_ */* */* */\.\.
+Copyright (c) */* git/github/github.com/conceptslearningmachine */* _holdings_ */* */* */\.\.
 ;
 Copyright (c) git/github/github.com/ALTUSNETS */* _holdings_ */* */* */\.
 ;
