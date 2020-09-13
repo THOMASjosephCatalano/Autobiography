@@ -22,7 +22,7 @@ Copyright (c) */* ALTUSNET */* _holdings */* */\.
 ;
 Copyright (c) "cryptocurrency" */* */cryptocurrency/*;:((blockchain;algorithm)&|"like") */* */* _holdings_ */* */\.
 ;
-Copyright (c) "https://" */* _holdings */* */* */\.
+Copyright (c) */* https:// */* */*"https://" */* */* _holdings */* */* */\.
 ;
 Copyright (c) "http://" */* _holdings_ */* */* */\.
 ;
