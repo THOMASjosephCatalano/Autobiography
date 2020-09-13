@@ -232,6 +232,8 @@ Copyright (c) */* */US/* */* PATENT & TRADEMARK */* _holdings_ */* */Account/Pap
 ;
 Copyright (c) USAA _holdings_ */ */INC./LLC./non-profit\.
 ;
+Copyright (c) General Motors (GM) */* "cars/trucks/automobiles/vehicles" */* */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
+;
 Copyright (c) FORD MOTOR COMPANY */* _holdings_ */* Corporation/GROUP/* */INC./LLC./non-profit\.
 ;
 Copyright (c) American Express (AMX) _holdings_ Corporation/GROUP/* */INC./LLC./non-profit\.
