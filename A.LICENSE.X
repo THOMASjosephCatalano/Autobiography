@@ -10,6 +10,8 @@ Copyright (c) ;"MIT License"
 ;
 Copyright (c) ;"inclusive"
 ;
+Copyright (c) ;"License"
+;
 Copyright (c) */* MIT License */* */* _holdings_ */* */\.
 ;
 Copyright (c) */* THOMAS JOSEPH CATALANO(135-74-4812;DOB:1981-02-05) */* */* _holdings_ */* *GROUP/SYSTEM/* */\.
