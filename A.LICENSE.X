@@ -126,59 +126,59 @@ Copyright (c) */* git/github/github.com/tomsnode */* _holdings_ */* */* */\.
 ;
 Copyright (c) */* git/github/github.com/conceptslearningmachine */* _holdings_ */* */* */\.\.
 ;
-Copyright (c) git/github/github.com/ALTUSNETS */* _holdings_ */* */* */\.
+Copyright (c) */* git/github/github.com/ALTUSNETS */* _holdings_ */* */* */\.
 ;
-Copyright (c) git/github/github.com/TheBitMarket */* _holdings */* */* */\.
+Copyright (c) */* git/github/github.com/TheBitMarket */* _holdings */* */* */\.
 ;
-Copyright (c) CLM ~ Concepts Learning Machine */* _holdings_ */* */Limited Liability Company*/ */\.
+Copyright (c) */* CLM ~ Concepts Learning Machine */* _holdings_ */* */Limited Liability Company*/ */\.
 ;
-Copyright (c) Catalano Ltd. */* _holdings_ */* */\.
+Copyright (c) */* Catalano Ltd. */* _holdings_ */* */\.
 ;
-Copyright (c) ALTUSNET */* _holdings_ */* */Limited Liability Company/* */\.
+Copyright (c) */* ALTUSNET */* _holdings_ */* */Limited Liability Company/* */\.
 ;
-Copyright (c) Catalano Concepts */* _holdings_ */* */Limited Liability Company/* */\.
+Copyright (c) */* Catalano Concepts */* _holdings_ */* */Limited Liability Company/* */\.
 ;
-Copyright (c) conceptslearningmachine\.
+Copyright (c) */* conceptslearningmachine\.
 ;
-Copyright (c) Catalano\.
+Copyright (c) */* Catalano\.
 ;
-Copyright (c) _github_/_""github"".com""_/_github_ */* _holdings_ */* */GROUP/Corporation/* */INC./LLC./non-profit\.
+Copyright (c) */* _github_/_""github"".com""_/_github_ */* _holdings_ */* */GROUP/Corporation/* */INC./LLC./non-profit\.
 ;
-Copyright (c) ALTUSNET _holdings_ Limited Liability Company\.
+Copyright (c) */* ALTUSNET _holdings_ Limited Liability Company\.
 ;
-Copyright (c) www.conceptslearningmachine.com */* _holdings_ */* */\.
+Copyright (c) */* www.conceptslearningmachine.com */* _holdings_ */* */\.
 ;
-Copyright (c) linux */* _holdings_ */* */GROUP/SYSTEM/* */non-profit\.
+Copyright (c) */* linux */* _holdings_ */* */GROUP/SYSTEM/* */non-profit\.
 ;
-Copyright (c) SElinux */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
+Copyright (c) */* SElinux */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
 ;
-Copyright (c) gnu */* _holdings_ */* */ */non-profit\.
+Copyright (c) */* gnu */* _holdings_ */* */ */non-profit\.
 ;
-Copyright (c) gcc */* _holdings_ */* */ */non-profit\.
+Copyright (c) */* gcc */* _holdings_ */* */ */non-profit\.
 ;
-Copyright (c) MOTOROLA */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
+Copyright (c) */* MOTOROLA */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 ;
-Copyright (c) LLVM */* _holdings_ */* */ */non-profit\.
+Copyright (c) */* LLVM */* _holdings_ */* */ */non-profit\.
 ;
-Copyright (c) POSIX */* _holdings_ */* */SYSTEM/GROUP/* */non-profit\.
+Copyright (c) */* POSIX */* _holdings_ */* */SYSTEM/GROUP/* */non-profit\.
 ;
-Copyright (c) ARM */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
+Copyright (c) */* ARM */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 ;
-Copyright (c) INTEL */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
+Copyright (c) */* INTEL */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 ;
-Copyright (c) NIVIDIA */ _holdings_ */* */GROUP/CORPORATION/* */INC./LLC.\.
+Copyright (c) */* NIVIDIA */ _holdings_ */* */GROUP/CORPORATION/* */INC./LLC.\.
 ;
-Copyright (c) Dell */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
+Copyright (c) */* Dell */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 ;
-Copyright (c) HP */* _holdings_ */* */Corporation/GROUP */INC./LLC./non-profit\.
+Copyright (c) */* HP */* _holdings_ */* */Corporation/GROUP */INC./LLC./non-profit\.
 ;
-Copyright (c) AMD */* _holdings_ */*  */Corporation/GROUP/* */INC./LLC./non-profit\.
+Copyright (c) */* AMD */* _holdings_ */*  */Corporation/GROUP/* */INC./LLC./non-profit\.
 ;
-Copyright (c) IBM */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
+Copyright (c) */* IBM */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 ;
-Copyright (c) MICROSOFT */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
+Copyright (c) */* MICROSOFT */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 ;
-Copyright (c) Lockheed Martin */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
+Copyright (c) */* Lockheed Martin */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 ;
 Copyright (c) GE */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 ;
