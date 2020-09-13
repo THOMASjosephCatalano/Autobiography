@@ -28,7 +28,7 @@ Copyright (c) "http://" */* _holdings_ */* */* */\.
 ;
 Copyright (c) */* "www." */* _holdings_ */* */* */\.
 ;
-Copyright (c) 
+Copyright (c) */* Copyright (c) */* */* _holdings_ */* */\.
 ;
 Copyright (c) "Ph.D"\.
 ;
