@@ -319,6 +319,10 @@ Copyright (c) Federation International of Football Association (FIFA) (fifa) */*
 Copyright (c) National Basketball Association (NBA) */* _holdings_ */* GROUP/CORPORATION/SYSTEM/* */\.
 ;
 Copyright (c) Major League Baseball (MLB) */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
+;
+Copyright (c) National Hockey League (NHL) */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
+;
+Copyright (c) Formula One (F1) */* "automobile" */* */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
 
 All rights reserved.    
 
