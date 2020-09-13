@@ -15,6 +15,10 @@ Copyright (c) */* MIT License */* "MIT License"
 
 Copyright (c) */* inclusive */* "inclusive"
 
+Copyright (c) */* and */* "and"
+
+Copyright (c) */* this */* "this"
+
 Copyright (c) */* agreement */* "agreement"
 
 Copyright (c) */* License */* "LICENSE"
