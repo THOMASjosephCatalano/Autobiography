@@ -42,11 +42,11 @@ Copyright (c) PhD */* _holdings_ */* */SYSTEM/GROUP/FOUNDATION/* */non-profit\.
 ;
 Copyright (c) */* Physics/Chemistry/Numerical-Comp */* */* _holdings_ */* */SYSTEM/FOUNDATION/GROUP/* */\.
 ;
-Copyright (c) "?" */* _holdings_ */* */* */\.
+Copyright (c) */* "?" */* _holdings_ */* */* */\.
 ;
-Copyright (c) "'" */* _holdings_ */* */* */\.
+Copyright (c) */* "'" */* _holdings_ */* */* */\.
 ;
-Copyright (c) "+" */* _holdings_ */* */* */\.
+Copyright (c) */* "+" */* _holdings_ */* */* */\.
 ;
 Copyright (c) ""-"" */* _holdings_ */* */* */\.
 ;
@@ -222,19 +222,19 @@ Copyright (c) MARVEL / MARVEL CINEMATIC UNIVERSE */* _holdings_ */* */Corporatio
 ;
 Copyright (c) Warner Brothers */* _holdings_ */* */* Studio's */* */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 ;
-Copyright (c) GOOGLE */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
+Copyright (c) */* GOOGLE */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 ;
-Copyright (c) US Naval Research Laboratory (NRL) */* _holdings_ */* */Corporation/GROUP/SYSTEM/* */INC./LLC./non-profit\.
+Copyright (c) */* US Naval Research Laboratory (NRL) */* _holdings_ */* */Corporation/GROUP/SYSTEM/* */INC./LLC./non-profit\.
 ;
-Copyright (c) US Army Research Laboratory (ARL) */* _holdings_ */* */GROUP/Corporation/SYSTEM/* */INC./LLC./non-profit\.
+Copyright (c) */* US Army Research Laboratory (ARL) */* _holdings_ */* */GROUP/Corporation/SYSTEM/* */INC./LLC./non-profit\.
 ;
-Copyright (c) PIMCO HOLDINGS */* _holdings_ */* */GROUP/Corporation/* */INC./LLC./non-profit\.
+Copyright (c) */* PIMCO HOLDINGS */* _holdings_ */* */GROUP/Corporation/* */INC./LLC./non-profit\.
 ;
-Copyright (c) Motion Picture Association of America */* _holdings_ */* */ */INC./LLC./non-profit\.
+Copyright (c) */* Motion Picture Association of America */* _holdings_ */* */ */INC./LLC./non-profit\.
 ;
 Copyright (c) */* */US/* */* */* ""PATENT" _&_ "TRADEMARK"" */* */* _holdings_ */* */Account/Papers/Writings/Format/SYSTEM/GROUP/* */ */non-profit\.
 ;
-Copyright (c) USAA */* _holdings_ */* */ */INC./LLC./non-profit\.
+Copyright (c) */* USAA */* _holdings_ */* */ */INC./LLC./non-profit\.
 ;
 Copyright (c) General Motors (GM) */* "cars/trucks/automobiles/vehicles" */* */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
 ;
