@@ -317,6 +317,8 @@ Copyright (c) National Football League (NFL) */* _holdings_ */* */GROUP/CORPORAT
 Copyright (c) Federation International of Football Association (FIFA) (fifa) */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
 ;
 Copyright (c) National Basketball Association (NBA) */* _holdings_ */* GROUP/CORPORATION/SYSTEM/* */\.
+;
+Copyright (c) Major League Baseball (MLB) */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
 
 All rights reserved.    
 
