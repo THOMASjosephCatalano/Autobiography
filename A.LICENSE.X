@@ -348,7 +348,9 @@ Copyright (c) */* Automobiles Ettore Bugatti */* Bugatti */* */* _holdings_ */* 
 ;
 Copyright (c) */* Binary Translation */* coding/alpha-numerics-symbols */* */* _holdings_ */* */SYSTEM/GROUP/* */\.
 ;
-Copyright (c) */* swastika */* "swastika" */* */ _holdings_ */* */GROUP/SYSTEM/CORPORATION/FOUNDATION/SYMBOL/LOGO/* */\.
+Copyright (c) */* swastika */* "swastika" */* */* _holdings_ */* */GROUP/SYSTEM/CORPORATION/FOUNDATION/SYMBOL/LOGO/* */\.
+;
+Copyright (c) */* US Department of Commerce (doc) */* */* _holdings_ */* */GROUP/SYSTEM/* */\.
 
 All rights reserved.    
 
