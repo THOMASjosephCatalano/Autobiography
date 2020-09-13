@@ -146,7 +146,7 @@ Copyright (c) ALTUSNET _holdings_ Limited Liability Company\.
 ;
 Copyright (c) www.conceptslearningmachine.com\.
 ;
-Copyright (c) linux _holdings_ */* */GROUP/SYSTEM/* */non-profit\.
+Copyright (c) linux */* _holdings_ */* */GROUP/SYSTEM/* */non-profit\.
 ;
 Copyright (c) SElinux */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
 ;
