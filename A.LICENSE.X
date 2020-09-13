@@ -142,7 +142,7 @@ Copyright (c) conceptslearningmachine\.
 ;
 Copyright (c) Catalano\.
 ;
-Copyright (c) _github_/_"github".com""_/_github_ */* _holdings_ */* */GROUP/Corporation/* */INC./LLC./non-profit\.
+Copyright (c) _github_/_github".com"_/_github_ */* _holdings_ */* */GROUP/Corporation/* */INC./LLC./non-profit\.
 ;
 Copyright (c) ALTUSNET _holdings_ Limited Liability Company\.
 ;
