@@ -122,11 +122,11 @@ Copyright (c) github */* _holdings_ */* */Corporation/GROUP */INC./LLC./non-prof
 ;
 Copyright (c) git/github/github.com/tomsnode */* _holdings_ */* */* */\.
 ;
-Copyright (c) git/github/github.com/conceptslearningmachine\.
+Copyright (c) git/github/github.com/conceptslearningmachine */* _holdings_ */* */* */\.\.
 ;
-Copyright (c) git/github/github.com/ALTUSNETS\.
+Copyright (c) git/github/github.com/ALTUSNETS */* _holdings_ */* */* */\.
 ;
-Copyright (c) git/github/github.com/TheBitMarket\.
+Copyright (c) git/github/github.com/TheBitMarket */* _holdings */* */* */\.
 ;
 Copyright (c) CLM ~ Concepts Learning Machine */* _holdings_ */* */Limited Liability Company*/ */\.
 ;
