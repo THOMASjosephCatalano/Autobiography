@@ -196,7 +196,7 @@ Copyright (c) */* NASDAQ */* _holdings_ */* */GROUP/Corporation/* */INC./LLC./no
 ;
 Copyright (c) */* Space X */* _holdings_ */* */Corporation/GROUP */INC./LLC./non-profit\.
 ;
-Copyright (c) Alenia Aeronautica */* _holdings_ */* */GROUP/* */INC./LLC./non-profit\.
+Copyright (c) */* Alenia Aeronautica */* _holdings_ */* */GROUP/* */INC./LLC./non-profit\.
 ;
 Copyright (c) */* Vanguard */* _holdings_ */* */GROUP/* */INC./LLC./non-profit\.
 ; 
@@ -204,7 +204,7 @@ Copyright (c) */* Vanguard Mutual */* _holdings_ */* */GROUP/* */INC./LLC./non-p
 ;
 Copyright (c) */* NAVIENT/Navient Solutions */* _holdings_ */* */GROUP/CORPORATION/* */INC./LLC./non-profit\.
 ;
-Copyright (c) Market Exchange GROUP */* _holdings_ */* */GROUP/* */INC./LLC./non-profit\.
+Copyright (c) */* Market Exchange GROUP */* _holdings_ */* */GROUP/* */INC./LLC./non-profit\.
 ;
 Copyright (c) */* Bank of America */* _holdings_ */* */* */GROUP*/Corporation/* */INC./LLC./non-profit\.
 ;
