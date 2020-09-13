@@ -8,7 +8,7 @@ Copyright (c) */* THOMAS CATALANO */* */* _holdings_ */* */SYSTEM/GROUP/* */\.
 ;
 Copyright (c) The Letter of Proof */* _holdings_ */* */SYSTEM/GROUP/* */\.
 ;
-Copyright (c) BIT(s);"BIT(s)"(information/time/frames) */* _holdings_ */* */SYSTEM/FOUNDATION/GROUP/* */\.
+Copyright (c) BIT(s);"BIT(s)"(information/time/frames) */* _holdings_ */* */SYSTEM/FOUNDATION/GROUP(s)/* */\.
 ;
 Copyright (c) BIT(s);"BIT(s) "LICENSE"" */* _holdings_ */* */* */\.
 ;
@@ -30,7 +30,7 @@ Copyright (c)
 ;
 Copyright (c) "Ph.D"\.
 ;
-Copyright (c) Ph.D/Ph.D. */* _holdings_ */* */licensing/SYSTEM/GROUP/FOUNDATION/* */non-profit\.
+Copyright (c) Ph.D/Ph.D. */* _holdings_ */* */licensing/SYSTEM/GROUP(s)/FOUNDATION/* */non-profit\.
 ;
 Copyright (c) "Ph.D."\.
 ;
