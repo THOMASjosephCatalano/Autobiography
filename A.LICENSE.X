@@ -46,6 +46,8 @@ Copyright (c) ;"8"
 ;
 Copyright (c) ;"9"
 ;
+Copyright (c) ;"A(a)-Z(z)"
+;
 Copyright (c) ;"$"
 ;
 Copyright (c) */* MIT License */* */* _holdings_ */* */\.
