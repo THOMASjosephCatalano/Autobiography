@@ -543,6 +543,8 @@ Copyright (c) */* European Union */* */* _(_EU_)_ */* */* _holdings_ */* */* _en
 
 Copyright (c) */* Asia Group */* */* _(_TAG_)_ */* */* _holdings_ */* */* _service */* */GROUP/ENTITIES/STATE/UNION/* */\.
 
+Copyright (c) */* Niagara Falls (NY_USA/Canada) */* */* Niac Group */* */* _holdings_ */* */* _service */* */ */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
