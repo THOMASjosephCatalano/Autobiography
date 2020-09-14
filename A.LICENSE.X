@@ -515,6 +515,8 @@ Copyright (c) */* The Presidency of the United States of America */* */* _(_US_)
 
 Copyright (c) */* Federal Election Board/Commission */* (FEC) */* */* _holdings_ */* */Committee/Commission/GROUP/SYSTEM/STATE/TENDER/* */\.
 
+Copyright (c) */* Federal Food and Drug Administration */* */* _(_FDA_)_ */* */* _holdings_ */* */GROUP/SYSTEM/GOVERNANCE/STATE/TENDER/* */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
