@@ -22,6 +22,8 @@ Copyright (c) */* Veto */* "Veto"
 
 Copyright (c) */* Grant */* "Grant"
 
+Copyright (c) */* seforth */* "seforth"
+
 Copyright (c) */* inclusive */* "inclusive"
 
 Copyright (c) */* and */* "and"
