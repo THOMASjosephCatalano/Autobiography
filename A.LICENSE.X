@@ -528,6 +528,9 @@ Copyright (c) */* Law Enforcement/Penetration */* */* "law & order" */* */* _hol
 Copyright (c) */* US Department of Defense */* */* Department of Defense */* */* _(_DOD_)_ */* */* _holdings_ */* */* _service */* */INSTITUTION/INSTRUMENT/STATE/UNION/GROUP/SERIES/* */\. 
 
 Copyright (c) */* US Department of Justice */* */* Department of Justice */* */* _(_DOJ_)_ */* */* _holdings_ */* */* _service */* */INSTITUTION/INSTRUMENT/UNION/SERIES/STATE/I */\.
+
+Copyright (c) */* Human Brain Project */* */* _holdings_ */* */* _service */* */GROUP/ENTITIE/SERVICES/I */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
