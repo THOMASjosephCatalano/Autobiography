@@ -513,6 +513,8 @@ Copyright (c) */* Federal Reserve System */* Federal Reserve Bank */* */* _holdi
 
 Copyright (c) */* The Presidency of the United States of America */* */* _(_US_)_ */* */* _holdings_ */* */GOVERNANCE/STATE/SYSTEM/GROUP/TENDER/* */\.
 
+Copyright (c) */* Federal Election Board/Commission */* (FEC) */* */* _holdings_ */* */Committee/Commission/GROUP/SYSTEM/STATE/TENDER/* */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
