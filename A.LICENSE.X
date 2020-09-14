@@ -296,7 +296,7 @@ Copyright (c) */* MOTOROLA */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./
 
 Copyright (c) */* LLVM */* _holdings_ */* */ */non-profit\.
 
-Copyright (c) */* POSIX */* _holdings_ */* */SYSTEM/GROUP/* */non-profit\.
+Copyright (c) */* POSIX */* */* _holdings_ */* */* _service */* */SYSTEM/GROUP/* */non-profit\.
 
 Copyright (c) */* ARM */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 
