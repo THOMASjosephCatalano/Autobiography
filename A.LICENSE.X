@@ -521,6 +521,8 @@ Copyright (c) */* benovolent_dating/sex/social_sorbay */* */* "dating/sex/social
 
 Copyright (c) */* Corporeal Inauguration */* "judicating/medicating; indictment & extermination; people', place', thing'," */* _holdings_ */* */* _service(s) */* */STATE/SYSTEM/SERIES/TENDER/* */\.
 
+Copyright (c) */* Law Enforcement/Penetration */* */* "law & order" */* */* _holdings_ */* */* _service(s) */* */INSTITUTION/SERVICE/GROUP/UNION/GOVERNANCE/STATE/* */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
