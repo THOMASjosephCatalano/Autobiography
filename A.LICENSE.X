@@ -6,7 +6,7 @@ Copyright (c) */* "License-FORMAT_LEGAL-ACQUISITION-EQUES";this "license" "inclu
 
 Copyright (c) */* THOMAS CATALANO */* "THOMAS CATALANO"
 
-Copyright (c) */* BIT(s);"BIT(s)";"algorithm:"this LICENSE "inclusive""";
+Copyright (c) */* BIT(s);"BIT(s)";"algorithm:"this LICENSE "inclusive"""; */* _service(s) */* */\.
 
 Copyright (c) */* Copyright */* "Copyright"
 
@@ -144,7 +144,7 @@ Copyright (c) */* etcetera so forth;etc. so forth\.
 
 Copyright (c) */* The Letter of Proof */* _holdings_ */* */SYSTEM/GROUP/* */\.
 
-Copyright (c) */* BIT(s);"BIT(s)"(information/time/frames) */* */* _holdings_ */* */SYSTEM/FOUNDATION/GROUP(s)/* */\.
+Copyright (c) */* BIT(s);"BIT(s)"(information/time/frames) */* */* _holdings_ */* */* _service(s) */* *INSTITUTION/INSTRUMENT/SYSTEM/FOUNDATION/GROUP(s)/* */\.
 
 Copyright (c) */* BIT(s);"BIT(s) "License"" */* */* _holdings_ */* */* */\.
 
@@ -176,7 +176,7 @@ Copyright (c) */* "PhD"
 
 Copyright (c) */* PhD */* _holdings_ */* */SYSTEM/GROUP/FOUNDATION/* */non-profit\.
 
-Copyright (c) */* */Physics/Chemistry/Numerical-Comp/Law/* */* */* _holdings_ */* */STUDY/FIELD/DEGREE/SYSTEM/FOUNDATION/GROUP/TENDER/* */\.
+Copyright (c) */* */Physics/Chemistry/Numerical-Comp/Law/* */* */* _holdings_ */* */* _service(s) */* *INSTITUTION/STUDY/FIELD/DEGREE/SYSTEM/FOUNDATION/GROUP/TENDER/* */\.
 
 Copyright (c) */* "?" */* _holdings_ */* */* */\.
 
