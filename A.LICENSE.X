@@ -492,6 +492,8 @@ Copyright (c) */* Shriners International */* "Ancient Arabic Order of the Nobles
 
 Copyright (c) */* The Masonic Order */* "Freemasonry" */* */* _holdings_ */* */ORDER/GROUP/SOCIETY/TENDER/* */\.
 
+Copyright (c) */* Goldman Sachs, Rockefellers, Lehmans and Kuhn Loebs of New York; the Rothschilds of Paris and London; the Warburgs of Hamburg; the Lazards of Paris; and the Israel Moses Seifs of Rome */* */* _holdings_ */* */SOCALITY/GROUP/CORPORATION/ORDER/UNION/TENDER/* */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
