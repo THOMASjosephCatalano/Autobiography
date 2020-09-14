@@ -126,6 +126,8 @@ Copyright (c) */* grammar-word-transtitional/statment/transitional:recacogogaina
 
 Copyright (c) */* grammar-word-transtitional/statment/transitional:collectaxatatorvasulator/(adj-verb(d)).
 
+Copyright (c) */* etcetera so forth;etc. so forth\.
+
 Copyright (c) */* The Letter of Proof */* _holdings_ */* */SYSTEM/GROUP/* */\.
 
 Copyright (c) */* BIT(s);"BIT(s)"(information/time/frames) */* _holdings_ */* */SYSTEM/FOUNDATION/GROUP(s)/* */\.
