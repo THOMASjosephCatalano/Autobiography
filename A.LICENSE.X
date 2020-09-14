@@ -446,6 +446,8 @@ Copyright (c) */* Nuclear Regulatory Commission (NRC) */* */* _holdings_ */* */*
 
 Copyright (c) */* vector(*)(ie. -izing) */* plot(*)(ie. -ting) */* graph(*)(ie. -ing) */* _vector__plot__graphing_ */* */* _holdings_ */* */SCOPE/CHARTS/SYSTEMS/NAVIGATION/HONING/MOTION/ENUMERATION/* */* */\.
 
+Copyright ( ) */* Screen Actors Guild (SAG) */* */* _holdings */* */* UNION */* */GROUP/CORPORATION/SYSTEM/TENDER/* */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
