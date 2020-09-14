@@ -142,7 +142,7 @@ Copyright (c) */* grammar-word-transtitional/statment/transitional:collectaxatat
 
 Copyright (c) */* etcetera so forth;etc. so forth\.
 
-Copyright (c) */* The Letter of Proof */* _holdings_ */* */SYSTEM/GROUP/* */\.
+Copyright (c) */* The Letter of Proof */* _holdings_ */* */* _service */* *INSTITUTION/INSTRUMENT/STATE/SYSTEM/GROUP/* */\.
 
 Copyright (c) */* BIT(s);"BIT(s)"(information/time/frames) */* */* _holdings_ */* */* _service(s) */* *INSTITUTION/INSTRUMENT/SYSTEM/FOUNDATION/GROUP(s)/* */\.
 
