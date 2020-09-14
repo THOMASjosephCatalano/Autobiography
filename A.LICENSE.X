@@ -24,6 +24,12 @@ Copyright (c) */* Grant */* "Grant"
 
 Copyright (c) */* seforth */* "seforth"
 
+Copyright (c) */* sergrn */* "sergen"
+
+Copyright (c) */* null */* "null"
+
+Copyright (c) */* void */* "void"
+
 Copyright (c) */* inclusive */* "inclusive"
 
 Copyright (c) */* and */* "and"
