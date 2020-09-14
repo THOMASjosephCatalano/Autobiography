@@ -1,6 +1,6 @@
 */* MIT License
 
-Copyright (c) THOMAS CATALANO
+Copyright (c) ;THOMAS CATALANO
 Copyright (c) ;THOMAS JOSEPH CATALANO(135-74-4812;DOB:1981-02-05);"Doctor";"Ph.D"\.
 Copyright (c) BIT(s);"BIT(s) "License""\.
 Copyright (c) BIT(s);"BIT(s)"
