@@ -14,7 +14,7 @@ Copyright (c) */* Copyright */* "Copyright"
 
 Copyright (c) */* (c) */* "(c)"
 
-Copyright (c) */* Copyright (c) */* "Copyright (c)"
+Copyright (c) */* Copyright (c) */* "Copyright (c)" */* */* _holdings_ */* */* _service(s) */* */ */\.
 
 Copyright (c) */* MIT License */* "MIT License"
 
