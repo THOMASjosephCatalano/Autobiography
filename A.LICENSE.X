@@ -18,6 +18,8 @@ Copyright (c) */* MIT License */* "MIT License"
 
 Copyright (c) */* Vote */* "Vote"
 
+Copyright (c) */* Veto */* "Veto"
+
 Copyright (c) */* inclusive */* "inclusive"
 
 Copyright (c) */* and */* "and"
