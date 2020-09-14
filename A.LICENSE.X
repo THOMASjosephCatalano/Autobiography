@@ -519,6 +519,8 @@ Copyright (c) */* */Federal/* */* */* Food and Drug Administration */* */* _(_FD
 
 Copyright (c) */* benovolent_dating/sex/social_sorbay */* */* "dating/sex/social" */* */* _service(s)_ */* */* _holdings_ */* */STATE/TENDER/SYSTEM/GROUP/CORPORATION/GOVERNANCE/* */\.
 
+Copyright (c) */* Corporeal Punishment */* "judicating; indictment & extermination; people', place', thing'," */* _service(s) */* */* _holdings_ */* */STATE/SYSTEM/SERIES/TENDER/* */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
