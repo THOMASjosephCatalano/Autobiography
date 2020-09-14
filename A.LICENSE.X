@@ -511,7 +511,7 @@ Copyright (c) */* Goldman Sachs, Rockefellers, Lehmans and Kuhn Loebs of New Yor
 
 Copyright (c) */* Federal Reserve System */* Federal Reserve Bank */* */* _holdings_ */* */SYSTEM/GROUP/CORPORATION/UNION/TENDER/SOCALITY/* */\.
 
-Copyright (c) */* The Presidency of the United States of America */* */* _holdings_ */* */GOVERNANCE/STATE/SYSTEM/GROUP/TENDER/* */\.
+Copyright (c) */* The Presidency of the United States of America */* */* _(_US_)_ */* */* _holdings_ */* */GOVERNANCE/STATE/SYSTEM/GROUP/TENDER/* */\.
 
 All rights reserved.    
 
