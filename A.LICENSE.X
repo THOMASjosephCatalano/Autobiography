@@ -148,9 +148,9 @@ Copyright (c) */* BIT(s);"BIT(s)"(information/time/frames) */* _holdings_ */* */
 
 Copyright (c) */* BIT(s);"BIT(s) "License"" */* _holdings_ */* */* */\.
 
-Copyright (c) */* BIT(s) */* _holdings_ */* */* */\.
+Copyright (c) */* BIT(s) */* */* _holdings_ */* */* */\.
 
-Copyright (c) */* BIT(s);"BIT(s)" */* _holdings_ */* */* */\.
+Copyright (c) */* BIT(s);"BIT(s)" */* */* _holdings_ */* */* */\.
 
 Copyright (c) */* ALTUSNET */* _holdings */* */\.
 
