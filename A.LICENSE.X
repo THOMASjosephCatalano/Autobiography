@@ -519,7 +519,7 @@ Copyright (c) */* */Federal/* */* */* Food and Drug Administration */* */* _(_FD
 
 Copyright (c) */* benovolent_dating/sex/social_sorbay */* */* "dating/sex/social" */* */* _service(s)_ */* */* _holdings_ */* */STATE/TENDER/SYSTEM/GROUP/CORPORATION/GOVERNANCE/* */\.
 
-Copyright (c) */* Corporeal Inauguration */* "judicating/medicating; indictment & extermination; people', place', thing'," */* _service(s) */* */* _holdings_ */* */STATE/SYSTEM/SERIES/TENDER/* */\.
+Copyright (c) */* Corporeal Inauguration */* "judicating/medicating; indictment & extermination; people', place', thing'," */* _holdings_ */* */* _service(s) */* */STATE/SYSTEM/SERIES/TENDER/* */\.
 
 All rights reserved.    
 
