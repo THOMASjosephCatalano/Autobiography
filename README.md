@@ -36,7 +36,7 @@ CLM Limited Liability Company\.
 #
 grammitization:
 --------------------------
-the_grammar-word-transitional/statment/transitional(adj-verb):socalety(adj-verb(d))definition/(adj-verb(d)).
+the_grammar-word-transitional/statment/transitional(adj-verb):socality(adj-verb(d))definition/(adj-verb(d)).
 
 grammer-word-transitional/statement/transitional:undedifracteonal(adj-verb(d)).
 
