@@ -152,11 +152,11 @@ Copyright (c) */* BIT(s) */* */* _holdings_ */* */* */\.
 
 Copyright (c) */* BIT(s);"BIT(s)" */* */* _holdings_ */* */* */\.
 
-Copyright (c) */* ALTUSNET */* _holdings_ */* */\.
+Copyright (c) */* ALTUSNET */* _holdings_ */* */* _service(s) */* */\.
 
 Copyright (c) */* ALTUSNET */* "ALTUSNET"
 
-Copyright (c) */* "cryptocurrency" */* */cryptocurrency/*;:((blockchain;algorithm)&|"like") */* */* _holdings_ */* */\.
+Copyright (c) */* "cryptocurrency" */* */cryptocurrency/*;:((blockchain;algorithm)&|"like") */* */* _holdings_ */* */* _service(s) */* */\.
 
 Copyright (c) */* https:// */* */*"https://" */* */* _holdings */* */* */\.
 
