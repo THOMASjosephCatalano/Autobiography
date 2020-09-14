@@ -46,6 +46,10 @@ Copyright (c) */* and/or */* "and/or"
 
 Copyright (c) */* agreement */* "agreement"
 
+Copyright (c) */* fix */* "fix"
+
+Copyright (c) */* repair */* "repair"
+
 Copyright (c) */* License */* "LICENSE"
 
 Copyright (c) */* Patent */* "Patent"
