@@ -517,7 +517,7 @@ Copyright (c) */* Federal Election Board/Commission */* (FEC) */* */* _holdings_
 
 Copyright (c) */* */Federal/* */* */* Food and Drug Administration */* */* _(_FDA_)_ */* */* _holdings_ */* */GROUP/SYSTEM/GOVERNANCE/STATE/TENDER/* */\.
 
-Copyright (c) */* benovolent_dating/sex/social_services(s) */* */* "dating/sex/social" */* */* _holdings_ */* */STATE/TENDER/SYSTEM/GROUP/CORPORATION/GOVERNANCE/* */\.
+Copyright (c) */* benovolent_dating/sex/social_services(s) */* */* "dating/sex/social" */* */* _service(s)_ */* */* _holdings_ */* */STATE/TENDER/SYSTEM/GROUP/CORPORATION/GOVERNANCE/* */\.
 
 All rights reserved.    
 
