@@ -92,7 +92,7 @@ Copyright (c) */*;*["(the)"]*(); "&&" "politicasivisonarydafabuloustaticlicous" 
               */* politicasivisonarydafabuloustaticlisous && ""["_*BOARD*__Doctor__Ph.D_-General-Admiral-CFO-CEO-President__the.emancipator.the.propriatator.the__ThomasJosephCatalano"(*)""] "Catalano Ltd." "Catalano Concepts LimitedLiabilityCompany" "CLM LimitedLiabilityCompany" "& hosted entities"" | mechanical() && "["classical" | "quantum"]" && ""_computer-processor_" "_*utility'_" _*invention'_ _*formula'_ _*enginee'_"" && --implementator/my testator/;;""inclusitation()" "_fee's/taxes_accountafiscalator""\.
           
 Copyright (c) */* THOMAS CATALANO */* */* _holdings_ */* */SYSTEM/GROUP/* */\.
-v
+
 Copyright (c) */* ;motion by &| of panticulation serfractions perpetuation;algorithm:
               */* "motion by &| of panticulation serfractions perpetuation"\.
 Copyright (c) */* ;BIT(s)(information/time/frames) extrapolation by &| of percentile factorization;algorithm:               
