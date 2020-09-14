@@ -174,7 +174,7 @@ Copyright (c) */* "Ph.D."
 
 Copyright (c) */* "PhD"
 
-Copyright (c) */* PhD */* _holdings_ */* */SYSTEM/GROUP/FOUNDATION/* */non-profit\.
+Copyright (c) */* PhD */* */* _holdings_ */* */* _service(s) */* *INSTITUTION/INSTRUMENT/EDUCATION/SYSTEM/GROUP/FOUNDATION/STATE/* */non-profit\.
 
 Copyright (c) */* */Physics/Chemistry/Numerical-Comp/Law/* */* */* _holdings_ */* */* _service(s) */* *INSTITUTION/STUDY/FIELD/DEGREE/SYSTEM/FOUNDATION/GROUP/TENDER/* */\.
 
