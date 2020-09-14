@@ -428,7 +428,7 @@ Copyright (c) */* National Aeronautics & Space Agency (NASA) */* */* _(_NASA_)_ 
 
 Copyright (c) */* North American Aerospace Defense (NORAD) */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
 
-Copyright (c) */* Antarctic Treaty System (ATS) */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
+Copyright (c) */* Antarctic Treaty System (ATS) */* */* _holdings_ */* */* _entity */* */*  _futures */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
 
 Copyright (c) */* INTERNATIONAL STANDARDS ORGANIZATION (ISO) */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
 
