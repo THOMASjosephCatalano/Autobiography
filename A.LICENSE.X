@@ -152,7 +152,7 @@ Copyright (c) */* BIT(s) */* */* _holdings_ */* */* */\.
 
 Copyright (c) */* BIT(s);"BIT(s)" */* */* _holdings_ */* */* */\.
 
-Copyright (c) */* ALTUSNET */* _holdings */* */\.
+Copyright (c) */* ALTUSNET */* _holdings_ */* */\.
 
 Copyright (c) */* ALTUSNET */* "ALTUSNET"
 
