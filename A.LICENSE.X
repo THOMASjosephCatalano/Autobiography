@@ -284,9 +284,9 @@ Copyright (c) */* ALTUSNET _holdings_ Limited Liability Company\.
 
 Copyright (c) */* www.conceptslearningmachine.com */* _holdings_ */* */\.
 
-Copyright (c) */* linux */* _holdings_ */* */GROUP/SYSTEM/* */non-profit\.
+Copyright (c) */* linux */* */* _holdings_ */* */* _service */* */GROUP/SYSTEM/* */non-profit\.
 
-Copyright (c) */* SElinux */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
+Copyright (c) */* SElinux */* */* _holdings_ */* */* _service */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
 
 Copyright (c) */* gnu */* _holdings_ */* */ */non-profit\.
 
