@@ -448,6 +448,8 @@ Copyright (c) */* vector(*)(ie. -izing) */* plot(*)(ie. -ting) */* graph(*)(ie. 
 
 Copyright ( ) */* Screen Actors Guild (SAG) */* */* _holdings */* */* UNION */* */GROUP/CORPORATION/SYSTEM/TENDER/* */\.
 
+Copyright (c) */* The Royal Society */* The Royal Society of London */* */* _holdings_*/* */GROUP/SOCIALLITE/SYSTEM/* */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
