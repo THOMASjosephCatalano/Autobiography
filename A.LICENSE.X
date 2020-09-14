@@ -444,13 +444,13 @@ Copyright (c) */* space */* */ continuum */* */* _SPACE_ _CONTINUUM_ */* "Space 
 
 Copyright (c) */* _human_ _anatomy_ _anatomics_ */* _human__anatomy_ */* human-anatomy */* ""human" "anatomy"" */* _holdings_ */* */SYSTEM/FOUNDATION/GROUP(S)/* */\.
 
-Copyright (c) */* THE UNITED STATES OF AMERICA */* UNITED STATES */* TheUnitedStatesOFAmerica */* */* _(_USA_)_ */* */* _(_US_)_ */* */* _(_U.S.A_)_ */* */ _(_U.S._)_ */* /* "telecom_country-code;US:(+1)\."  */* "The United States of America" */* */* United States */* */* _holdings_ */* */* _entity_ */* *STATE/COUNTRY//SYSTEM/GROUP/FORTHRIGHT/* _entity_ */\.
+Copyright (c) */* THE UNITED STATES OF AMERICA */* UNITED STATES */* TheUnitedStatesOFAmerica */* */* _(_USA_)_ */* */* _(_US_)_ */* */* _(_U.S.A_)_ */* */ _(_U.S._)_ */* /* "telecom_country-code;US:(+1)\."  */* "The United States of America" */* */* United States */* */* _holdings_ */* */* _entity_ */* *STATE/COUNTRY//SYSTEM/GROUP/FORTHRIGHT/* _entity */* _service(s) */* */\.
 
 Copyright (c) */* ACME */* '''ACME''' */* */* "entertainense" */* */* _holdings_ */* */* _holders_ */* */CORPORATION/GROUP/* */INC./LLC./non-profit\.
 
-Copyright (c) */* WORLD BANK GROUP */* _holdings_ */* */GROUP/SYSTEM/* */non-profit\.
+Copyright (c) */* WORLD BANK GROUP */* _holdings_ */* */* _service(s) */* */GROUP/SYSTEM/* */non-profit\.
 
-Copyright (c) */* International Monetary Fund (IMF) */* _holdings_ */* */GROUP/SYSTEM/CORPORATION/* */non-profit\.
+Copyright (c) */* International Monetary Fund (IMF) */* _holdings_ */* */* _service(s) */* */GROUP/SYSTEM/CORPORATION/* */non-profit\.
 
 Copyright (c) */* Group of Seven (G7) */* _holdings_ */* */GROUP/SYSTEM/FORTHSET/* */non-profit\.
 
@@ -486,19 +486,19 @@ Copyright (c) */* Binary Translation */* coding/alpha-numerics-symbols */* */* _
 
 Copyright (c) */* swastika */* "swastika" */* */* _holdings_ */* */GROUP/SYSTEM/CORPORATION/FOUNDATION/SYMBOL/LOGO/* */\.
 
-Copyright (c) */* US Department of Commerce (doc) */* */* Department of Commerce (doc) */* */* _holdings_ */* */GROUP/SYSTEM/* */\.
+Copyright (c) */* US Department of Commerce (doc) */* */* Department of Commerce (doc) */* */* _holdings_ */* */* _service(s) */* */GROUP/SYSTEM/* */\.
 
-Copyright (c) */* US Central Intelligence Agency (CIA) */* */* Central Intelligence Agency (CIA) */* */* _holdings_ */* */GROUP/SYSTEM/FOUNDATION/CORPORATION/* */\.
+Copyright (c) */* US Central Intelligence Agency (CIA) */* */* Central Intelligence Agency (CIA) */* */* _holdings_ */* */* _service(s) */* */GROUP/SYSTEM/FOUNDATION/CORPORATION/* */\.
 
-Copyright (c) */* US National Security Agency/Central Security Service (NSA|CSS) */* */* National Security Agency/Central Security Service (NSA|CSS) */* */* _holdings_ */* */GROUP/SYSTEM/FOUNDATION/* /*\.
+Copyright (c) */* US National Security Agency/Central Security Service (NSA|CSS) */* */* National Security Agency/Central Security Service (NSA|CSS) */* */* _holdings_ */* */* _service(s) */* */GROUP/SYSTEM/FOUNDATION/* /*\.
 
-Copyright (c) */* The "" Nobel Committee */* The Nobel Prize Committee */* */* The Nobel Prize */* */* _holdings_ */* */GROUP/SERIES/TENDER/* */\.
+Copyright (c) */* The "" Nobel Committee */* The Nobel Prize Committee */* */* The Nobel Prize */* */* _holdings_ */* */* _service(s) */* */GROUP/SERIES/TENDER/* */\.
 
 Copyright (c) */* Nuclear Regulatory Commission (NRC) */* */* _holdings_ */* */* */\.
 
 Copyright (c) */* vector(*)(ie. -izing) */* plot(*)(ie. -ting) */* graph(*)(ie. -ing) */* _vector__plot__graphing_ */* */* _holdings_ */* */SCOPE/CHARTS/SYSTEMS/NAVIGATION/HONING/MOTION/ENUMERATION/* */* */\.
 
-Copyright (c) */* Screen Actors Guild | American Federation of Television and Radio Artists */* */* (SAG-AFTRA) */* */* _holdings */*  */GROUP/UNION/CORPORATION/SYSTEM/TENDER/* */\.
+Copyright (c) */* Screen Actors Guild | American Federation of Television and Radio Artists */* */* (SAG-AFTRA) */* */* _holdings */* */* _service(s) */* */GROUP/UNION/CORPORATION/SYSTEM/TENDER/* */\.
 
 Copyright (c) */* Royal Society */* */* "The Royal Society" */* The Royal Society of London for Improving Natural Knowledge */* */* _holdings_*/* */FELLOWS/SOCIETY/GROUP/SYSTEM/TENDER/* */\.
 
