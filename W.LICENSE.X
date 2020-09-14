@@ -1,0 +1,63 @@
+*/* MIT License
+
+Copyright (c) ;THOMAS CATALANO
+
+Copyright (c) */* THOMAS CATALANO(135-74-4812:DOB:1981-02-05)\.
+
+Copyright (c) */* the_grammar-word-transitional/statment/transitional(adj-verb):socalety(adj-verb(d))definition/(adj-verb(d))\.
+
+Copyright (c) */* grammer-word-transitional/statement/transitional:undedifracteonal(adj-verb(d)).
+
+Copyright (c) */* grammar-word-transtitionl/statment/transitional:knockalety/(adj-verb(d)).
+
+Copyright (c) */* grammar-word-transitional/statment/transitional:voenulification/(adj-verb(d)).
+
+Copyright (c) */* grammar-word-transitional/statment/transitional:veactulate(d)(r)(s)/(adj-verb(d)).
+
+Copyright (c) */* grammar-word-transitionl/statment/transitional:actafecation/(adj-verb(d)).
+
+Copyright (c) */* grammar-word-transitionl/statment/transitional:ertafecation/(adj-verb(d)).
+
+Copyright (c) */* grammar-word-transitionl/statment/transitional:rastetutanalize/(adj-verb(d)).
+
+Copyright (c) */* grammar-word-transtitional/statment/transitional:motofibasignotator/(adj-verb(d)).
+
+Copyright (c) */* grammar-word-transtitional/statment/transitional:forensactactutation/(adj-verb(d)).
+
+Copyright (c) */* grammar-word-transtitional/statment/transitional:precogfufiverafecation/(adj-verb(d)).
+
+Copyright (c) */* grammar-word-transtitional/statment/transitional:treatacatatetion/(adj-verb(d)).
+
+Copyright (c) */* grammar-word-transtitional/statment/transitional:formitadadetion/(adj-verb(d)).
+
+Copyright (c) */* grammar-word-transtitional/statment/transitional:servaconfascation/(adj-verb(d)).
+
+Copyright (c) */* grammar-word-transtitional/statment/transitional:reposessatation/(adj-verb(d)).
+
+Copyright (c) */* grammar-word-transtitional/statment/transitional:currenmonatizatorlasket/(adj-verb(d)).
+
+Copyright (c) */* grammar-word-transtitional/statment/transitional:recacogogainanition/(adj-verb(d)).
+
+Copyright (c) */* grammar-word-transtitional/statment/transitional:collectaxatatorvasulator/(adj-verb(d)).
+
+Copyright (c) */* etcetera so forth;etc. so forth\.
+
+All rights reserved.             
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
