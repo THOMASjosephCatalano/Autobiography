@@ -146,7 +146,7 @@ Copyright (c) */* The Letter of Proof */* _holdings_ */* */SYSTEM/GROUP/* */\.
 
 Copyright (c) */* BIT(s);"BIT(s)"(information/time/frames) */* */* _holdings_ */* */* _service(s) */* *INSTITUTION/INSTRUMENT/SYSTEM/FOUNDATION/GROUP(s)/* */\.
 
-Copyright (c) */* BIT(s);"BIT(s) "License"" */* */* _holdings_ */* */* */\.
+Copyright (c) */* BIT(s);"BIT(s) "License"" */* */* _holdings_ */* */* _service(s) */* */\.
 
 Copyright (c) */* BIT(s) */* */* _holdings_ */* */* */\.
 
