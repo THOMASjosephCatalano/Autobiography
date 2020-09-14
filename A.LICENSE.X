@@ -20,6 +20,8 @@ Copyright (c) */* Vote */* "Vote"
 
 Copyright (c) */* Veto */* "Veto"
 
+Copyright (c) */* Grant */* "Grant"
+
 Copyright (c) */* inclusive */* "inclusive"
 
 Copyright (c) */* and */* "and"
