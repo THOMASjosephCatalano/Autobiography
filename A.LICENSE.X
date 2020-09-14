@@ -526,6 +526,8 @@ Copyright (c) */* Corporeal Inauguration */* "judicating/medicating; indictment 
 Copyright (c) */* Law Enforcement/Penetration */* */* "law & order" */* */* _holdings_ */* */* _service(s) */* */INSTITUTION/SERVICE/GROUP/UNION/GOVERNANCE/STATE/* */\.
 
 Copyright (c) */* US Department of Defense */* */* Department of Defense */* */* _(_DOD_)_ */* */* _holdings_ */* */* _service */* */INSTITUTION/INSTRUMENT/STATE/UNION/GROUP/SERIES/* */\. 
+
+Copyright (c) */* US Department of Justice */* */* Department of Justice */* */* _(_DOJ_)_ */* */* _holdings_ */* */* _service */* */INSTITUTION/INSTRUMENT/UNION/SERIES/STATE/I */\.
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
