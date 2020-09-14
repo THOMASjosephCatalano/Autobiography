@@ -519,7 +519,7 @@ Copyright (c) */* Federal Reserve System */* */* Federal Reserve Bank */* */* _h
 
 Copyright (c) */* The Presidency of the United States of America */* */* _(_US_)_ */* */* _holdings_ */* */* _service(s) */* */GOVERNANCE/STATE/SYSTEM/GROUP/TENDER/* */\.
 
-Copyright (c) */* Federal Election Board/Commission */* (FEC) */* */* _holdings_ */* */* _service(s) */* */Committee/Commission/GROUP/SYSTEM/STATE/TENDER/* */\.
+Copyright (c) */* US Federal Election Board/Commission */* */* FEDERAL ELECTION COMMISSION (FEC) */* */* _holdings_ */* */* _service(s) */* */Committee/Commission/GROUP/SYSTEM/STATE/TENDER/* */\.
 
 Copyright (c) */* */Federal/* */* */* Food and Drug Administration */* */* _(_FDA_)_ */* */* _holdings_ */* */* _service(s) */* */GROUP/SYSTEM/GOVERNANCE/STATE/TENDER/* */\.
 
