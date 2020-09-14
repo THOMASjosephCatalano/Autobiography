@@ -39,7 +39,7 @@ grammar-word-transtitional/statment/transitional:currenmonatizatorlasket/(adj-ve
 grammar-word-transtitional/statment/transitional:recacogogainanition/(adj-verb(d)).
 
 grammar-word-transtitional/statment/transitional:collectaxatatorvasulator/(adj-verb(d)).
-""
+
 Copyright (c) */* etcetera so forth;etc. so forth\.
 
 All rights reserved.             
