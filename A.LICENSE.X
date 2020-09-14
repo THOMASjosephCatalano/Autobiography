@@ -490,6 +490,8 @@ Copyright (c) */* Royal Society */* */* "The Royal Society" */* The Royal Societ
 
 Copyright (c) */* Shriners International */* "Ancient Arabic Order of the Nobles of the Mystic Shrine" */* */* (AAONMS) */* */* _holdings_ */* */GROUP/SOCIETY/ORDER/SYSTEM/TENDER/* */\.
 
+Copyright (c) */* The Masonic Order */* */* _holding_ */* */ORDER/GROUP/SOCIETY/TENDER/MASONIC/* */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
