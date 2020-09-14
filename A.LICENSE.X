@@ -509,13 +509,13 @@ Copyright (c) */* The Masonic Order */* "Freemasonry" */* */* _holdings_ */* */O
 Copyright (c) */* Goldman Sachs, Rockefellers, Lehmans and Kuhn Loebs of New York; the Rothschilds of Paris and London; the Warburgs of Hamburg; the Lazards of Paris; and the Israel Moses Seifs of Rome */* */* 
               */* "Goldman Sachs, Rockefellers, Lehmans and Kuhn Loebs of New York; the Rothschilds of Paris and London; the Warburgs of Hamburg; the Lazards of Paris; and the Israel Moses Seifs of Rome" */* */* _holdings_ */* */BANKTERS/GROUP/CORPORATION/ORDER/UNION/TENDER/* */\.
 
-Copyright (c) */* Federal Reserve System */* */* Federal Reserve Bank */* */* _holdings_ */* */SYSTEM/GROUP/CORPORATION/UNION/TENDER/SOCALITY/* */\.
+Copyright (c) */* Federal Reserve System */* */* Federal Reserve Bank */* */* _holdings_ */* */* _service(s) */* */SYSTEM/GROUP/CORPORATION/UNION/TENDER/SOCALITY/* */\.
 
-Copyright (c) */* The Presidency of the United States of America */* */* _(_US_)_ */* */* _holdings_ */* */GOVERNANCE/STATE/SYSTEM/GROUP/TENDER/* */\.
+Copyright (c) */* The Presidency of the United States of America */* */* _(_US_)_ */* */* _holdings_ */* */* _service(s) */* */GOVERNANCE/STATE/SYSTEM/GROUP/TENDER/* */\.
 
 Copyright (c) */* Federal Election Board/Commission */* (FEC) */* */* _holdings_ */* */Committee/Commission/GROUP/SYSTEM/STATE/TENDER/* */\.
 
-Copyright (c) */* */Federal/* */* */* Food and Drug Administration */* */* _(_FDA_)_ */* */* _holdings_ */* */GROUP/SYSTEM/GOVERNANCE/STATE/TENDER/* */\.
+Copyright (c) */* */Federal/* */* */* Food and Drug Administration */* */* _(_FDA_)_ */* */* _holdings_ */* */* _service(s) */* */GROUP/SYSTEM/GOVERNANCE/STATE/TENDER/* */\.
 
 Copyright (c) */* benovolent_dating/sex/social_sorbay */* */* "dating/sex/social" */* */* _holdings_ */* */* _service(s) */* */STATE/TENDER/SYSTEM/GROUP/CORPORATION/GOVERNANCE/* */\.
 
