@@ -84,7 +84,7 @@ Copyright (c) */* "^"
 
 Copyright (c) */* MIT License */* */* _holdings_ */* */\.
 
-Copyright (c) */* THOMAS JOSEPH CATALANO(135-74-4812;DOB:1981-02-05) */* */* _holdings_ */* *GROUP/SYSTEM/* */\.
+Copyright (c) */* THOMAS JOSEPH CATALANO(135-74-4812;DOB:1981-02-05) */* */* _holdings_ */* */* _service(s) */*  */INSTITUTION/INSTRUMENT/STATE/FOUNDATION/GROUP/SYSTEM/* */\.
 
 Copyright (c) */*;*["(the)"]*(); "&&" "politicasivisonarydafabuloustaticlicous" "&&" ""["_*BOARD*__Doctor__Ph.d_-General-Admiral-CFO-CEO-President__the.emancipator.the.propriatator.the__ThomasJosephCatalano"(*)""] ""Catalano Ltd." "Catalano Concepts LimitedLiabilityCompany" "CLM LimitedLiabilityCompany" "& hosted entities"" | mechanical() && "["classical" | "quantum"]" && ""_computer-processor_" "_*utility'_ _*invention'_ _*formula_ _*enginee'_"" && "The Letter of Proof" -implementator/my testator";;
               */* life fulfentamation hearanth primaly;[""null"; "alienate()&|staturnacle()&|Ordain()&|'_'CerebralSpinalCord'_'()&|ill()&|abuse()&|detention()&|pain()&|ache()&|ickened()&|discomfort()&|raid()&|disable()&|testamofication()"" "&&""\""sergen"; "_amphetamine-MDMA_, coaperativtake, ecstasy, my-economic-fortae, sexapaids, _amphetamine-MDMA_, exhilarating/exuberant life force, masterbater, forate ecstasy, _amphetamine-MDMA_" "&&"""](); "human/mechanical/classical/quantum primalactoration && _always_ && every/any way shape &| form; physicality coracurrencies concurrently";; 
@@ -92,7 +92,7 @@ Copyright (c) */*;*["(the)"]*(); "&&" "politicasivisonarydafabuloustaticlicous" 
               */* politicasivisonarydafabuloustaticlisous && ""["_*BOARD*__Doctor__Ph.D_-General-Admiral-CFO-CEO-President__the.emancipator.the.propriatator.the__ThomasJosephCatalano"(*)""] "Catalano Ltd." "Catalano Concepts LimitedLiabilityCompany" "CLM LimitedLiabilityCompany" "& hosted entities"" | mechanical() && "["classical" | "quantum"]" && ""_computer-processor_" "_*utility'_" _*invention'_ _*formula'_ _*enginee'_"" && --implementator/my testator/;;""inclusitation()" "_fee's/taxes_accountafiscalator""\.
           
 Copyright (c) */* THOMAS CATALANO */* */* _holdings_ */* */SYSTEM/GROUP/* */\.
-
+v
 Copyright (c) */* ;motion by &| of panticulation serfractions perpetuation;algorithm:
               */* "motion by &| of panticulation serfractions perpetuation"\.
 Copyright (c) */* ;BIT(s)(information/time/frames) extrapolation by &| of percentile factorization;algorithm:               
