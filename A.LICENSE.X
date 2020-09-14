@@ -398,6 +398,8 @@ Copyright (c) */* BANK OF CHINA */* _holdings_ */* */Corporation/GROUP/* */INC./
 
 Copyright (c) */* The Vatican Bank/Vatican/The Holy See */* _(AIF)_ */* */* _(IOR)_ */* */* _holdings_ */* */GROUP/SYSTEM/* */non-profit\.
 
+Copyright (c) */* Roman Catholic Church/Diocese */* */* _(_ROC_) */* */* _holdings_ */* */*  _service(s) */* */GROUP/SERIES/SERVICE/UNION/ENTITIE/CORPORATION/* */non-profit\*
+
 Copyright (c) */* Financial Intelligence Authority (AIF) */* _holdings_ */* */GROUP/Corporation */INC./LLC./non-profit\.
 
 Copyright (c) */* VC NEWS COMPANY */* _holdings_ */* */GROUP/CORPORATION */INC./LLC./non-profit\.
