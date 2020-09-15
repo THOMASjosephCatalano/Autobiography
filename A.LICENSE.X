@@ -181,7 +181,7 @@ Copyright (c) */* www */* */* "www." */* */* _holdings_ */* */* */\.
 
 Copyright (c) */* Copyright (c) */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* Ph.D/Ph.D. */* */* _holdings_ */* */* _service(s) */* */INSTITUTION/INSTRUMENT/licensing/SYSTEM/GROUP(s)/FOUNDATION/STATE/* */non-profit\.
+Copyright (c) */* Ph.D/Ph.D. */* */* _holdings_ */* */* _service */* */INSTITUTION/INSTRUMENT/licensing/SYSTEM/GROUP(s)/FOUNDATION/STATE/* */non-profit\.
 
 Copyright (c) */* "Ph.D"
 
@@ -189,9 +189,9 @@ Copyright (c) */* "Ph.D."
 
 Copyright (c) */* "PhD"
 
-Copyright (c) */* PhD */* */* _holdings_ */* */* _service(s) */* *INSTITUTION/INSTRUMENT/EDUCATION/SYSTEM/GROUP/FOUNDATION/STATE/* */non-profit\.
+Copyright (c) */* PhD */* */* _holdings_ */* */* _service */* *INSTITUTION/INSTRUMENT/EDUCATION/SYSTEM/GROUP/FOUNDATION/STATE/* */non-profit\.
 
-Copyright (c) */* */Physics/Chemistry/Numerical-Comp/Law/* */* */* _holdings_ */* */* _service(s) */* *INSTITUTION/STUDY/FIELD/DEGREE/SYSTEM/FOUNDATION/GROUP/TENDER/* */\.
+Copyright (c) */* */Physics/Chemistry/Numerical-Comp/Law/* */* */* _holdings_ */* */* _service */* *INSTITUTION/STUDY/FIELD/DEGREE/SYSTEM/FOUNDATION/GROUP/TENDER/* */\.
 
 Copyright (c) */* "?" */* _holdings_ */* */* */\.
 
