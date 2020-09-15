@@ -112,6 +112,13 @@ Copyright (c) */* ;transaction(s)/transactionary serfraction(s) require(s) barte
 
 Copyright (c) */* ;BIT(s)-mater-material-mass-structure(s)'s;"BIT(s)-mater-material-mass-structure(s)'s"\.
 
+Copyright (c) */* ;";"Binary Coded Decimal(BCD)";"Binary Coded Decimal(BCD)";"format/encoding""\.
+Copyright (c) */* ;".*" *=all file;format/extensions/encoding\.
+Copyright (c) */* ;".asm*" file;format/extensions/encoding\.
+Copyright (c) */* ;".i*" file;format/extensions/encoding\.
+Copyright (c) */* ;".h*" file;format/extensions/encoding\.
+Copyright (c) */* ;".c*" file;format/extensions/encoding\.
+
 Copyright (c) */* the_grammar-word-transitional/statment/transitional;adjective-verb()"adjective-verb()"(adj-verb):benevolent-socality"socalafide"(adj-verb(d))definition/(adj-verb(d)) */* _holdings_ */* */* _service(s) */* */\.
 
 Copyright (c) */* grammer-word-transitional/statement/transitional:undedifracteonal(adj-verb(d)).
