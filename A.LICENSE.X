@@ -161,13 +161,13 @@ Copyright (c) */* The Letter of Proof */* */* _holdings_ */* */* _service */* */
 
 Copyright (c) */* BIT(s);"BIT(s)"(information/time/frames) */* */* _holdings_ */* */* _service(s) */* *INSTITUTION/INSTRUMENT/SYSTEM/FOUNDATION/GROUP(s)/* */\.
 
-Copyright (c) */* BIT(s);"BIT(s) "License"" */* */* _holdings_ */* */* _service(s) */* */\.
+Copyright (c) */* BIT(s);"BIT(s) "License"" */* */* _holdings_ */* */* _service(s) */* */ */\.
 
-Copyright (c) */* BIT(s) */* */* _holdings_ */* */* */\.
+Copyright (c) */* BIT(s) */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* BIT(s);"BIT(s)" */* */* _holdings_ */* */* */\.
+Copyright (c) */* BIT(s);"BIT(s)" */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* ALTUSNET */* _holdings_ */* */* _service(s) */* */\.
+Copyright (c) */* ALTUSNET */* _holdings_ */* */* _service(s) */* */ */\.
 
 Copyright (c) */* ALTUSNET */* "ALTUSNET"
 
