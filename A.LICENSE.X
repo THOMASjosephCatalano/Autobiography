@@ -565,7 +565,7 @@ Copyright (c) */* US Department of Agriculture */* Department of Agriculture */*
 
 Copyright (c) */* CERN */* The European Organization for Nuclear Research */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* ALCOA */* Alcoa Corporation */* Alcoa R&D */* ALCOA GROUP */* metals/alloys */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* ALCOA */* Alcoa Corporation */* Alcoa R&D */* ALCOA GROUP */* metal(s)/alloy(s) */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* Gold(Au).spot*_99.9%.purity*)* */* "gold(Au)* _(_&_)_ "precious_metal(s)*" */* Gold(Au)* Reserves */* GOLD(Au)* MINING */FRONTIER(s)/SCOPE(s)/* */* GOLD(Au)* */DERIVATIVES/STOCKS/BEARS/* */* GOLD(Au)* */* */* _holdings_ */* */* _service */* */ */\.
 
