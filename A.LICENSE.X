@@ -308,19 +308,19 @@ Copyright (c) */* POSIX */* */* _holdings_ */* */* _service */* */SYSTEM/GROUP/*
 
 Copyright (c) */* ARM */* ARM Holdings */* */* _holdings_ */* */*  _service */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 
-Copyright (c) */* INTEL */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
+Copyright (c) */* INTEL */* */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 
-Copyright (c) */* NIVIDIA */ _holdings_ */* */GROUP/CORPORATION/* */INC./LLC.\.
+Copyright (c) */* NIVIDIA */* */* _holdings_ */* */GROUP/CORPORATION/* */INC./LLC.\.
 
-Copyright (c) */* Dell */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
+Copyright (c) */* Dell */* */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 
-Copyright (c) */* HP */* _holdings_ */* */Corporation/GROUP */INC./LLC./non-profit\.
+Copyright (c) */* HP */* */* _holdings_ */* */Corporation/GROUP */INC./LLC./non-profit\.
 
-Copyright (c) */* AMD */* _holdings_ */*  */Corporation/GROUP/* */INC./LLC./non-profit\.
+Copyright (c) */* AMD */* */*  _holdings_ */*  */Corporation/GROUP/* */INC./LLC./non-profit\.
 
-Copyright (c) */* IBM */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
+Copyright (c) */* IBM */* */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 
-Copyright (c) */* MICROSOFT */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
+Copyright (c) */* MICROSOFT */* */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 
 Copyright (c) */* Lockheed Martin */* Lockheed Martin Skunk Works */* */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 
@@ -328,11 +328,11 @@ Copyright (c) */* GE */* GE Power Units */* */* _holdings_ */* */Corporation/GRO
 
 Copyright (c) */* Rolls Royce */* Rolls Royce Power Units */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* CHASE BANK */* _holdings_ */* */GROUP/CORPORATION/* */INC./LLC./non-profit\.
+Copyright (c) */* CHASE BANK */* */* _holdings_ */* */GROUP/CORPORATION/* */INC./LLC./non-profit\.
 
-Copyright (c) */* Wells Fargo Bank */* _holdings_ */* */GROUP/*  */INC./LLC.\.
+Copyright (c) */* Wells Fargo Bank */* */* _holdings_ */* */GROUP/*  */INC./LLC.\.
 
-Copyright (c) */* Boeing */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
+Copyright (c) */* Boeing */* Boeing Group */* Boeing Aerospace */* Boeing Power Units */* */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 
 Copyright (c) */* BASF */* _holdings_ */* */Corporation/GROUP */Ltd./INC./LLC.\.
 
