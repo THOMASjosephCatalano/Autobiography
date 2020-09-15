@@ -159,9 +159,9 @@ Copyright (c) */* etcetera so forth;etc. so forth\.
 
 Copyright (c) */* The Letter of Proof */* */* _holdings_ */* */* _service */* */INSTITUTION/INSTRUMENT/STATE/SYSTEM/GROUP/* */\.
 
-Copyright (c) */* BIT(s);"BIT(s)"(information/time/frames) */* */* _holdings_ */* */* _service(s) */* *INSTITUTION/INSTRUMENT/SYSTEM/FOUNDATION/GROUP(s)/* */\.
+Copyright (c) */* BIT(s);"BIT(s)"(information/time/frames) */* */* _holdings_ */* */* _service */* */INSTITUTION/INSTRUMENT/SYSTEM/FOUNDATION/GROUP(s)/* */\.
 
-Copyright (c) */* BIT(s);"BIT(s) "License"" */* */* _holdings_ */* */* _service(s) */* */ */\.
+Copyright (c) */* BIT(s);"BIT(s) "License"" */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* BIT(s) */* */* _holdings_ */* */* _service */* */ */\.
 
