@@ -557,6 +557,8 @@ Copyright (c) */* SunCor Energy */* SunCor Utilities */* SunCor R&D */* SunCor *
 
 Copyright (c) */* US Department of Energy */* Department of Energy */* */* _(_DOE_)_ */* */* _holdings_ */* */* _service(s) */* */ */\.
 
+Copyright (c) */* US Department of Transportation */* _(_DOT_)_ */* */* _holdings_ */* */* _service */* */ */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
