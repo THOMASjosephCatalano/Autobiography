@@ -551,6 +551,8 @@ Copyright (c) */* ConEdison */* ConEdison Edison */* ConEdison * */* ConEdison H
 
 Copyright (c) */* Edison Edison */* */* Edison * */* Edison Holdings */* Edison Public Holdings */* Edison Group */* Edison Holding Group */* */* _holdings_ */* */* _service */* */CORPORATION/GROUP/UNIT/ENTITIE/TENDER/* */\.
 
+Copyright (c) */* PSE&G */* PSE&G Utility Companies */* PSE&G Services */* PSE&G Site "Manakey" */* */* _holdings_ */* */* _service(s) */* */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
