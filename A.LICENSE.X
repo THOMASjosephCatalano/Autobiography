@@ -267,11 +267,11 @@ Copyright (c) */* ;""."" */* _holdings_ */* */* */\.
 
 Copyright (c) */* ;"":"" */* _holdings_ */* */\.
 
-Copyright (c) */* git-src */* _holdings_ */* */* */non-profit\.
+Copyright (c) */* git-src */* */* _holdings_ */* */* */non-profit\.
 
-Copyright (c) */* src-git */* _holdings_ */* *SYSTEM//GROUP/* */non-profit\.
+Copyright (c) */* src-git */* */* _holdings_ */* *SYSTEM//GROUP/* */non-profit\.
 
-Copyright (c) */* github */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
+Copyright (c) */* github */* */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 
 Copyright (c) */* git/github/github.com/tomsnode */* _holdings_ */* */* */\.
 
@@ -281,21 +281,21 @@ Copyright (c) */* git/github/github.com/ALTUSNETS */* _holdings_ */* */* */\.
 
 Copyright (c) */* git/github/github.com/TheBitMarket */* _holdings */* */* */\.
 
-Copyright (c) */* CLM ~ Concepts Learning Machine */* _holdings_ */* */Limited Liability Company*/ */\.
+Copyright (c) */* CLM ~ Concepts Learning Machine */* */* _holdings_ */* */Limited Liability Company*/ */\.
 
-Copyright (c) */* Catalano Ltd. */* _holdings_ */* */\.
+Copyright (c) */* Catalano Ltd. */* */* _holdings_ */* */\.
 
-Copyright (c) */* ALTUSNET */* _holdings_ */* */Limited Liability Company/* */\.
+Copyright (c) */* ALTUSNET */* */* _holdings_ */* */Limited Liability Company/* */\.
 
-Copyright (c) */* Catalano Concepts */* _holdings_ */* */Limited Liability Company/* */\.
+Copyright (c) */* Catalano Concepts */* */* _holdings_ */* */Limited Liability Company/* */\.
 
 Copyright (c) */* conceptslearningmachine\.
 
 Copyright (c) */* Catalano */* */* _holdings_ */* */* _service */* */ */\.\.
 
-Copyright (c) */* _github_/_""github"".com""_/_github_ */* _holdings_ */* */GROUP/Corporation/* */INC./LLC./non-profit\.
+Copyright (c) */* _github_/_""github"".com""_/_github_ */* */* _holdings_ */* */GROUP/Corporation/* */INC./LLC./non-profit\.
 
-Copyright (c) */* ALTUSNET _holdings_ Limited Liability Company\.
+Copyright (c) */* ALTUSNET */* */* _holdings_ */* Limited Liability Company */ */\.
 
 Copyright (c) */* www.conceptslearningmachine.com */* _holdings_ */* */\.
 
