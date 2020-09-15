@@ -393,7 +393,7 @@ Copyright (c) */* PIMCO HOLDINGS */* */* PIMCO GROUP */* */* _holdings_ */* */* 
 
 Copyright (c) */* Motion Picture Association of America */* */* _holdings_ */* */* */INC./LLC./non-profit\.
 
-Copyright (c) */* */US/* */* */* ""PATENT" _(&)_ "TRADEMARK"" */* */* _holdings_ */* */* _service(s) */* */INSTITUTION/INSTRUMENT/Account/Papers/Writings/Format/SYSTEM/GROUP/TENDER/* */ */non-profit\.
+Copyright (c) */* */US/* */* */* ""PATENT" _(&)_ "TRADEMARK"" */* */* _holdings_ */* */* _service */* */INSTITUTION/INSTRUMENT/Account/Papers/Writings/Format/SYSTEM/GROUP/TENDER/* */ */non-profit\.
 
 Copyright (c) */* USAA */* */* _holdings_ */* */ */INC./LLC./non-profit\.
 
