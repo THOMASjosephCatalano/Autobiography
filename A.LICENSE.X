@@ -99,7 +99,7 @@ Copyright (c) */*;*["(the)"]*(); "&&" "politicasivisonarydafabuloustaticlicous" 
               */* "oneimotoeyatolatatufatermaterbatorbaskatracerfantastaticulisoustrodanersaitonator" ;; "oneimotovasculatorvaderproprecatorlishisfatorsaitonator";;
               */* politicasivisonarydafabuloustaticlisous && ""["_*BOARD*__Doctor__Ph.D_-General-Admiral-CFO-CEO-President__the.emancipator.the.propriatator.the__ThomasJosephCatalano"(*)""] "Catalano Ltd." "Catalano Concepts LimitedLiabilityCompany" "CLM LimitedLiabilityCompany" "& hosted entities"" | mechanical() && "["classical" | "quantum"]" && ""_computer-processor_" "_*utility'_" _*invention'_ _*formula'_ _*enginee'_"" && --implementator/my testator/;;""inclusitation()" "_fee's/taxes_accountafiscalator"" */ */\.
           
-Copyright (c) */* THOMAS CATALANO */* */* _holdings_ */* */* _service(s) */* *INSTITUTION/INSTRUMENT/STATE/SYSTEM/GROUP/* */\.
+Copyright (c) */* THOMAS CATALANO */* */* _holdings_ */* */* _service */* */INSTITUTION/INSTRUMENT/STATE/SYSTEM/GROUP/* */\.
 
 Copyright (c) */* ;motion by &| of panticulation serfractions perpetuation;algorithm:
               */* "motion by &| of panticulation serfractions perpetuation"\.
