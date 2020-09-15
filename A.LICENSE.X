@@ -373,7 +373,7 @@ Copyright (c) */* US Treasury NOTE */* */* _holdings_ */* */* _monetization__cur
 
 Copyright (c) */* National Broadcasting Company (NBC) */* */* _holdings_ */* */Corporation/GROUP/* */INC./INC./non-profit\.
 
-Copyright (c) */* MARVEL / MARVEL CINEMATIC UNIVERSE */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
+Copyright (c) */* MARVEL / MARVEL CINEMATIC UNIVERSE */* */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 
 Copyright (c) */* Warner Brothers */* */* _holdings_ */* */* Studio's */* */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 
@@ -383,9 +383,9 @@ Copyright (c) */* US Naval Research Laboratory (NRL) */* */* _holdings_ */* */* 
 
 Copyright (c) */* US Army Research Laboratory (ARL) */* */* _holdings_ */* */* _service */* */GROUP/Corporation/SYSTEM/* */INC./LLC./non-profit\.
 
-Copyright (c) */* PIMCO HOLDINGS */* _holdings_ */* */GROUP/Corporation/* */INC./LLC./non-profit\.
+Copyright (c) */* PIMCO HOLDINGS */* */* PIMCO GROUP */* */* _holdings_ */* */GROUP/Corporation/* */INC./LLC./non-profit\.
 
-Copyright (c) */* Motion Picture Association of America */* _holdings_ */* */* */INC./LLC./non-profit\.
+Copyright (c) */* Motion Picture Association of America */* */* _holdings_ */* */* */INC./LLC./non-profit\.
 
 Copyright (c) */* */US/* */* */* ""PATENT" _(&)_ "TRADEMARK"" */* */* _holdings_ */* */* _service(s) */* */INSTITUTION/INSTRUMENT/Account/Papers/Writings/Format/SYSTEM/GROUP/TENDER/* */ */non-profit\.
 
@@ -393,23 +393,23 @@ Copyright (c) */* USAA */* */* _holdings_ */* */ */INC./LLC./non-profit\.
 
 Copyright (c) */* General Motors (GM) */* engines/cars/trucks/automobiles/vehicles */* */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
 
-Copyright (c) */* FORD MOTOR COMPANY */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
+Copyright (c) */* FORD MOTOR COMPANY */* */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 
-Copyright (c) */* American Express (AMX) */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
+Copyright (c) */* American Express (AMX) */* */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 
-Copyright (c) */* MASTERCARD */* _holdings_ */* */GROUP/CORPORATION/* */INC./LLC./non-profit\.
+Copyright (c) */* MASTERCARD */* */* _holdings_ */* */GROUP/CORPORATION/* */INC./LLC./non-profit\.
 
-Copyright (c) */* VISA */* _holdings_ */* */GROUP/CORPORATION/* */\
+Copyright (c) */* VISA */* */* _holdings_ */* */GROUP/CORPORATION/* */\
 
-Copyright (c) */* GE Capital */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
+Copyright (c) */* GE Capital */* */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 
-Copyright (c) */* Alitalia */* _holdings_ */* */Corporation/GROUP */INC./LLC./non-profit\.
+Copyright (c) */* Alitalia */* */* _holdings_ */* */Corporation/GROUP */INC./LLC./non-profit\.
 
-Copyright (c) */* NASDAQ E GROUP */* _holdings_ */* */GROUP/Corporation */INC./LLC./non-profit\.
+Copyright (c) */* NASDAQ E GROUP */* */* _holdings_ */* */GROUP/Corporation */INC./LLC./non-profit\.
 
 Copyright (c) */* CHURCH OF ENGLAND */* _(Great Britain)_ */* */*_(GB)_ */* */* _holdings_ */* */* _service(s) */* */SERIES/INSTITUTION/GROUP/SYSTEM/* */\.
 
-Copyright (c) */* BANK OF CHINA */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
+Copyright (c) */* BANK OF CHINA */* */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 
 Copyright (c) */* The Vatican Bank/Vatican/The Holy See */* _(AIF)_ */* */* _(IOR)_ */* */* _holdings_ */* */* _service(s) */* */GROUP/SYSTEM/* */non-profit\.
 
