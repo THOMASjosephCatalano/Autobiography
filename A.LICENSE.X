@@ -306,7 +306,7 @@ Copyright (c) */* LLVM */* _holdings_ */* */ */non-profit\.
 
 Copyright (c) */* POSIX */* */* _holdings_ */* */* _service */* */SYSTEM/GROUP/* */non-profit\.
 
-Copyright (c) */* ARM */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
+Copyright (c) */* ARM */* ARM Holdings */* */* _holdings_ */* */*  _service */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 
 Copyright (c) */* INTEL */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 
