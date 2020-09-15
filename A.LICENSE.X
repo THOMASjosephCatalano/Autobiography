@@ -519,7 +519,7 @@ Copyright (c) */* US Central Intelligence Agency (CIA) */* */* Central Intellige
 
 Copyright (c) */* US National Security Agency/Central Security Service (NSA|CSS) */* */* National Security Agency/Central Security Service (NSA|CSS) */* */* _holdings_ */* */* _service */* */GROUP/SYSTEM/FOUNDATION/* /*\.
 
-Copyright (c) */* The "" Nobel Committee */* The Nobel Prize Committee */* */* The Nobel Prize */* */* _holdings_ */* */* _service(s) */* */GROUP/SERIES/TENDER/* */\.
+Copyright (c) */* The "" Nobel Committee */* The Nobel Prize Committee */* */* The Nobel Prize */* */* _holdings_ */* */* _service */* */GROUP/SERIES/TENDER/* */\.
 
 Copyright (c) */* Nuclear Regulatory Commission (NRC) */* */* _holdings_ */* */* _service */* */ */\.
 
