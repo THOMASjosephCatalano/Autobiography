@@ -513,7 +513,7 @@ Copyright (c) */* Binary Translation */* coding/alpha-numerics-symbols */* */* _
 
 Copyright (c) */* swastika */* "swastika" */* */* _holdings_ */* */GROUP/SYSTEM/CORPORATION/FOUNDATION/SYMBOL/LOGO/* */\.
 
-Copyright (c) */* US Department of Commerce (doc) */* */* Department of Commerce (doc) */* */* _holdings_ */* */* _service(s) */* */GROUP/SYSTEM/* */\.
+Copyright (c) */* US Department of Commerce (doc) */* */* Department of Commerce (doc) */* */* _holdings_ */* */* _service */* */GROUP/SYSTEM/* */\.
 
 Copyright (c) */* US Central Intelligence Agency (CIA) */* */* Central Intelligence Agency (CIA) */* */* _holdings_ */* */* _service */* */GROUP/SYSTEM/FOUNDATION/CORPORATION/* */\.
 
