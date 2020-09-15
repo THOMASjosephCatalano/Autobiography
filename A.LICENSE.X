@@ -426,21 +426,21 @@ Copyright (c) */* US Air Force Research Laboratory (AFRL) _holdings_ */GROUP/Cor
 
 Copyright (c) */* US Space Force Research Laboratory (SFRL) _holdings_ */GROUP/Corporation/SYSTEM/* */INC./LLC./non-profit\.
 
-Copyright (c) */* UNITED NATIONS */* */* (UN) */* */* _(_UN_)_ */* */* _holdings_ */* */* _service(s) */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
+Copyright (c) */* UNITED NATIONS */* */* (UN) */* */* _(_UN_)_ */* */* _holdings_ */* */* _service */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
 
-Copyright (c) */* INTERNATIONAL COURT OF JUSTICE/COURT OF INTERNATIONAL JUSTICE */* (ICJ-CIJ) */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
+Copyright (c) */* INTERNATIONAL COURT OF JUSTICE/COURT OF INTERNATIONAL JUSTICE */* (ICJ-CIJ) */* _holdings_ */* */* _service */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
 
 Copyright (c) */* NORTH ATLANTIC TREATY ORGANIZATION(NATO) */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
 
-Copyright (c) */* European Space Agency (ESA) */* _(_ESA_)_ */* */* _(_esa_)_ */* */* _holdings_ */GROUP/CORPORATION/* */* _entity_ */* */INC./LLC./non-profit\.
+Copyright (c) */* European Space Agency (ESA) */* _(_ESA_)_ */* */* _(_esa_)_ */* */* _holdings_ */* */* _service */* */GROUP/CORPORATION/* */* _entity_ */* */INC./LLC./non-profit\.
 
-Copyright (c) */* National Aeronautics & Space Agency (NASA) */* */* _(_NASA_)_ */* */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */* _entity_ */* */INC./LLC./non-profit\.
+Copyright (c) */* National Aeronautics & Space Agency (NASA) */* */* _(_NASA_)_ */* */* _holdings_ */* */* _service */* */GROUP/CORPORATION/SYSTEM/* */* _entity_ */* */INC./LLC./non-profit\.
 
 Copyright (c) */* North American Aerospace Defense */* */* (NORAD) */* */* _holdings_ */* */* _service */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
 
 Copyright (c) */* Antarctic Treaty System (ATS) */* */* _holdings_ */* */* _entity */* */*  _futures */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
 
-Copyright (c) */* INTERNATIONAL STANDARDS ORGANIZATION (ISO) */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
+Copyright (c) */* INTERNATIONAL STANDARDS ORGANIZATION (ISO) */* _holdings_ */* */* _service */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
 
 Copyright (c) */* NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY (NIST) */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
 
@@ -504,7 +504,7 @@ Copyright (c) */* US National Security Agency/Central Security Service (NSA|CSS)
 
 Copyright (c) */* The "" Nobel Committee */* The Nobel Prize Committee */* */* The Nobel Prize */* */* _holdings_ */* */* _service(s) */* */GROUP/SERIES/TENDER/* */\.
 
-Copyright (c) */* Nuclear Regulatory Commission (NRC) */* */* _holdings_ */* */* */\.
+Copyright (c) */* Nuclear Regulatory Commission (NRC) */* */* _holdings_ */* */* _service */* */* */\.
 
 Copyright (c) */* spatial(*)(ie. -ator) */* */* vector(*)(ie. -izing) */* plot(*)(ie. -ting) */* graph(*)(ie. -ing) */* __spatial__vector__plot__graphing__ */* */* _holdings_ */* */* _service */* */SCOPE/CHARTS/SYSTEMS/NAVIGATION/HONING/MOTION/ENUMERATION/INSTRUMENTATION/* */* */\.
 
