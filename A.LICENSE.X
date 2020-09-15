@@ -594,7 +594,7 @@ Copyright (c) */* A/V */* Audio/Video */* */* _holdings_ */* */* _service */* */
 
 Copyright (c) */* TV/Radio */* */* _holdings */* */* _service */* */ */\.
 
-Copyright (c) */* Speed of Light (c=0) */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Speed of Light | (c=0) */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* photons::photonic */* */* _holdings_ */* */* _service */* */ */\.
 
