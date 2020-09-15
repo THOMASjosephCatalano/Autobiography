@@ -402,7 +402,7 @@ Copyright (c) */* BANK OF CHINA */* _holdings_ */* */Corporation/GROUP/* */INC./
 
 Copyright (c) */* The Vatican Bank/Vatican/The Holy See */* _(AIF)_ */* */* _(IOR)_ */* */* _holdings_ */* */* _service(s) */* */GROUP/SYSTEM/* */non-profit\.
 
-Copyright (c) */* Roman Catholic Church/Diocese */* */* _(_ROC_) */* */* _holdings_ */* */*  _service(s) */* */GROUP/SERIES/SERVICE/UNION/ENTITIE/CORPORATION/* */non-profit\.
+Copyright (c) */* Roman Catholic Church/Diocese */* */* _(_RCC_) */* */* _holdings_ */* */*  _service(s) */* */GROUP/SERIES/SERVICE/UNION/ENTITIE/CORPORATION/* */non-profit\.
 
 Copyright (c) */* Financial Intelligence Authority (AIF) */* _holdings_ */* */* _service(s) */* */GROUP/Corporation */INC./LLC./non-profit\.
 
@@ -436,7 +436,7 @@ Copyright (c) */* European Space Agency (ESA) */* _(_ESA_)_ */* */* _(_esa_)_ */
 
 Copyright (c) */* National Aeronautics & Space Agency (NASA) */* */* _(_NASA_)_ */* */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */* _entity_ */* */INC./LLC./non-profit\.
 
-Copyright (c) */* North American Aerospace Defense (NORAD) */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
+Copyright (c) */* North American Aerospace Defense */* */* (NORAD) */* */* _holdings_ */* */* _service */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
 
 Copyright (c) */* Antarctic Treaty System (ATS) */* */* _holdings_ */* */* _entity */* */*  _futures */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
 
