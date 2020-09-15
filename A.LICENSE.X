@@ -10,6 +10,8 @@ Copyright (c) */* BIT(s);"BIT(s)";"algorithm:"this LICENSE "inclusive"""; */* _h
 
 Copyright (c) */* Binary Coded Decimal */* */* _(_BCD_)_ */* */* _holdings_ */* */* _service */* */ */\.
 
+Copyright (c) */* ASCII */* */* _holdings_ */* */* _service */* */ */\.
+
 Copyright (c) */* Copyright */* "Copyright" */*
 
 Copyright (c) */* (c) */* "(c)" */* 
