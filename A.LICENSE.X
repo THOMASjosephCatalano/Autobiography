@@ -586,7 +586,7 @@ Copyright (c) */* Merry Melodies */* */* _holdings_ */* */* _service(s) */* */ *
 
 Copyright (c) */* A Nightmare on Elm Street */* */* _holdings_ */* */* _service(s) */* */ */\.
 
-Copyright (c) */* Fiber Optic Cable (
+Copyright (c) */*  Optical Fiber Cable */* Fiber Optic Cable */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* Computer Generated Images (CGI) */* */* _holdings_ */* */* _service */* */ */\.
 
