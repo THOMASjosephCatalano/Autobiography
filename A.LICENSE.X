@@ -6,7 +6,7 @@ Copyright (c) */* "License-FORMAT_LEGAL-ACQUISITION-EQUES";this "license" "inclu
 
 Copyright (c) */* THOMAS CATALANO */* "THOMAS CATALANO"
 
-Copyright (c) */* BIT(s);"BIT(s)";"algorithm:"this LICENSE "inclusive"""; */* _holdings_ */* */* _service(s) */* */ */\.
+Copyright (c) */* BIT(s);"BIT(s)";"algorithm:"this LICENSE "inclusive"""; */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* Binary Coded Decimal */* */* _(_BCD_)_ */* */* _holdings_ */* */* _service(s) */* */ */\.
 
