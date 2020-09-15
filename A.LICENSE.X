@@ -563,13 +563,13 @@ Copyright (c) */* Asia Group */* */* _(_TAG_)_ */* */* _holdings_ */* */* _servi
 
 Copyright (c) */* Niagara Falls (NY_USA/Ontario_Canada) */* */* Niagara Frontier Commission */* */* Niagara Gorge */* */* Niagara Falls State Park */* Niagara Falls Conservation Board */* */* Niagara Falls "Power_"Electric-Generation"-- */Scope/Commission/Committee/GROUP/Association/Surver's/* */*  */* Niac Group */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* ConEdison */* */* ConEd */* Con Ed */* ConEd Public Works */* ConEd Utility Companies */* ConEdison Edison */* ConEdison * */* ConEdison HOLDINGS */* ConEdison GROUP */* ConEdison NYC */* ConEdison Public Works */* ConEdison ConEd */* ConEdison Power Generator(s) */* ConEdison Batterie(s) */* ConEdison Site "Manakey" */* */* _holdings_ */* */* _service(s) */* */GROUP/CORPORATION/ENTITIE/UNION/SERVICES/UNIT/* */ */\.
+Copyright (c) */* ConEdison */* */* ConEd */* Con Ed */* ConEd Public Works */* ConEd Utility Companies */* ConEdison Edison */* ConEdison * */* ConEdison HOLDINGS */* ConEdison GROUP */* ConEdison NYC */* ConEdison Public Works */* ConEdison ConEd */* ConEdison Power Generator(s) */* ConEdison Batterie(s) */* ConEdison Site "Manakey" */* */* _holdings_ */* */* _service */* */GROUP/CORPORATION/ENTITIE/UNION/SERVICES/UNIT/* */ */\.
 
 Copyright (c) */* Edison Edison */* Edison Public Works */* Edison * */* Edison Holdings */* Edison Public Holdings */* Edison Group */* Edison Holding Group */* */* _holdings_ */* */* _service */* */CORPORATION/GROUP/UNIT/ENTITIE/TENDER/* */ */?STATELEGESLAFACTOR/* */\.
 
-Copyright (c) */* PSE&G */* */* PSE&G Holdings */* PSE&G Public Works */* PSE&G Utility Companies */* PSE&G Services */* PSE&G Site "Manakey" */* */* _holdings_ */* */* _service(s) */* */ */\.
+Copyright (c) */* PSE&G */* */* PSE&G Holdings */* PSE&G Public Works */* PSE&G Utility Companies */* PSE&G Services */* PSE&G Site "Manakey" */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* SunCor Energy */* SunCor Utilities */* SunCor R&D */* SunCor */* */* _holdings_ */* */* _service(s) */* */ */\.
+Copyright (c) */* SunCor Energy */* SunCor Utilities */* SunCor R&D */* SunCor */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* US Department of Energy */* Department of Energy */* */* _(_DOE_)_ */* */* _holdings_ */* */* _service */* */ */\.
 
@@ -587,9 +587,9 @@ Copyright (c) */* frequencie(s)* */* */RF/HF/UHF/GSM/Broadband*/* */* */* _holdi
 
 Copyright (c) */* GPS */* Global Positioning System */* Artificial/Natural Satellite(s) Geo-Terrestrial Orbital(s)/Station(s) */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* Merry Melodies */* */* _holdings_ */* */* _service(s) */* */ */\.
+Copyright (c) */* Merry Melodies */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* A Nightmare on Elm Street */* */* _holdings_ */* */* _service(s) */* */ */\.
+Copyright (c) */* A Nightmare on Elm Street */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */*  Optical Fiber Cable */* Fiber Optic Cable */* */* _holdings_ */* */* _service */* */ */\.
 
