@@ -525,25 +525,25 @@ Copyright (c) */* Nuclear Regulatory Commission (NRC) */* */* _holdings_ */* */*
 
 Copyright (c) */* spatial(*)(ie. -ator) */* */* vector(*)(ie. -izing) */* plot(*)(ie. -ting) */* graph(*)(ie. -ing) */* __spatial__vector__plot__graphing__ */* */* _holdings_ */* */* _service */* */SCOPE/CHARTS/SYSTEMS/NAVIGATION/HONING/MOTION/ENUMERATION/INSTRUMENTATION/* */ */\.
 
-Copyright (c) */* Screen Actors Guild | American Federation of Television and Radio Artists */* */* (SAG-AFTRA) */* */* _holdings */* */* _service(s) */* */GROUP/UNION/CORPORATION/SYSTEM/TENDER/* */\.
+Copyright (c) */* Screen Actors Guild | American Federation of Television and Radio Artists */* */* (SAG-AFTRA) */* */* _holdings */* */* _service */* */GROUP/UNION/CORPORATION/SYSTEM/TENDER/* */\.
 
-Copyright (c) */* Royal Society */* */* "The Royal Society" */* The Royal Society of London for Improving Natural Knowledge */* */* _holdings_*/* */* _service(s) */* */FELLOWS/SOCIETY/GROUP/SYSTEM/TENDER/* */\.
+Copyright (c) */* Royal Society */* */* "The Royal Society" */* The Royal Society of London for Improving Natural Knowledge */* */* _holdings_*/* */* _service */* */FELLOWS/SOCIETY/GROUP/SYSTEM/TENDER/* */\.
 
-Copyright (c) */* Shriners International */* "Ancient Arabic Order of the Nobles of the Mystic Shrine" */* */* (AAONMS) */* */* _holdings_ */* */GROUP/SOCIETY/ORDER/SYSTEM/TENDER/* */\.
+Copyright (c) */* Shriners International */* "Ancient Arabic Order of the Nobles of the Mystic Shrine" */* */* (AAONMS) */* */* _holdings_ */* */* _service */* */GROUP/SOCIETY/ORDER/SYSTEM/TENDER/* */\.
 
-Copyright (c) */* The Masonic Order */* "Freemasonry" */* */* _holdings_ */* */ORDER/GROUP/SOCIETY/TENDER/* */\.
+Copyright (c) */* The Masonic Order */* "Freemasonry" */* */* _holdings_ */* */* _service */* */ORDER/GROUP/SOCIETY/TENDER/* */\.
 
 Copyright (c) */* Goldman Sachs, Rockefellers, Lehmans and Kuhn Loebs of New York; the Rothschilds of Paris and London; the Warburgs of Hamburg; the Lazards of Paris; and the Israel Moses Seifs of Rome */* "Goldman Sachs, Rockefellers, Lehmans and Kuhn Loebs of New York; the Rothschilds of Paris and London; the Warburgs of Hamburg; the Lazards of Paris; and the Israel Moses Seifs of Rome" */* */* _holdings_ */* */* _service */* */BANKTERS/GROUP/CORPORATION/ORDER/UNION/TENDER/* */\.
 
-Copyright (c) */* Federal Reserve System */* */* Federal Reserve Bank */* */* _holdings_ */* */* _service(s) */* */SYSTEM/GROUP/CORPORATION/UNION/TENDER/SOCALITY/* */\.
+Copyright (c) */* Federal Reserve System */* */* Federal Reserve Bank */* */* _holdings_ */* */* _service */* */SYSTEM/GROUP/CORPORATION/UNION/TENDER/SOCALITY/* */\.
 
-Copyright (c) */* The Presidency of the United States of America */* */* _(_US_)_ */* */* _holdings_ */* */* _service(s) */* */GOVERNANCE/STATE/SYSTEM/GROUP/TENDER/* */\.
+Copyright (c) */* The Presidency of the United States of America */* */* _(_US_)_ */* */* _holdings_ */* */* _service */* */GOVERNANCE/STATE/SYSTEM/GROUP/TENDER/* */\.
 
-Copyright (c) */* US Federal Election Board/Commission */* */* FEDERAL ELECTION COMMISSION (FEC) */* */* _holdings_ */* */* _service(s) */* */Committee/Commission/GROUP/SYSTEM/STATE/TENDER/* */\.
+Copyright (c) */* US Federal Election Board/Commission */* */* FEDERAL ELECTION COMMISSION (FEC) */* */* _holdings_ */* */* _service */* */Committee/Commission/GROUP/SYSTEM/STATE/TENDER/* */\.
 
-Copyright (c) */* */Federal/* */* */* Food and Drug Administration */* */* _(_FDA_)_ */* */* _holdings_ */* */* _service(s) */* */GROUP/SYSTEM/GOVERNANCE/STATE/TENDER/* */\.
+Copyright (c) */* */Federal/* */* */* Food and Drug Administration */* */* _(_FDA_)_ */* */* _holdings_ */* */* _service */* */GROUP/SYSTEM/GOVERNANCE/STATE/TENDER/* */\.
 
-Copyright (c) */* _dating/massage/sex/sexual-intercourse/sexuality/DNA*_reproduction-reproductive/social_ */* */* "dating/massage/sex/sexuality/sexual-intercourse/DNA*/social" */* */* _holdings_ */* */* _service(s) */* */STATE/TENDER/SYSTEM/GROUP/CORPORATION/GOVERNANCE/* */\.
+Copyright (c) */* _dating/massage/sex/sexual-intercourse/sexuality/DNA*_reproduction-reproductive/social_ */* */* "dating/massage/sex/sexuality/sexual-intercourse/DNA*/social" */* */* _holdings_ */* */* _service */* */STATE/TENDER/SYSTEM/GROUP/CORPORATION/GOVERNANCE/* */\.
 
 Copyright (c) */* Corporeal Inauguration/Punishment */* "judicating/medicating; indictment & extermination; people', place', thing'," */* */* _holdings_ */* */* _service(s) */* */STATE/SYSTEM/SERIES/TENDER/* */\.
 
