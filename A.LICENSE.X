@@ -411,13 +411,13 @@ Copyright (c) */* Alitalia */* */* _holdings_ */* */Corporation/GROUP */INC./LLC
 
 Copyright (c) */* NASDAQ E GROUP */* */* _holdings_ */* */GROUP/Corporation */INC./LLC./non-profit\.
 
-Copyright (c) */* CHURCH OF ENGLAND */* _(Great Britain)_ */* */*_(GB)_ */* */* _holdings_ */* */* _service(s) */* */SERIES/INSTITUTION/GROUP/SYSTEM/* */\.
+Copyright (c) */* CHURCH OF ENGLAND */* _(Great Britain)_ */* */*_(GB)_ */* */* _holdings_ */* */* _service */* */SERIES/INSTITUTION/GROUP/SYSTEM/* */\.
 
-Copyright (c) */* BANK OF CHINA */* */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
+Copyright (c) */* BANK OF CHINA */* */* _holdings_ */* */* _service */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 
-Copyright (c) */* The Vatican Bank/Vatican/The Holy See */* _(AIF)_ */* */* _(IOR)_ */* */* _holdings_ */* */* _service(s) */* */GROUP/SYSTEM/* */non-profit\.
+Copyright (c) */* The Vatican Bank/Vatican/The Holy See */* _(AIF)_ */* */* _(IOR)_ */* */* _holdings_ */* */* _service */* */GROUP/SYSTEM/* */non-profit\.
 
-Copyright (c) */* Roman Catholic Church/Diocese */* */* _(_RCC_) */* */* _holdings_ */* */*  _service(s) */* */GROUP/SERIES/SERVICE/UNION/ENTITIE/CORPORATION/* */non-profit\.
+Copyright (c) */* Roman Catholic Church/Diocese */* */* _(_RCC_) */* */* _holdings_ */* */*  _service */* */GROUP/SERIES/SERVICE/UNION/ENTITIE/CORPORATION/* */non-profit\.
 
 Copyright (c) */* Financial Intelligence Authority (AIF) */* */* _holdings_ */* */* _service(s) */* */GROUP/Corporation */INC./LLC./non-profit\.
 
