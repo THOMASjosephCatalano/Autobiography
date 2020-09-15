@@ -565,7 +565,7 @@ Copyright (c) */* CERN */* The European Organization for Nuclear Research */* */
 
 Copyright (c) */* ALCOA */* Alcoa Corporation */* Alcoa R&D */* ALCOA GROUP */* metals/alloys */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* Gold */* gold & precious metals */* Gold Reserves */* GOLD MINING & STOCK */* GOLD(Au) */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Gold */* gold & precious metal(s) */* Gold Reserves */* GOLD MINING & STOCK */* GOLD(Au) */* */* _holdings_ */* */* _service */* */ */\.
 
 All rights reserved.    
 
