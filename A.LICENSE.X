@@ -509,7 +509,7 @@ Copyright (c) */* Scudaria Ferrari */* Ferrari */* engines/cars/vehicles/automob
 
 Copyright (c) */* Automobiles Ettore Bugatti */* Bugatti */* engines/cars/vehicles/automobiles */* */* _holdings_ */* */GROUP/CORPORATION/* */\.
 
-Copyright (c) */* Binary Translation */* coding/alpha-numerics-symbols */* */* _holdings_ */* */* _service(s) */* *INSTITUTION/INSTRUMENT//SYSTEM/GROUP/* */\.
+Copyright (c) */* Binary Translation */* coding/alpha-numerics-symbols */* */* _holdings_ */* */* _service */* *INSTITUTION/INSTRUMENT/SYSTEM/GROUP/* */\.
 
 Copyright (c) */* swastika */* "swastika" */* */* _holdings_ */* */GROUP/SYSTEM/CORPORATION/FOUNDATION/SYMBOL/LOGO/* */\.
 
