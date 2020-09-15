@@ -575,6 +575,8 @@ Copyright (c) */* frequencie(s)* */* */RF/HF/UHF/GSM/Broadband*/* */* */* _holdi
 
 Copyright (c) */* GPS */* Global Positioning System */* Artificial/Natural Satellite(s) Geo-Terrestrial Orbital(s)/Station(s) */* */* _holdings_ */* */* _service */* */ */\.
 
+Copyright (c) */* Merry Melodies */* */* _holdings_ */* */* _service(s) */* */ */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
