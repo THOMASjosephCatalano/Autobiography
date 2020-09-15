@@ -415,9 +415,9 @@ Copyright (c) */* The Vatican Bank/Vatican/The Holy See */* _(AIF)_ */* */* _(IO
 
 Copyright (c) */* Roman Catholic Church/Diocese */* */* _(_RCC_) */* */* _holdings_ */* */*  _service(s) */* */GROUP/SERIES/SERVICE/UNION/ENTITIE/CORPORATION/* */non-profit\.
 
-Copyright (c) */* Financial Intelligence Authority (AIF) */* _holdings_ */* */* _service(s) */* */GROUP/Corporation */INC./LLC./non-profit\.
+Copyright (c) */* Financial Intelligence Authority (AIF) */* */* _holdings_ */* */* _service(s) */* */GROUP/Corporation */INC./LLC./non-profit\.
 
-Copyright (c) */* VC NEWS COMPANY */* _holdings_ */* */GROUP/CORPORATION */INC./LLC./non-profit\.
+Copyright (c) */* VC NEWS COMPANY */* */* _holdings_ */* */GROUP/CORPORATION */INC./LLC./non-profit\.
 
 Copyright (c) */* Daimler/Daimler-Benz/Benz/Mercedes-Benz/AMG */* "GROUP" */* engines/cars/trucks/vehicles/automobiles */* */* _holdings_ */* */GROUP/CORPORATION/* */INC./LLC./non-profit\.
 
