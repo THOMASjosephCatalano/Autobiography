@@ -559,7 +559,7 @@ Copyright (c) */* SunCor Energy */* SunCor Utilities */* SunCor R&D */* SunCor *
 
 Copyright (c) */* US Department of Energy */* Department of Energy */* */* _(_DOE_)_ */* */* _holdings_ */* */* _service(s) */* */ */\.
 
-Copyright (c) */* US Department of Transportation */* _(_DOT_)_ */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* US Department of Transportation */* */* Department of Energy */* National Laboratories */* _(_DOT_)_ */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* CERN */* The European Organization for Nuclear Research */* */* _holdings_ */* */* _service */* */ */\.
 
