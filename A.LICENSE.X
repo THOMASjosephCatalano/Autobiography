@@ -412,9 +412,9 @@ Copyright (c) */* VC NEWS COMPANY */* _holdings_ */* */GROUP/CORPORATION */INC./
 
 Copyright (c) */* Daimler/Daimler-Benz/Benz/Mercedes-Benz/AMG */* "GROUP" */* engines/cars/trucks/vehicles/automobiles */* */* _holdings_ */* */GROUP/CORPORATION/* */INC./LLC./non-profit\.
 
-Copyright (c) */* FIAT */* _holdings_ */* */GROUP/CORPORATION/* */INC./LLC./non-profit\.
+Copyright (c) */* FIAT */* engines/cars/trucks/vehicles/automobiles */* */* _holdings_ */* */GROUP/CORPORATION/* */INC./LLC./non-profit\.
 
-Copyright (c) */* ASTON MARTIN COACH WORKS */* _holdings_ */* GROUP/CORPORATION */INC./LLC./non-profit\.
+Copyright (c) */* ASTON MARTIN COACH WORKS */* engines/cars/vehicles/automobiles */* */* _holdings_ */* GROUP/CORPORATION */INC./LLC./non-profit\.
 
 Copyright (c) */* VW GROUP */* engines/cars/vehicles/automobiles/trucks */* */* _holdings_ */* GROUP/CORPORATION/* */INC./LLC./non-profit\.
 
@@ -490,9 +490,9 @@ Copyright (c) */* TeamUSA (USOC) */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/*
 
 Copyright (c) */* America Broadcasting Company (ABC) */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
 
-Copyright (c) */* Scudaria Ferrari */* Ferrari */* */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
+Copyright (c) */* Scudaria Ferrari */* Ferrari */* engines/cars/vehicles/automobiles */* */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
 
-Copyright (c) */* Automobiles Ettore Bugatti */* Bugatti */* */* _holdings_ */* */GROUP/CORPORATION/* */\.
+Copyright (c) */* Automobiles Ettore Bugatti */* Bugatti */* engines/cars/vehicles/automobiles */* */* _holdings_ */* */GROUP/CORPORATION/* */\.
 
 Copyright (c) */* Binary Translation */* coding/alpha-numerics-symbols */* */* _holdings_ */* */* _service(s) */* *INSTITUTION/INSTRUMENT//SYSTEM/GROUP/* */\.
 
