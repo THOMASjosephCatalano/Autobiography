@@ -10,57 +10,57 @@ Copyright (c) */* BIT(s);"BIT(s)";"algorithm:"this LICENSE "inclusive"""; */* _h
 
 Copyright (c) */* Binary Coded Decimal */* */* _(_BCD_)_ */* */* _holdings_ */* */* _service(s) */* */ */\.
 
-Copyright (c) */* Copyright */* "Copyright"
+Copyright (c) */* Copyright */* "Copyright" */*
 
-Copyright (c) */* (c) */* "(c)"
+Copyright (c) */* (c) */* "(c)" */* 
 
 Copyright (c) */* Copyright (c) */* "Copyright (c)" */* */* _holdings_ */* */* _service(s) */* */ */\.
 
-Copyright (c) */* MIT License */* "MIT License"
+Copyright (c) */* MIT License */* "MIT License" */*
 
-Copyright (c) */* Vote */* "Vote"
+Copyright (c) */* Vote */* "Vote" */* 
 
-Copyright (c) */* Veto */* "Veto"
+Copyright (c) */* Veto */* "Veto" */*
 
-Copyright (c) */* Grant */* "Grant"
+Copyright (c) */* Grant */* "Grant" */*
 
-Copyright (c) */* seforth */* "seforth"
+Copyright (c) */* seforth */* "seforth" */*
 
-Copyright (c) */* sergrn */* "sergen"
+Copyright (c) */* sergrn */* "sergen" */*
 
-Copyright (c) */* null */* "null"
+Copyright (c) */* null */* "null" */*
 
-Copyright (c) */* void */* "void"
+Copyright (c) */* void */* "void" */*
 
-Copyright (c) */* inclusive */* "inclusive"
+Copyright (c) */* inclusive */* "inclusive" */*
 
-Copyright (c) */* and */* "and"
+Copyright (c) */* and */* "and" */*
 
-Copyright (c) */* this */* "this"
+Copyright (c) */* this */* "this" */[
 
-Copyright (c) */* of */* "of"
+Copyright (c) */* of */* "of" */*
 
-Copyright (c) */* by */* "by"
+Copyright (c) */* by */* "by" */*
 
-Copyright (c) */* and/or */* "and/or"
+Copyright (c) */* and/or */* "and/or" */*
 
-Copyright (c) */* agreement */* "agreement"
+Copyright (c) */* agreement */* "agreement" */*
 
-Copyright (c) */* fix */* "fix"
+Copyright (c) */* fix */* "fix" */*
 
-Copyright (c) */* repair */* "repair"
+Copyright (c) */* repair */* "repair" */*
 
-Copyright (c) */* update */* "update"
+Copyright (c) */* update */* "update" */*
 
-Copyright (c) */* License */* "LICENSE"
+Copyright (c) */* License */* "LICENSE" */i
 
-Copyright (c) */* Patent */* "Patent"
+Copyright (c) */* Patent */* "Patent" */*
 
-Copyright (c) */* Trademark */* "Trademark"
+Copyright (c) */* Trademark */* "Trademark" */*
 
-Copyright (c) */* Binary */* "Binary"
+Copyright (c) */* Binary */* "Binary" */*
 
-Copyright (c) */* © */* "©"
+Copyright (c) */* © */* "©" */*
 
 Copyright (c) */* "~0~9~"
 
