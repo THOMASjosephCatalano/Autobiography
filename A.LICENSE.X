@@ -584,6 +584,8 @@ Copyright (c) */* GPS */* Global Positioning System */* Artificial/Natural Satel
 
 Copyright (c) */* Merry Melodies */* */* _holdings_ */* */* _service(s) */* */ */\.
 
+Copyright (c) */* A Nightmare on Elm Street */* */* _holdings_ */* */* _service(s) */* */ */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
