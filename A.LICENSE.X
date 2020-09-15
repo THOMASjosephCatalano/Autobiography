@@ -409,9 +409,9 @@ Copyright (c) */* VISA */* */* _holdings_ */* */GROUP/CORPORATION/* */\
 
 Copyright (c) */* GE Capital */* */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 
-Copyright (c) */* Alitalia */* */* _holdings_ */* */Corporation/GROUP */INC./LLC./non-profit\.
+Copyright (c) */* Alitalia */* */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 
-Copyright (c) */* NASDAQ E GROUP */* */* _holdings_ */* */GROUP/Corporation */INC./LLC./non-profit\.
+Copyright (c) */* NASDAQ E GROUP */* */* _holdings_ */* */GROUP/Corporation/* */INC./LLC./non-profit\.
 
 Copyright (c) */* CHURCH OF ENGLAND */* _(Great Britain)_ */* */*_(GB)_ */* */* _holdings_ */* */* _service */* */SERIES/INSTITUTION/GROUP/SYSTEM/* */\.
 
