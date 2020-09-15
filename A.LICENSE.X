@@ -521,7 +521,7 @@ Copyright (c) */* The "" Nobel Committee */* The Nobel Prize Committee */* */* T
 
 Copyright (c) */* Nuclear Regulatory Commission (NRC) */* */* _holdings_ */* */* _service */* */* */\.
 
-Copyright (c) */* spatial(*)(ie. -ator) */* */* vector(*)(ie. -izing) */* plot(*)(ie. -ting) */* graph(*)(ie. -ing) */* __spatial__vector__plot__graphing__ */* */* _holdings_ */* */* _service */* */SCOPE/CHARTS/SYSTEMS/NAVIGATION/HONING/MOTION/ENUMERATION/INSTRUMENTATION/* */* */\.
+Copyright (c) */* spatial(*)(ie. -ator) */* */* vector(*)(ie. -izing) */* plot(*)(ie. -ting) */* graph(*)(ie. -ing) */* __spatial__vector__plot__graphing__ */* */* _holdings_ */* */* _service */* */SCOPE/CHARTS/SYSTEMS/NAVIGATION/HONING/MOTION/ENUMERATION/INSTRUMENTATION/* */ */\.
 
 Copyright (c) */* Screen Actors Guild | American Federation of Television and Radio Artists */* */* (SAG-AFTRA) */* */* _holdings */* */* _service(s) */* */GROUP/UNION/CORPORATION/SYSTEM/TENDER/* */\.
 
@@ -531,7 +531,7 @@ Copyright (c) */* Shriners International */* "Ancient Arabic Order of the Nobles
 
 Copyright (c) */* The Masonic Order */* "Freemasonry" */* */* _holdings_ */* */ORDER/GROUP/SOCIETY/TENDER/* */\.
 
-Copyright (c) */* Goldman Sachs, Rockefellers, Lehmans and Kuhn Loebs of New York; the Rothschilds of Paris and London; the Warburgs of Hamburg; the Lazards of Paris; and the Israel Moses Seifs of Rome */* "Goldman Sachs, Rockefellers, Lehmans and Kuhn Loebs of New York; the Rothschilds of Paris and London; the Warburgs of Hamburg; the Lazards of Paris; and the Israel Moses Seifs of Rome" */* */* _holdings_ */* */BANKTERS/GROUP/CORPORATION/ORDER/UNION/TENDER/* */\.
+Copyright (c) */* Goldman Sachs, Rockefellers, Lehmans and Kuhn Loebs of New York; the Rothschilds of Paris and London; the Warburgs of Hamburg; the Lazards of Paris; and the Israel Moses Seifs of Rome */* "Goldman Sachs, Rockefellers, Lehmans and Kuhn Loebs of New York; the Rothschilds of Paris and London; the Warburgs of Hamburg; the Lazards of Paris; and the Israel Moses Seifs of Rome" */* */* _holdings_ */* */* _service */* */BANKTERS/GROUP/CORPORATION/ORDER/UNION/TENDER/* */\.
 
 Copyright (c) */* Federal Reserve System */* */* Federal Reserve Bank */* */* _holdings_ */* */* _service(s) */* */SYSTEM/GROUP/CORPORATION/UNION/TENDER/SOCALITY/* */\.
 
@@ -549,11 +549,11 @@ Copyright (c) */* Law Enforcement/Penetration */* */* "law & order" */* */* _hol
 
 Copyright (c) */* US Department of Defense */* */* Department of Defense */* */* _(_DOD_)_ */* */* _holdings_ */* */* _service */* */INSTITUTION/INSTRUMENT/STATE/UNION/GROUP/SERIES/* */\. 
 
-Copyright (c) */* US Department of Justice */* */* Department of Justice */* */* _(_DOJ_)_ */* */* _holdings_ */* */* _service */* */INSTITUTION/INSTRUMENT/UNION/SERIES/STATE/I */\.
+Copyright (c) */* US Department of Justice */* */* Department of Justice */* */* _(_DOJ_)_ */* */* _holdings_ */* */* _service */* */INSTITUTION/INSTRUMENT/UNION/SERIES/STATE/* */\.
 
 Copyright (c) */* US Department of Homeland Security */* Homeland Security */* */* _(_DHS)_) */* */* _holdings_ */* */* _service(s) */* */ */\.
 
-Copyright (c) */* Human Brain Project */* */* _holdings_ */* */* _service */* */GROUP/ENTITIE/SERVICES/I */\.
+Copyright (c) */* Human Brain Project */* */* _holdings_ */* */* _service */* */GROUP/ENTITIE/SERVICES/* */\.
 
 Copyright (c) */* European Union */* */* _(_EU_)_ */* */* _holdings_ */* */* _entity_ */* */* _service */* */STATE/UNION/GOVERNANCE/TENDER/* */\.
 
@@ -565,7 +565,7 @@ Copyright (c) */* ConEdison */* */* ConEd */* Con Ed */* ConEd Public Works */* 
 
 Copyright (c) */* Edison Edison */* Edison Public Works */* Edison * */* Edison Holdings */* Edison Public Holdings */* Edison Group */* Edison Holding Group */* */* _holdings_ */* */* _service */* */CORPORATION/GROUP/UNIT/ENTITIE/TENDER/* */ */?STATELEGESLAFACTOR/* */\.
 
-Copyright (c) */* PSE&G */* */* PSE&G Holdings */* PSE&G Public Works */* PSE&G Utility Companies */* PSE&G Services */* PSE&G Site "Manakey" */* */* _holdings_ */* */* _service(s) */* */\.
+Copyright (c) */* PSE&G */* */* PSE&G Holdings */* PSE&G Public Works */* PSE&G Utility Companies */* PSE&G Services */* PSE&G Site "Manakey" */* */* _holdings_ */* */* _service(s) */* */ */\.
 
 Copyright (c) */* SunCor Energy */* SunCor Utilities */* SunCor R&D */* SunCor */* */* _holdings_ */* */* _service(s) */* */ */\.
 
