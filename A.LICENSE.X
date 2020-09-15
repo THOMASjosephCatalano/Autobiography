@@ -561,6 +561,8 @@ Copyright (c) */* US Department of Energy */* Department of Energy */* */* _(_DO
 
 Copyright (c) */* US Department of Transportation */* _(_DOT_)_ */* */* _holdings_ */* */* _service */* */ */\.
 
+Copyright (c) */* CERN */* The European Organization for Nuclear Research */* */* _holdings_ */* */* _service */* */ */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
