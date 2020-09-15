@@ -549,7 +549,7 @@ Copyright (c) */* Niagara Falls (NY_USA/Ontario_Canada) */* */* Niagara Frontier
 
 Copyright (c) */* ConEdison */* ConEdison Edison */* ConEdison * */* ConEdison HOLDINGS */* ConEdison GROUP */* ConEdison NYC */* ConEdison Public Works */* ConEdison ConEd */* ConEdison Power Generator(s) */* ConEdison Batterie(s) */* ConEdison Site "Manakey" */* */* _holdings_ */* */* _service(s) */* */GROUP/CORPORATION/ENTITIE/UNION/SERVICES/UNIT/* */\.
 
-Copyright (c) */* Edison * */* Edison Holdings */* Edison Public Holdings */* Edison Group */* Edison Holding Group */* */* _holdings_ */* */* _service */* */CORPORATION/GROUP/UNIT/ENTITIE/TENDER/* */\.
+Copyright (c) */* Edison Edison */* */* Edison * */* Edison Holdings */* Edison Public Holdings */* Edison Group */* Edison Holding Group */* */* _holdings_ */* */* _service */* */CORPORATION/GROUP/UNIT/ENTITIE/TENDER/* */\.
 
 All rights reserved.    
 
