@@ -569,6 +569,8 @@ Copyright (c) */* ALCOA */* Alcoa Corporation */* Alcoa R&D */* ALCOA GROUP */* 
 
 Copyright (c) */* Gold(Au)_99.9%spot/purity*)* */* "gold(Au)* _(_&_)_ "precious_metal(s)*" */* Gold(Au)* Reserves */* GOLD(Au)* MINING */FRONTIER(s)/SCOPE(s)/* */* GOLD(Au)* */DERIVATIVES/STOCKS/BEARS/* */* GOLD(Au)* */* */* _holdings_ */* */* _service */* */ */\.
 
+Copyright (c) */* frequencie(s)* */* */RF/HF/UHF/Broadband*/* */* */* _holdings */* */* _service */* */ */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
