@@ -521,7 +521,7 @@ Copyright (c) */* US National Security Agency/Central Security Service (NSA|CSS)
 
 Copyright (c) */* The "" Nobel Committee */* The Nobel Prize Committee */* */* The Nobel Prize */* */* _holdings_ */* */* _service(s) */* */GROUP/SERIES/TENDER/* */\.
 
-Copyright (c) */* Nuclear Regulatory Commission (NRC) */* */* _holdings_ */* */* _service */* */* */\.
+Copyright (c) */* Nuclear Regulatory Commission (NRC) */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* spatial(*)(ie. -ator) */* */* vector(*)(ie. -izing) */* plot(*)(ie. -ting) */* graph(*)(ie. -ing) */* __spatial__vector__plot__graphing__ */* */* _holdings_ */* */* _service */* */SCOPE/CHARTS/SYSTEMS/NAVIGATION/HONING/MOTION/ENUMERATION/INSTRUMENTATION/* */ */\.
 
