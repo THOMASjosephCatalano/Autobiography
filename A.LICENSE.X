@@ -8,13 +8,13 @@ Copyright (c) */* THOMAS CATALANO */* "THOMAS CATALANO"
 
 Copyright (c) */* BIT(s);"BIT(s)";"algorithm:"this LICENSE "inclusive"""; */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* Binary Coded Decimal */* */* _(_BCD_)_ */* */* _holdings_ */* */* _service(s) */* */ */\.
+Copyright (c) */* Binary Coded Decimal */* */* _(_BCD_)_ */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* Copyright */* "Copyright" */*
 
 Copyright (c) */* (c) */* "(c)" */* 
 
-Copyright (c) */* Copyright (c) */* "Copyright (c)" */* */* _holdings_ */* */* _service(s) */* */ */\.
+Copyright (c) */* Copyright (c) */* "Copyright (c)" */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* MIT License */* "MIT License" */*
 
