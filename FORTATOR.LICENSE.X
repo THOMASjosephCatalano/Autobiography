@@ -1,4 +1,4 @@
-*/* MIT License
+*/* MIT License */*
 
 Copyright (c) ;THOMAS CATALANO
 Copyright (c) ;"_*BOARD*__Doctor__Ph.D_-General-Admiral-CFO-CEO-President THOMAS JOSEPH CATALANO/(135-74-4812;DOB:1981-02-05)"\.
