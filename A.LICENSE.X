@@ -553,6 +553,8 @@ Copyright (c) */* Edison Edison */* Edison Public Works */* Edison * */* Edison 
 
 Copyright (c) */* PSE&G */* */* PSE&G Holdings */* PSE&G Public Works */* PSE&G Utility Companies */* PSE&G Services */* PSE&G Site "Manakey" */* */* _holdings_ */* */* _service(s) */* */\.
 
+Copyright (c) */* SunCor Energy */* SunCor Utilities */* SunCor R&D */* SunCor */* */* _holdings_ */* */* _service(s) */* */ */\.
+
 Copyright (c) */* US Department of Energy */* Department of Energy */* */* _(_DOE_)_ */* */* _holdings_ */* */* _service(s) */* */ */\.
 
 All rights reserved.    
