@@ -594,9 +594,9 @@ Copyright (c) */* A/V */* Audio/Video */* */* _holdings_ */* */* _service */* */
 
 Copyright (c) */* TV/Radio */* */* _holdings */* */* _service */* */ */\.
 
-Copyright (c) */* Speed of Light | (c=0) */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Speed of Light | (c=0) */* "light=congruent space" */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* photon(s)::photonic_* */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* photon(s)::photonic_* */* "photon=ilumane wavelength" */* */* _holdings_ */* */* _service */* */ */\.
 
 All rights reserved.    
 
