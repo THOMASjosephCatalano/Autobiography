@@ -2,7 +2,7 @@
 
 Copyright (c) THOMAS CATALANO
 
-Copyright (c) */* "License-FORMAT_LEGAL-ACQUISITION-EQUES";this "license" "inclusive":/""Copyright (c)" _"ENTITY"_ "-" _"BACK"_ "-" _"SUB-FIELD"_ "-" _-"BACK"_ "-" _"LEGAL"_ "-" "_"_/_"_"\(.)",((*/*)="inclusive"like"objects"/"pre-|-post"//((*/)(/*))="intrinsic"like"objects"/ merandum(s)'s, etc so forth, sefor ex.)""License"-"FORMAT"_LEGAL-ACQUISITION-EQUES") */* _holdings_ */* */* _service(s) */* */\.\.
+Copyright (c) */* "License-FORMAT_LEGAL-ACQUISITION-EQUES";this "license" "inclusive":/""Copyright (c)" _"ENTITY"_ "-" _"BACK"_ "-" _"SUB-FIELD"_ "-" _-"BACK"_ "-" _"NAMEENTITY"_ "-" "_MISC_" "-" "_LEGALENTITY_""\(.)",((*/*)="inclusive"like"objects"/"pre-|-post"//((*/)(/*))="intrinsic"like"objects"/ merandum(s)'s, etc so forth, sefor ex.)""License"-"FORMAT"_LEGAL-ACQUISITION-EQUES") */* _holdings_ */* */* _service(s) */* */\.\.
 
 Copyright (c) */* THOMAS CATALANO */* "THOMAS CATALANO"
 
