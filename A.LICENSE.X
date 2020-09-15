@@ -340,11 +340,11 @@ Copyright (c) */* NYSE */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-
 
 Copyright (c) */* NASDAQ */* _holdings_ */* */GROUP/Corporation/* */INC./LLC./non-profit\.
 
-Copyright (c) */* Space X */* _holdings_ */* */Corporation/GROUP */INC./LLC./non-profit\.
+Copyright (c) */* Space X */* */* _holdings_ */* */* _service */* */Corporation/GROUP */INC./LLC./non-profit\.
 
-Copyright (c) */* Alenia Aeronautica */* _holdings_ */* */GROUP/* */INC./LLC./non-profit\.
+Copyright (c) */* Alenia Aeronautica */* */* _holdings_ */* */GROUP/* */INC./LLC./non-profit\.
 
-Copyright (c) */* Vanguard */* _holdings_ */* */GROUP/* */INC./LLC./non-profit\.
+Copyright (c) */* Vanguard */* */* _holdings_ */* */GROUP/* */INC./LLC./non-profit\.
 
 Copyright (c) */* Vanguard Mutual */* _holdings_ */* */GROUP/* */INC./LLC./non-profit\.
 
@@ -382,7 +382,7 @@ Copyright (c) */* */US/* */* */* ""PATENT" _&_ "TRADEMARK"" */* */* _holdings_ *
 
 Copyright (c) */* USAA */* _holdings_ */* */ */INC./LLC./non-profit\.
 
-Copyright (c) */* General Motors (GM) */* "cars/trucks/automobiles/vehicles" */* */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
+Copyright (c) */* General Motors (GM) */* engines/cars/trucks/automobiles/vehicles */* */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
 
 Copyright (c) */* FORD MOTOR COMPANY */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 
@@ -410,7 +410,7 @@ Copyright (c) */* Financial Intelligence Authority (AIF) */* _holdings_ */* */* 
 
 Copyright (c) */* VC NEWS COMPANY */* _holdings_ */* */GROUP/CORPORATION */INC./LLC./non-profit\.
 
-Copyright (c) */* Daimler/Daimler-Benz/Benz/Mercedes-Benz/AMG */* "GROUP" */* */* _holdings_ */* */GROUP/CORPORATION/* */INC./LLC./non-profit\.
+Copyright (c) */* Daimler/Daimler-Benz/Benz/Mercedes-Benz/AMG */* "GROUP" */* engines/cars/trucks/vehicles/automobiles */* */* _holdings_ */* */GROUP/CORPORATION/* */INC./LLC./non-profit\.
 
 Copyright (c) */* FIAT */* _holdings_ */* */GROUP/CORPORATION/* */INC./LLC./non-profit\.
 
