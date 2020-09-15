@@ -594,6 +594,8 @@ Copyright (c) */* A/V */* Audio/Video */* */* _holdings_ */* */* _service */* */
 
 Copyright (c) */* TV/Radio */* */* _holdings */* */* _service */* */ */\.
 
+Copyright (c) */* Speed of Light (c=0) */* */* _holdings_ */* */* _service */* */ */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
