@@ -300,9 +300,9 @@ Copyright (c) */* gnu */* _holdings_ */* */ */non-profit\.
 
 Copyright (c) */* gcc */* _holdings_ */* */ */non-profit\.
 
-Copyright (c) */* MOTOROLA */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
+Copyright (c) */* MOTOROLA */* */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 
-Copyright (c) */* LLVM */* _holdings_ */* */ */non-profit\.
+Copyright (c) */* LLVM */* */* _holdings_ */* */ */non-profit\.
 
 Copyright (c) */* POSIX */* */* _holdings_ */* */* _service */* */SYSTEM/GROUP/* */non-profit\.
 
@@ -334,11 +334,11 @@ Copyright (c) */* Wells Fargo Bank */* */* _holdings_ */* */GROUP/*  */INC./LLC.
 
 Copyright (c) */* Boeing */* Boeing Group */* Boeing Aerospace */* Boeing Power Units */* */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 
-Copyright (c) */* BASF */* _holdings_ */* */Corporation/GROUP */Ltd./INC./LLC.\.
+Copyright (c) */* BASF */* */* _holdings_ */* */Corporation/GROUP */Ltd./INC./LLC.\.
 
-Copyright (c) */* NYSE */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
+Copyright (c) */* NYSE */* */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 
-Copyright (c) */* NASDAQ */* _holdings_ */* */GROUP/Corporation/* */INC./LLC./non-profit\.
+Copyright (c) */* NASDAQ */* */* _holdings_ */* */GROUP/Corporation/* */INC./LLC./non-profit\.
 
 Copyright (c) */* Space X */* */* _holdings_ */* */* _service */* */Corporation/GROUP */INC./LLC./non-profit\.
 
@@ -346,29 +346,29 @@ Copyright (c) */* Alenia Aeronautica */* */* _holdings_ */* */GROUP/* */INC./LLC
 
 Copyright (c) */* Vanguard */* */* _holdings_ */* */GROUP/* */INC./LLC./non-profit\.
 
-Copyright (c) */* Vanguard Mutual */* _holdings_ */* */GROUP/* */INC./LLC./non-profit\.
+Copyright (c) */* Vanguard Mutual */* */* _holdings_ */* */GROUP/* */INC./LLC./non-profit\.
 
-Copyright (c) */* NAVIENT/Navient Solutions */* _holdings_ */* */GROUP/CORPORATION/* */INC./LLC./non-profit\.
+Copyright (c) */* NAVIENT/Navient Solutions */* */* _holdings_ */* */GROUP/CORPORATION/* */INC./LLC./non-profit\.
 
-Copyright (c) */* Market Exchange GROUP */* _holdings_ */* */GROUP/* */INC./LLC./non-profit\.
+Copyright (c) */* Market Exchange GROUP */* */* _holdings_ */* */GROUP/* */INC./LLC./non-profit\.
 
-Copyright (c) */* Bank of America */* _holdings_ */* */* */GROUP*/Corporation/* */INC./LLC./non-profit\.
+Copyright (c) */* Bank of America */* */* _holdings_ */* */* */GROUP*/Corporation/* */INC./LLC./non-profit\.
 
-Copyright (c) */* Morgan Stanley */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
+Copyright (c) */* Morgan Stanley */* */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 
-Copyright (c) */* U.S. Securities Exchange */* _holdings_ */* */Corporation/GROUP */INC./LLC./non-profit\.
+Copyright (c) */* U.S. Securities Exchange */* */* _holdings_ */* */Corporation/GROUP */INC./LLC./non-profit\.
 
-Copyright (c) */* CNN */* _holdings_ */* */* Broadcast */* */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
+Copyright (c) */* CNN */* */* _holdings_ */* */* Broadcast */* */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 
-Copyright (c) */* US Treasury NOTE */* _holdings_ */* */* _monetization__currency_ */* */* "currencies" */* */* _service(s) */* */INSTITUTION/INSTRUMENT/TENDER/GROUP/SYSTEM/SERIES/* */INC./LLC./non-profit\.
+Copyright (c) */* US Treasury NOTE */* */* _holdings_ */* */* _monetization__currency_ */* */* "currencies" */* */* _service(s) */* */INSTITUTION/INSTRUMENT/TENDER/GROUP/SYSTEM/SERIES/* */INC./LLC./non-profit\.
 
-Copyright (c) */* National Broadcasting Company (NBC) */* _holdings_ */* */Corporation/GROUP/* */INC./INC./non-profit\.
+Copyright (c) */* National Broadcasting Company (NBC) */* */* _holdings_ */* */Corporation/GROUP/* */INC./INC./non-profit\.
 
 Copyright (c) */* MARVEL / MARVEL CINEMATIC UNIVERSE */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 
-Copyright (c) */* Warner Brothers */* _holdings_ */* */* Studio's */* */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
+Copyright (c) */* Warner Brothers */* */* _holdings_ */* */* Studio's */* */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 
-Copyright (c) */* GOOGLE */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
+Copyright (c) */* GOOGLE */* */*  _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 
 Copyright (c) */* US Naval Research Laboratory (NRL) */* */* _holdings_ */* */* _service */* */Corporation/GROUP/SYSTEM/* */INC./LLC./non-profit\.
 
@@ -378,9 +378,9 @@ Copyright (c) */* PIMCO HOLDINGS */* _holdings_ */* */GROUP/Corporation/* */INC.
 
 Copyright (c) */* Motion Picture Association of America */* _holdings_ */* */* */INC./LLC./non-profit\.
 
-Copyright (c) */* */US/* */* */* ""PATENT" _&_ "TRADEMARK"" */* */* _holdings_ */* */* _service(s) */* */INSTITUTION/INSTRUMENT/Account/Papers/Writings/Format/SYSTEM/GROUP/TENDER/* */ */non-profit\.
+Copyright (c) */* */US/* */* */* ""PATENT" _(&)_ "TRADEMARK"" */* */* _holdings_ */* */* _service(s) */* */INSTITUTION/INSTRUMENT/Account/Papers/Writings/Format/SYSTEM/GROUP/TENDER/* */ */non-profit\.
 
-Copyright (c) */* USAA */* _holdings_ */* */ */INC./LLC./non-profit\.
+Copyright (c) */* USAA */* */* _holdings_ */* */ */INC./LLC./non-profit\.
 
 Copyright (c) */* General Motors (GM) */* engines/cars/trucks/automobiles/vehicles */* */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
 
