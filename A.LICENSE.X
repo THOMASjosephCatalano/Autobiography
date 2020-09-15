@@ -427,21 +427,21 @@ Copyright (c) */* ASTON MARTIN COACH WORKS */* engines/cars/vehicles/automobiles
 
 Copyright (c) */* VW GROUP */* engines/cars/vehicles/automobiles/trucks */* */* _holdings_ */* GROUP/CORPORATION/* */INC./LLC./non-profit\.
 
-Copyright (c) */* HBO */* _holdings_ */* */GROUP/Corporation/* */INC./LLC./non-profit\.
+Copyright (c) */* HBO */* */* _holdings_ */* */GROUP/Corporation/* */INC./LLC./non-profit\.
 
-Copyright (c) */* GM financial */* _holdings_ */* */GROUP/Corporation */INC./LLC./non-profit\.
+Copyright (c) */* GM financial */* */* _holdings_ */* */GROUP/Corporation */INC./LLC./non-profit\.
 
-Copyright (c) */* Civil Engineer */* _holdings_ */* */GROUP/Corporation/* */INC.LLC./non-profit\.
+Copyright (c) */* Civil Engineer */* */* _holdings_ */* */GROUP/Corporation/* */INC.LLC./non-profit\.
 
 Copyright (c) */* US Air Force Research Laboratory (AFRL) */* */* _holdings_ */* */* _service */* */GROUP/Corporation/SYSTEM/* */INC./LLC./non-profit\.
 
-Copyright (c) */* US Space Force Research Laboratory (SFRL) */* _holdings_ */* */* _service */* */GROUP/Corporation/SYSTEM/* */INC./LLC./non-profit\.
+Copyright (c) */* US Space Force Research Laboratory (SFRL) */* */* _holdings_ */* */* _service */* */GROUP/Corporation/SYSTEM/* */INC./LLC./non-profit\.
 
 Copyright (c) */* UNITED NATIONS */* */* (UN) */* */* _(_UN_)_ */* */* _holdings_ */* */* _service */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
 
-Copyright (c) */* INTERNATIONAL COURT OF JUSTICE/COURT OF INTERNATIONAL JUSTICE */* (ICJ-CIJ) */* _holdings_ */* */* _service */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
+Copyright (c) */* INTERNATIONAL COURT OF JUSTICE/COURT OF INTERNATIONAL JUSTICE */* (ICJ-CIJ) */* */* _holdings_ */* */* _service */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
 
-Copyright (c) */* NORTH ATLANTIC TREATY ORGANIZATION(NATO) */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
+Copyright (c) */* NORTH ATLANTIC TREATY ORGANIZATION(NATO) */* */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
 
 Copyright (c) */* European Space Agency (ESA) */* _(_ESA_)_ */* */* _(_esa_)_ */* */* _holdings_ */* */* _service */* */GROUP/CORPORATION/* */* _entity_ */* */INC./LLC./non-profit\.
 
@@ -451,13 +451,13 @@ Copyright (c) */* North American Aerospace Defense */* */* (NORAD) */* */* _hold
 
 Copyright (c) */* Antarctic Treaty System (ATS) */* */* _holdings_ */* */* _entity */* */*  _futures */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
 
-Copyright (c) */* INTERNATIONAL STANDARDS ORGANIZATION (ISO) */* _holdings_ */* */* _service */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
+Copyright (c) */* INTERNATIONAL STANDARDS ORGANIZATION (ISO) */* */* _holdings_ */* */* _service */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
 
-Copyright (c) */* NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY (NIST) */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
+Copyright (c) */* NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY (NIST) */* */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
 
 Copyright (c) */* INTERNATIONAL BAR ASSOCIATION (IBA) */* */* "Esq" */* */* _holdings_ */* */GROUP/SYSTEM/* */*\.
 
-Copyright (c) */* network time protocol (NTP) (ntp/.ntp) */* _holdings_  */* */GROUP/SYSTEM/CORPORATION/* */INC./LLC./non-profit\.
+Copyright (c) */* network time protocol (NTP) (ntp/.ntp) */* */* _holdings_  */* */GROUP/SYSTEM/CORPORATION/* */INC./LLC./non-profit\.
 
 Copyright (c) */* EARTH */* "EARTH" */* _planet_ Earth */* "Earth" */* _holdings_ */* */SYSTEM/GROUP/TERAGEOASTROSPACE/* */*\.
 
