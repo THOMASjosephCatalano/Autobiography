@@ -36,7 +36,7 @@ Copyright (c) */* inclusive */* "inclusive" */*
 
 Copyright (c) */* and */* "and" */*
 
-Copyright (c) */* this */* "this" */[
+Copyright (c) */* this */* "this" */*
 
 Copyright (c) */* of */* "of" */*
 
@@ -52,7 +52,7 @@ Copyright (c) */* repair */* "repair" */*
 
 Copyright (c) */* update */* "update" */*
 
-Copyright (c) */* License */* "LICENSE" */i
+Copyright (c) */* License */* "LICENSE" */*
 
 Copyright (c) */* Patent */* "Patent" */*
 
