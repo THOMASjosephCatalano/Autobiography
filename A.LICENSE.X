@@ -345,9 +345,9 @@ Copyright (c) */* Boeing */* Boeing Group */* Boeing Aerospace */* Boeing Power 
 
 Copyright (c) */* BASF */* */* _holdings_ */* */Corporation/GROUP */Ltd./INC./LLC.\.
 
-Copyright (c) */* NYSE */* */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
+Copyright (c) */* NYSE */* */* _holdings_ */* */* _service */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 
-Copyright (c) */* NASDAQ */* */* _holdings_ */* */GROUP/Corporation/* */INC./LLC./non-profit\.
+Copyright (c) */* NASDAQ */* */* _holdings_ */* */* _service */* */GROUP/Corporation/* */INC./LLC./non-profit\.
 
 Copyright (c) */* Space X */* */* _holdings_ */* */* _service */* */Corporation/GROUP */INC./LLC./non-profit\.
 
