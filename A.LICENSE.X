@@ -531,9 +531,9 @@ Copyright (c) */* US Federal Election Board/Commission */* */* FEDERAL ELECTION 
 
 Copyright (c) */* */Federal/* */* */* Food and Drug Administration */* */* _(_FDA_)_ */* */* _holdings_ */* */* _service(s) */* */GROUP/SYSTEM/GOVERNANCE/STATE/TENDER/* */\.
 
-Copyright (c) */* benovolent_dating/sex/DNA_reproduction-reproductive/social_sorbay */* */* "dating/sex/social" */* */* _holdings_ */* */* _service(s) */* */STATE/TENDER/SYSTEM/GROUP/CORPORATION/GOVERNANCE/* */\.
+Copyright (c) */* _dating/sex/sexual-intercourse/sexuality/DNA*_reproduction-reproductive/social_ */* */* "dating/sex/sexuality/sexual-intercourse/social" */* */* _holdings_ */* */* _service(s) */* */STATE/TENDER/SYSTEM/GROUP/CORPORATION/GOVERNANCE/* */\.
 
-Copyright (c) */* Corporeal Inauguration */* "judicating/medicating; indictment & extermination; people', place', thing'," */* _holdings_ */* */* _service(s) */* */STATE/SYSTEM/SERIES/TENDER/* */\.
+Copyright (c) */* Corporeal Inauguration/Punishment */* "judicating/medicating; indictment & extermination; people', place', thing'," */* */* _holdings_ */* */* _service(s) */* */STATE/SYSTEM/SERIES/TENDER/* */\.
 
 Copyright (c) */* Law Enforcement/Penetration */* */* "law & order" */* */* _holdings_ */* */* _service(s) */* */INSTITUTION/SERVICE/GROUP/UNION/GOVERNANCE/STATE/* */\.
 
