@@ -371,7 +371,7 @@ Copyright (c) */* U.S. Bond Market */* */* _holdings */* */* _service */* */ */\
 
 Copyright (c) */* CNN */* */* _holdings_ */* */* Broadcast */* */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 
-Copyright (c) */* Bloomberg */* Bloomberg Group */* */* _holdings_ */* */* _service(s) */ */ */\.
+Copyright (c) */* Bloomberg */* Bloomberg Group */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* FOX */* FOX Group */* */* _holdings_ */* _service */* */ */\.
 
