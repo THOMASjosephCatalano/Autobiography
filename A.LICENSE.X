@@ -322,7 +322,7 @@ Copyright (c) */* IBM */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-p
 
 Copyright (c) */* MICROSOFT */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 
-Copyright (c) */* Lockheed Martin */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
+Copyright (c) */* Lockheed Martin */* Lockheed Martin Skunk Works */* */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 
 Copyright (c) */* GE */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 
