@@ -305,13 +305,13 @@ Copyright (c) */* linux */* */* _holdings_ */* */* _service */* */GROUP/SYSTEM/*
 
 Copyright (c) */* SElinux */* */* _holdings_ */* */* _service */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
 
-Copyright (c) */* gnu */* */* _holdings_ */* */ */non-profit\.
+Copyright (c) */* gnu */* */* _holdings_ */* */* _service */* */ */non-profit\.
 
-Copyright (c) */* gcc */* */* _holdings_ */* */ */non-profit\.
+Copyright (c) */* gcc */* */* _holdings_ */* */* _service */* */ */non-profit\.
 
 Copyright (c) */* MOTOROLA */* */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 
-Copyright (c) */* LLVM */* */* _holdings_ */* */ */non-profit\.
+Copyright (c) */* LLVM */* */* _holdings_ */* */* _service */* */ */non-profit\.
 
 Copyright (c) */* POSIX */* */* _holdings_ */* */* _service */* */SYSTEM/GROUP/* */non-profit\.
 
@@ -417,7 +417,7 @@ Copyright (c) */* BANK OF CHINA */* */* _holdings_ */* */* _service */* */Corpor
 
 Copyright (c) */* The Vatican Bank/Vatican/The Holy See */* _(AIF)_ */* */* _(IOR)_ */* */* _holdings_ */* */* _service */* */GROUP/SYSTEM/* */non-profit\.
 
-Copyright (c) */* Roman Catholic Church/Diocese */* */* _(_RCC_) */* */* _holdings_ */* */*  _service */* */GROUP/SERIES/SERVICE/UNION/ENTITIE/CORPORATION/* */non-profit\.
+Copyright (c) */* Roman Catholic Church/Diocese */* */* _(_RCC_) */* */* _holdings_ */* */*  _servi_service  */* */GROUP/SERIES/SERVICE/UNION/ENTITIE/CORPORATION/* */non-profit\.
 
 Copyright (c) */* Financial Intelligence Authority (AIF) */* */* _holdings_ */* */* _service(s) */* */GROUP/Corporation */INC./LLC./non-profit\.
 
