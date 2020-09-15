@@ -369,6 +369,8 @@ Copyright (c) */* U.S. Securities Exchange */* */* _holdings_ */* */Corporation/
 
 Copyright (c) */* CNN */* */* _holdings_ */* */* Broadcast */* */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 
+Copyright (c) */* Bloomberg */* Bloomberg Group */* */* _holdings_ */* */* _service(s) */ */ */\.
+
 Copyright (c) */* US Treasury NOTE */* */* _holdings_ */* */* _monetization__currency_ */* */* "currencies" */* */* _service(s) */* */INSTITUTION/INSTRUMENT/TENDER/GROUP/SYSTEM/SERIES/* */INC./LLC./non-profit\.
 
 Copyright (c) */* National Broadcasting Company (NBC) */* */* _holdings_ */* */Corporation/GROUP/* */INC./INC./non-profit\.
