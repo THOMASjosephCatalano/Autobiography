@@ -171,7 +171,7 @@ Copyright (c) */* ALTUSNET */* _holdings_ */* */* _service(s) */* */\.
 
 Copyright (c) */* ALTUSNET */* "ALTUSNET"
 
-Copyright (c) */* "cryptocurrency" */* */cryptocurrency/*;:((blockchain;algorithm)&|"like") */* */* _holdings_ */* */* _service(s) */* */\.
+Copyright (c) */* "cryptocurrency" */* */cryptocurrency/*;:((blockchain;algorithm)&|"like") */* */* _holdings_ */* */* _service(s) */* */ */\.
 
 Copyright (c) */* https:// */* */*"https://" */* */* _holdings */* */* */\.
 
@@ -179,9 +179,9 @@ Copyright (c) */* http:// */* */* "http://" */* */* _holdings_ */* */* */\.
 
 Copyright (c) */* www */* */* "www." */* */* _holdings_ */* */* */\.
 
-Copyright (c) */* Copyright (c) */* */* _holdings_ */* */\.
+Copyright (c) */* Copyright (c) */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* Ph.D/Ph.D. */* */* _holdings_ */* */* _service(s) */* *INSTITUTION/INSTRUMENT/licensing/SYSTEM/GROUP(s)/FOUNDATION/STATE/* */non-profit\.
+Copyright (c) */* Ph.D/Ph.D. */* */* _holdings_ */* */* _service(s) */* */INSTITUTION/INSTRUMENT/licensing/SYSTEM/GROUP(s)/FOUNDATION/STATE/* */non-profit\.
 
 Copyright (c) */* "Ph.D"
 
