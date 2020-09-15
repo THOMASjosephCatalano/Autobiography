@@ -571,6 +571,8 @@ Copyright (c) */* Gold(Au).spot*_99.9%.purity*)* */* "gold(Au)* _(_&_)_ "preciou
 
 Copyright (c) */* frequencie(s)* */* */RF/HF/UHF/Broadband*/* */* */* _holdings */* */* _service */* */ */\.
 
+Copyright (c) */* GPS */* Global Positioning System */* Artificial/Natural Satellite(s) Geo-Terrestrial Orbital(s)/Station(s) */* */* _holdings_ */* */* _service */* */ */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
