@@ -553,7 +553,7 @@ Copyright (c) */* US Department of Defense */* */* Department of Defense */* */*
 
 Copyright (c) */* US Department of Justice */* */* Department of Justice */* */* _(_DOJ_)_ */* */* _holdings_ */* */* _service */* */INSTITUTION/INSTRUMENT/UNION/SERIES/STATE/* */\.
 
-Copyright (c) */* US Department of Homeland Security */* Homeland Security */* */* _(_DHS)_) */* */* _holdings_ */* */* _service(s) */* */ */\.
+Copyright (c) */* US Department of Homeland Security */* Homeland Security */* */* _(_DHS)_) */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* Human Brain Project */* */* _holdings_ */* */* _service */* */GROUP/ENTITIE/SERVICES/* */\.
 
