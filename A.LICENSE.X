@@ -167,17 +167,17 @@ Copyright (c) */* BIT(s) */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* BIT(s);"BIT(s)" */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* ALTUSNET */* _holdings_ */* */* _service(s) */* */ */\.
+Copyright (c) */* ALTUSNET */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* ALTUSNET */* "ALTUSNET"
 
-Copyright (c) */* "cryptocurrency" */* */cryptocurrency/*;:((blockchain;algorithm)&|"like") */* */* _holdings_ */* */* _service(s) */* */ */\.
+Copyright (c) */* "cryptocurrency" */* */cryptocurrency/*;:((blockchain;algorithm)&|"like") */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* https:// */* */*"https://" */* */* _holdings */* */* */\.
+Copyright (c) */* https:// */* */*"https://" */* */* _holdings */* */* _service */* */* */\.
 
-Copyright (c) */* http:// */* */* "http://" */* */* _holdings_ */* */* */\.
+Copyright (c) */* http:// */* */* "http://" */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* www */* */* "www." */* */* _holdings_ */* */* */\.
+Copyright (c) */* www */* */* "www." */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* Copyright (c) */* */* _holdings_ */* */* _service */* */ */\.
 
@@ -373,7 +373,7 @@ Copyright (c) */* Bloomberg */* Bloomberg Group */* */* _holdings_ */* */* _serv
 
 Copyright (c) */* FOX */* FOX Group */* */* _holdings_ */* _service */* */ */\.
 
-Copyright (c) */* US Treasury NOTE */* */* _holdings_ */* */* _monetization__currency_ */* */* "currencies" */* */* _service(s) */* */INSTITUTION/INSTRUMENT/TENDER/GROUP/SYSTEM/SERIES/* */INC./LLC./non-profit\.
+Copyright (c) */* US Treasury NOTE */* */* _holdings_ */* */* _monetization__currency_ */* */* "currencies" */* */* _service */* */INSTITUTION/INSTRUMENT/TENDER/GROUP/SYSTEM/SERIES/* */INC./LLC./non-profit\.
 
 Copyright (c) */* National Broadcasting Company (NBC) */* */* _holdings_ */* */Corporation/GROUP/* */INC./INC./non-profit\.
 
