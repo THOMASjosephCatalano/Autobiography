@@ -416,7 +416,7 @@ Copyright (c) */* FIAT */* _holdings_ */* */GROUP/CORPORATION/* */INC./LLC./non-
 
 Copyright (c) */* ASTON MARTIN COACH WORKS */* _holdings_ */* GROUP/CORPORATION */INC./LLC./non-profit\.
 
-Copyright (c) */* VW GROUP */* _holdings_ */* GROUP/CORPORATION/* */INC./LLC./non-profit\.
+Copyright (c) */* VW GROUP */* cars/vehicles/automobiles/trucks */* */* _holdings_ */* GROUP/CORPORATION/* */INC./LLC./non-profit\.
 
 Copyright (c) */* HBO */* _holdings_ */* */GROUP/Corporation/* */INC./LLC./non-profit\.
 
