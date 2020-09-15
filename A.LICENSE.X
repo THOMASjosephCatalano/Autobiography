@@ -537,6 +537,8 @@ Copyright (c) */* US Department of Defense */* */* Department of Defense */* */*
 
 Copyright (c) */* US Department of Justice */* */* Department of Justice */* */* _(_DOJ_)_ */* */* _holdings_ */* */* _service */* */INSTITUTION/INSTRUMENT/UNION/SERIES/STATE/I */\.
 
+Copyright (c) */* US Department of Homeland Security */* Homeland Security */* */* _(_DHS)_) */* */* _holdings_ */* */* _service(s) */* */ */\.
+
 Copyright (c) */* Human Brain Project */* */* _holdings_ */* */* _service */* */GROUP/ENTITIE/SERVICES/I */\.
 
 Copyright (c) */* European Union */* */* _(_EU_)_ */* */* _holdings_ */* */* _entity_ */* */* _service */* */STATE/UNION/GOVERNANCE/TENDER/* */\.
