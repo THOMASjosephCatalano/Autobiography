@@ -368,9 +368,9 @@ Copyright (c) */* Warner Brothers */* _holdings_ */* */* Studio's */* */* _holdi
 
 Copyright (c) */* GOOGLE */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 
-Copyright (c) */* US Naval Research Laboratory (NRL) */* _holdings_ */* */* _service */* */Corporation/GROUP/SYSTEM/* */INC./LLC./non-profit\.
+Copyright (c) */* US Naval Research Laboratory (NRL) */* */* _holdings_ */* */* _service */* */Corporation/GROUP/SYSTEM/* */INC./LLC./non-profit\.
 
-Copyright (c) */* US Army Research Laboratory (ARL) */* _holdings_ */* */* _service */* */GROUP/Corporation/SYSTEM/* */INC./LLC./non-profit\.
+Copyright (c) */* US Army Research Laboratory (ARL) */* */* _holdings_ */* */* _service */* */GROUP/Corporation/SYSTEM/* */INC./LLC./non-profit\.
 
 Copyright (c) */* PIMCO HOLDINGS */* _holdings_ */* */GROUP/Corporation/* */INC./LLC./non-profit\.
 
@@ -422,9 +422,9 @@ Copyright (c) */* GM financial */* _holdings_ */* */GROUP/Corporation */INC./LLC
 
 Copyright (c) */* Civil Engineer */* _holdings_ */* */GROUP/Corporation/* */INC.LLC./non-profit\.
 
-Copyright (c) */* US Air Force Research Laboratory (AFRL) _holdings_ */GROUP/Corporation/SYSTEM/* */INC./LLC./non-profit\.
+Copyright (c) */* US Air Force Research Laboratory (AFRL) */* */* _holdings_ */* */* _service */* */GROUP/Corporation/SYSTEM/* */INC./LLC./non-profit\.
 
-Copyright (c) */* US Space Force Research Laboratory (SFRL) _holdings_ */GROUP/Corporation/SYSTEM/* */INC./LLC./non-profit\.
+Copyright (c) */* US Space Force Research Laboratory (SFRL) */* _holdings_ */* */* _service */* */GROUP/Corporation/SYSTEM/* */INC./LLC./non-profit\.
 
 Copyright (c) */* UNITED NATIONS */* */* (UN) */* */* _(_UN_)_ */* */* _holdings_ */* */* _service */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
 
