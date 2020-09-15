@@ -553,6 +553,8 @@ Copyright (c) */* Edison Edison */* */* Edison * */* Edison Holdings */* Edison 
 
 Copyright (c) */* PSE&G */* PSE&G Utility Companies */* PSE&G Services */* PSE&G Site "Manakey" */* */* _holdings_ */* */* _service(s) */* */\.
 
+Copyright (c) */* US Department of Energy */* Department of Energy */* */* _(_DOE_)_ */* */* _holdings_ */* */* _service(s) */* */ */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
