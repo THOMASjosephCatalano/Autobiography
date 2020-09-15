@@ -324,7 +324,9 @@ Copyright (c) */* MICROSOFT */* _holdings_ */* */Corporation/GROUP/* */INC./LLC.
 
 Copyright (c) */* Lockheed Martin */* Lockheed Martin Skunk Works */* */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 
-Copyright (c) */* GE */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
+Copyright (c) */* GE */* GE Power Units */* */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
+
+Copyright (c) */* Rolls Royce */* Rolls Royce Power Units */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* CHASE BANK */* _holdings_ */* */GROUP/CORPORATION/* */INC./LLC./non-profit\.
 
