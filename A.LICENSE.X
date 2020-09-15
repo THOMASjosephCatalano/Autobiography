@@ -282,7 +282,7 @@ Copyright (c) */* Catalano Concepts */* _holdings_ */* */Limited Liability Compa
 
 Copyright (c) */* conceptslearningmachine\.
 
-Copyright (c) */* Catalano\.
+Copyright (c) */* Catalano */* */* _holdings_ */* */* _service */* */ */\.\.
 
 Copyright (c) */* _github_/_""github"".com""_/_github_ */* _holdings_ */* */GROUP/Corporation/* */INC./LLC./non-profit\.
 
