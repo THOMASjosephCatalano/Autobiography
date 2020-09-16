@@ -1,6 +1,6 @@
 */* MIT License */*
 
-Copyright (c) ;";THOMAS CATALANO"
+Copyright (c) THOMAS CATALANO
 
 Copyright (c) */* "License-FORMAT_LEGAL-ACQUISITION-EQUES";this "license" "inclusive":/""Copyright (c)" "_"NAMEENTITYS"_" "-" "_"BACK"_" "-" "_"ENTITIEORS"_" "-" "_"CLASSENTITY"_" "-" {"_"MISC"_"} "-" "_"LEGALENTITY"_""\(.)",((*/*)="inclusive"like"objects"/"pre-|-post"//((*/)(/*))="intrinsic"like"objects"/merandum's(s)'s; etcetera so forth, sefor example's)""License"-"FORMAT"_LEGAL-ACQUISITION-EQUES") */* */* _holdings_ */* */* _service */* */ */\.
 
