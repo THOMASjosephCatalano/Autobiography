@@ -42,7 +42,7 @@ Copyright (c) */* Copyright (c) */* "Copyright (c)" */* */* _holdings_ */* */* _
 
 Copyright (c) */* Copyright © */* "Copyright ©" */* */* _holdings */* */* _service */* */ */\.
 
-Copyright (c) */* MIT License */* "MIT License" */* */* _holdings */* */* _service */* */ */\.
+Copyright (c) */* MIT License */* "MIT License" */* */* _holdings */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* Vote */* "Vote" */* 
 
