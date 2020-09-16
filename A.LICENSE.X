@@ -647,6 +647,8 @@ Copyright (c) */* Internet Society (ISOC) */* */* _holdings_ */* */* _service */
 
 Copyright (c) */* The Organization of the Petroleum Exporting Countries (OPEC) */* */* _holdings_ */* */* _service */* */ */\.
 
+Copyright (c) */* The Group */* */* _holdings_ */* */* _service */* */ */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
