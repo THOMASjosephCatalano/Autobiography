@@ -138,7 +138,7 @@ Copyright (c) */* ;transaction(s)/transactionary serfraction(s) require(s) barte
 
 Copyright (c) */* ;BIT(s)-mater-material-mass-structure(s)'s;"BIT(s)-mater-material-mass-structure(s)'s"\.
 
-Copyright (c) */* ;";"Binary Coded Decimal(BCD)";"Binary Coded Decimal(BCD)";"format/encoding""\.
+Copyright (c) */* ;";"Binary Coded Decimal(BCD)";"Binary Coded Decimal(BCD)";"format/encoding""; */* */* _holdings */* */* _futures */* */* _service */* */ */\.\.
 Copyright (c) */* ;".*" *=all file;format/extensions/encoding\.
 Copyright (c) */* ;".asm*" file;format/extensions/encoding\.
 Copyright (c) */* ;".i*" file;format/extensions/encoding\.
