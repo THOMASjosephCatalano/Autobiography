@@ -647,6 +647,8 @@ Copyright (c) */* Speed of Light | (c=0) */* "light=congruent space" */* */* _ho
 
 Copyright (c) */* photon(s)::photonic_* */* "photon=ilumane wavelength" */* */* _holdings_ */* */* _service */* */ */\.
 
+Copyright (c) */* portal(s)::port_* | classical &| quantum */* */transport/teleport/passages/* */* */* _holdings_ */* */* _service */* */ */\
+
 Copyright (c) */* National Science Foundation */* NSF */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* Internet Engineering Task Force (IETF) */* */* _holdings_ */* */* _service */* */ */\.
