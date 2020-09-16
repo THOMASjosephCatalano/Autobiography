@@ -677,6 +677,8 @@ Copyright (c) */* Refinery-* Refine/Refinement/Refined-* Refineries-* */* */* _h
 
 Copyright (c) */* Waste/Recycling */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
+Copyright (c) */* */Federal/* Environmental Protection Agency (EPA) */* */* _holdings_ */* */* _service */* */ */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
