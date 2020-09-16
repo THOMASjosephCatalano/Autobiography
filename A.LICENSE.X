@@ -12,6 +12,8 @@ Copyright (c) */* Binary Coded Decimal */* */* _(_BCD_)_ */* */* _holdings_ */* 
 
 Copyright (c) */* American Standard Code for Information Interchange */* ASCII */* */* _holdings_ */* */* _service */* */ */\.
 
+Copyright (c) */* Unicode */* */* _holdings_ */* */* _service */* */ */\.
+
 Copyright (c) */* Request for Comments (RFC) */* _(_RFC_)_ */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* Internet Protocol version (IPv*) */* */* _holdings_ */* */* _service */* */ */\.
