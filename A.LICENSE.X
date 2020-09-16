@@ -419,7 +419,7 @@ Copyright (c) */* PIMCO HOLDINGS */* */* PIMCO GROUP */* */* _holdings_ */* */* 
 
 Copyright (c) */* Motion Picture Association of America */* */* _holdings_ */* */* _service */* */ */INC./LLC./non-profit\.
 
-Copyright (c) */* */US/* */* */* ""PATENT" _(&)_ "TRADEMARK"" */* */* _holdings_ */* */* _service */* */INSTITUTION/INSTRUMENT/Account/Papers/Writings/Format/SYSTEM/GROUP/TENDER/* */ */non-profit\.
+Copyright (c) */* */US/* */* */* ""_PATENT_" _(&)_ "_TRADEMARK_"" */* */* _holdings_ */* */* _futures */* */* _service */* */INSTITUTION/INSTRUMENT/Account/Papers/Writings/Format/SYSTEM/GROUP/TENDER/* */ */non-profit\.
 
 Copyright (c) */* USAA */* */* _holdings_ */* */ */INC./LLC./non-profit\.
 
@@ -513,7 +513,7 @@ Copyright (c) */* space */* */ continuum */* */* _SPACE_ _CONTINUUM_ */* "Space 
 
 Copyright (c) */* Humans */* _human_ _anatomy_ _anatomics_ */* _human__anatomy_ */* human-anatomy */* ""human" "anatomy"" */* */* _holdings_ */* */* _futures */* */* _service */**/SYSTEM/FOUNDATION/GROUP(S)/* */\.
 
-Copyright (c) */* THE UNITED STATES OF AMERICA */* */* UNITED STATES */* */* The United States of America */* */* _(_USA_)_ */* */* _(_US_)_ */* */* _(_U.S.A_)_ */* */ _(_U.S._)_ */* /* "telecom_country-code;US:(+1)\." */* */* "The United States of America" */* */* United States */* */* _holdings_ */* */* _entity_ */* */* _service */* *STATE/COUNTRY/INSTITUTION/SYSTEM/GROUP/FORTHRIGHT/* */* _entity */* _service */* */ */\.
+Copyright (c) */* THE UNITED STATES OF AMERICA */* */* UNITED STATES */* */* The United States of America */* */* _(_USA_)_ */* */* _(_US_)_ */* */* _(_U.S.A_)_ */* */ _(_U.S._)_ */* /* "telecom_country-code;US:(+1)\." */* */* "The United States of America" */* */* United States */* */* _holdings_ */* */* _futures */* */* _entity_ */* */* _futures */* */* _service */* */STATE/COUNTRY/INSTITUTION/SYSTEM/GROUP/FORTHRIGHT/* */\.
 
 Copyright (c) */* US Department of Treasury */* Department of Treasury */* US Treasury */* */* Treasury */* */* _holdings_ */* */* _service */* */ */\.
 
