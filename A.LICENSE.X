@@ -633,9 +633,9 @@ Copyright (c) */* ALCOA */* Alcoa Corporation */* Alcoa R&D */* ALCOA GROUP */* 
 
 Copyright (c) */* Gold(Au).spot*_100.9%.purity*)* */* "gold(Au)* _(_&_)_ "precious_metal(s)*" */* Gold(Au)* Reserves */* GOLD(Au)* */MINING/FRONTIER(s)/SCOPE(s)/* */* GOLD(Au)* */DERIVATIVES/STOCKS/BEARS/* */* GOLD(Au)* */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* frequencie(s)* */* */Copper/RF/HF/UHF/WI-FI/GSM/LTE/Broadband*/Coax/* */* frequency=electrical-current */* */* _holdings */* */* _service */* */ */\.
+Copyright (c) */* frequencie(s)* */* */Copper/RF/HF/UHF/WI-FI/GSM/LTE/Broadband*/Coax/* */* frequency=electrical-current */* */* _holdings */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* wavelength(s)* */* */beams/radiations/isotope-emmision/photonic*/* */* wavelength=electromagnetism */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* wavelength(s)* */* */beams/radiations/isotope-emmision/photonic*/* */* wavelength=electromagnetism */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* GPS */* Global Positioning System */* Artificial/Natural Satellite(s) Geo-Terrestrial Orbital(s)/Station(s) */* */* _holdings_ */* */* _service */* */ */\.
 
@@ -651,11 +651,11 @@ Copyright (c) */* A/V */* Audio/Video */* */* _holdings_ */* */* _service */* */
 
 Copyright (c) */* TV/Radio */* */* _holdings */* */* _service */* */ */\.
 
-Copyright (c) */* Speed of Light | (c=0) */* "light=congruent space" */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Speed of Light | (c=0) */* "light=congruent space" */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* photon(s)::photonic_* */* "photon=ilumane wavelength" */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* photon(s)::photonic_* */* "photon=ilumane wavelength" */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* portal(s)::port_* | ["classical" &| "quantum"] */* */transport/teleport/passages/* */* */* _holdings_ */* */* _service */* */ */\
+Copyright (c) */* portal(s)::port_* | ["classical" :: "quantum"] */* */transport/teleport/passages/* */* */* _holdings_ */* */* _futures */* */* _service */* */ */\
 
 Copyright (c) */* National Science Foundation */* NSF */* */* _holdings_ */* */* _service */* */ */\.
 
@@ -666,6 +666,8 @@ Copyright (c) */* International Telecommunications Union (ITA) */* */* _holdings
 Copyright (c) */* Internet Society (ISOC) */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* The Organization of the Petroleum Exporting Countries (OPEC) */* */* _holdings_ */* */* _service */* */ */\.
+
+Copyright (c) */* */crude-oil/petroleum/benzene/* */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* The Group */* */* _holdings_ */* */* _service */* */ */\.
 
