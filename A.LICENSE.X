@@ -12,6 +12,8 @@ Copyright (c) */* Binary Coded Decimal */* */* _(_BCD_)_ */* */* _holdings_ */* 
 
 Copyright (c) */* American Standard Code for Information Interchange */* ASCII */* */* _holdings_ */* */* _service */* */ */\.
 
+Copyright (c) */* TCP/IP */* */* _holdings_ */* */* _service */* */ */\.
+
 Copyright (c) */* Copyright */* "Copyright" */*
 
 Copyright (c) */* (c) */* "(c)" */* 
