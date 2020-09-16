@@ -507,7 +507,7 @@ Copyright (c) */* INTERNATIONAL BAR ASSOCIATION (IBA) */* */* "Esq" */* */* _hol
 
 Copyright (c) */* network time protocol (NTP) (ntp/.ntp) */* */* _holdings_  */* */GROUP/SYSTEM/CORPORATION/* */INC./LLC./non-profit\.
 
-Copyright (c) */* EARTH */* "EARTH" */* _planet_ Earth */* "Earth" */* */* _holdings_ */* */SYSTEM/GROUP/TERAGEOASTROSPACE/* */*\.
+Copyright (c) */* EARTH */* "EARTH" */* _planet_ Earth */* "Earth" */* */* _holdings_ */* */* _futures */* */* _service */* */SYSTEM/GROUP/TERAGEOASTROSPACE/* */*\.
 
 Copyright (c) */* space */* */ continuum */* */* _SPACE_ _CONTINUUM_ */* "Space Continuum" */* Space-Continuum */ SpaceContinuum */* _space__continuum_ */* */* _holdings_ */* */SYSTEM/FOUNDATION/GROUP/* */\.
 
