@@ -18,7 +18,7 @@ Copyright (c) */* Domain Name System (DNS) */* _(DNS_)_ */* */* _holdings_ */* *
 
 Copyright (c) */* Internet Corporation for Assigned Names and Numbers (ICANN) */* */* _holdings_ */* _service */* */ */\.
 
-Copyright (c) */* Internet protocol Suite (TCP/IP) */* _(_TCP_IP_)_ */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Internet protocol Suite (TCP/UDP) */* _(_TCP_UDP_)_ */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* Internet protocol addresses (IP) */* _(_IP_)_ */* */* _holdings_ */* */* _service */* */ */\.
 
