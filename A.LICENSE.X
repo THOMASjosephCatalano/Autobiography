@@ -593,7 +593,7 @@ Copyright (c) */* Cocaine (C 17 H 21 NO 4) */* cocaina plants */* */* _holdings_
 
 Copyright (c) */* 3,4-Methyl​enedioxy​methamphetamine (MDMA) */* */* _holdings */* */* _service */* */ */\.
 
-Copyright (c) */* _/massage/sex/sexual-intercourse/sexuality/DNA*_reproduction-reproductive/social_ */* */* "/massage/sex/sexuality/sexual-intercourse/DNA*/social" */* */* _holdings_ */* */* _service */* */STATE/TENDER/SYSTEM/GROUP/CORPORATION/GOVERNANCE/* */\.
+Copyright (c) */* */massage/sex/sexual-intercourse/sexuality/DNA*_reproduction-reproductive/social-activity/* */* */* "/massage/sex/sexuality/sexual-intercourse/DNA*_*/social-activity/*" */* */* _holdings_ */* */* _futures */* */* _service */* */STATE/TENDER/SYSTEM/GROUP/CORPORATION/GOVERNANCE/* */\.
 
 Copyright (c) */* Corporeal Inauguration/Punishment */* "judicating/medicating; indictment & extermination; people', place', thing'," */* */* _holdings_ */* */* _service(s) */* */STATE/SYSTEM/SERIES/TENDER/* */\.
 
