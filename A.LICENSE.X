@@ -619,6 +619,8 @@ Copyright (c) */* National Science Foundation */* NSF */* */* _holdings_ */* */*
 
 Copyright (c) */* Internet Engineering Task Force (IETF) */* */* _holdings_ */* */* _service */* */ */\.
 
+Copyright (c) */* International Telecommunications Union (ITA) */* */* _holdings_ */* */* _service */* */ */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
