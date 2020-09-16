@@ -12,6 +12,8 @@ Copyright (c) */* Binary Coded Decimal */* */* _(_BCD_)_ */* */* _holdings_ */* 
 
 Copyright (c) */* American Standard Code for Information Interchange */* ASCII */* */* _holdings_ */* */* _service */* */ */\.
 
+Copyright (c) */* Internet Service Providers (ISP) */* */* _holdings_ */* */* _service */* */ */\.
+
 Copyright (c) */* Domain Name System (DNS) */* _(DNS_)_ */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* Internet Corporation for Assigned Names and Numbers (ICANN) */* */* _holdings_ */* _service */* */ */\.
