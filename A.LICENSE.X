@@ -8,7 +8,7 @@ Copyright (c) */* THOMAS CATALANO */* "THOMAS CATALANO" */* */* _holdings_ */* *
 
 Copyright (c) */* BIT(s);"BIT(s)";"algorithm:"this "License" "inclusive"""; */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* Binary Coded Decimal */* */* _(_BCD_)_ */* */* _holdings_ */* */* _f */* _service */* */ */\.
+Copyright (c) */* Binary Coded Decimal */* */* _(_BCD_)_ */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* American Standard Code for Information Interchange */* ASCII */* */* _holdings_ */* */* _service */* */ */\.
 
