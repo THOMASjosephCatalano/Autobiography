@@ -1,2 +1,2 @@
 #
-Copyright (c) THOMAS CATALANO
+github.com/tomsnode/Copyright/*\.
