@@ -4,15 +4,14 @@ Copyright (c) ;"";THOMAS CATALANO();
 Copyright (c) ;"";CATALANO THOMAS();
 Copyright (c) ;"THOMAS CATALANO";
 
-Copyright (c) ;";"Binary Coded Decimal(BCD)";"Binary Coded Decimal(BCD)";"format/encoding"";
-Copyright (c) ;".*" *=all file;format/extensions/encoding;
-Copyright (c) ;".asm*" file;format/extensions/encoding;
-Copyright (c) ;".i*" file;format/extensions/encoding;
-Copyright (c) ;".h*" file;format/extensions/encoding;
-Copyright (c) ;".c*" file;format/extensions/encoding;
-
+Copyright (c) ;"";Binary Coded Decimal(BCD);"Binary Coded Decimal(BCD)";"/system/format/encoding/*"";
+Copyright (c) ;".*" .*="all"_.file;/format/extensions/encoding/"esetera so forth"/*;
+Copyright (c) ;".asm*" file;/format/extensions/encoding/*;
+Copyright (c) ;".i*" file;/format/extensions/encoding/*;
+Copyright (c) ;".h*" file;/format/extensions/encoding/*;
+Copyright (c) ;".c*" file;/format/extensions/encoding/*;
+Copyright (c) ;".cpp*" file;/format/extensions/encoding/*;
 All rights reserved.             
-
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
@@ -26,5 +25,4 @@ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+OUT OF OR IN CONNECTION WITH THE 
