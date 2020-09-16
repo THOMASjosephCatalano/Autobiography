@@ -14,7 +14,7 @@ Copyright (c) */* American Standard Code for Information Interchange */* ASCII *
 
 Copyright (c) */* Request for Comments (RFC) */* _(_RFC_)_ */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* Internet Protocol Version (IPV*) */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Internet Protocol version (IPv*) */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* Internet Service Providers (ISP) */* */* _holdings_ */* */* _service */* */ */\.
 
