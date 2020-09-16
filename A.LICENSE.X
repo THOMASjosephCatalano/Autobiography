@@ -625,6 +625,8 @@ Copyright (c) */* Internet Engineering Task Force (IETF) */* */* _holdings_ */* 
 
 Copyright (c) */* International Telecommunications Union (ITA) */* */* _holdings_ */* */* _service */* */ */\.
 
+Copyright (c) */* Internet Society (ISOC) */* */* _holdings_ */* */* _service */* */ */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
