@@ -511,7 +511,7 @@ Copyright (c) */* EARTH */* "EARTH" */* _planet_ Earth */* "Earth" */* */* _hold
 
 Copyright (c) */* space */* */ continuum */* */* _SPACE_ _CONTINUUM_ */* "Space Continuum" */* Space-Continuum */ SpaceContinuum */* _space__continuum_ */* */* _holdings_ */* */SYSTEM/FOUNDATION/GROUP/* */\.
 
-Copyright (c) */* _human_ _anatomy_ _anatomics_ */* _human__anatomy_ */* human-anatomy */* ""human" "anatomy"" */* */* _holdings_ */* */SYSTEM/FOUNDATION/GROUP(S)/* */\.
+Copyright (c) */* Humans */* _human_ _anatomy_ _anatomics_ */* _human__anatomy_ */* human-anatomy */* ""human" "anatomy"" */* */* _holdings_ */* */* _futures */* */* _service */**/SYSTEM/FOUNDATION/GROUP(S)/* */\.
 
 Copyright (c) */* THE UNITED STATES OF AMERICA */* */* UNITED STATES */* */* The United States of America */* */* _(_USA_)_ */* */* _(_US_)_ */* */* _(_U.S.A_)_ */* */ _(_U.S._)_ */* /* "telecom_country-code;US:(+1)\." */* */* "The United States of America" */* */* United States */* */* _holdings_ */* */* _entity_ */* */* _service */* *STATE/COUNTRY/INSTITUTION/SYSTEM/GROUP/FORTHRIGHT/* */* _entity */* _service */* */ */\.
 
@@ -521,7 +521,7 @@ Copyright (c) */* District of Columbia (D.C) */* */* _holdings_ */* */* _service
 
 Copyright (c) */* ACME */* '''ACME''' */* */* "entertainense" */* */* _holdings_ */* */CORPORATION/GROUP/* */INC./LLC./non-profit\.
 
-Copyright (c) */* WORLD BANK GROUP */* */* _holdings_ */* */* _service(s) */* */GROUP/SYSTEM/* */non-profit\.
+Copyright (c) */* WORLD BANK GROUP */* */* _holdings_ */* */* _service */* */GROUP/SYSTEM/* */non-profit\.
 
 Copyright (c) */* International Monetary Fund (IMF) */* */* _holdings_ */* */* _service(s) */* */GROUP/SYSTEM/CORPORATION/* */non-profit\.
 
