@@ -1,7 +1,7 @@
 THOMAS CATALANO
 License
 
-Copyright (c) THOMAS CATALANO
+Copyright (c) ;"";THOMAS CATALANO
 
 All rights reserved.             
 
