@@ -4,14 +4,16 @@ Copyright (c) ;"";THOMAS CATALANO();
 Copyright (c) ;"";CATALANO THOMAS();
 Copyright (c) ;"THOMAS CATALANO";
 
-Copyright (c) ;"";Binary Coded Decimal(BCD);"Binary Coded Decimal(BCD)";"/system/format/encoding/*"";
+Copyright (c) ;"";[Binary Coded Decimal(BCD)];"Binary Coded Decimal(BCD)";"/system/format/encoding/*"";
 Copyright (c) ;".*" .*="all"_.file;/format/extensions/encoding/"esetera so forth"/*;
 Copyright (c) ;".asm*" file;/format/extensions/encoding/*;
 Copyright (c) ;".i*" file;/format/extensions/encoding/*;
 Copyright (c) ;".h*" file;/format/extensions/encoding/*;
 Copyright (c) ;".c*" file;/format/extensions/encoding/*;
 Copyright (c) ;".cpp*" file;/format/extensions/encoding/*;
+
 All rights reserved.             
+
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
