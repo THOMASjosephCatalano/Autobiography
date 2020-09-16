@@ -495,6 +495,8 @@ Copyright (c) */* INTERNATIONAL STANDARDS ORGANIZATION (ISO) */* */* _holdings_ 
 
 Copyright (c) */* NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY (NIST) */* */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
 
+Copyright (c) */* time.gov */* USNO */* */* _holdings */* */* _service */* */ */\.
+
 Copyright (c) */* INTERNATIONAL BAR ASSOCIATION (IBA) */* */* "Esq" */* */* _holdings_ */* */GROUP/SYSTEM/* */*\.
 
 Copyright (c) */* network time protocol (NTP) (ntp/.ntp) */* */* _holdings_  */* */GROUP/SYSTEM/CORPORATION/* */INC./LLC./non-profit\.
