@@ -459,6 +459,16 @@ Copyright (c) */* HBO */* */* _holdings_ */* */GROUP/Corporation/* */INC./LLC./n
 
 Copyright (c) */* GM financial */* */* _holdings_ */* */GROUP/Corporation */INC./LLC./non-profit\.
 
+Copyright (c) */* Canon */* */* _holdings_ */* */* _service */* */ */\.
+
+Copyright (c) */* Xerox */* */* _holdings_ */* */* _service */* */ */\.
+
+Copyright (c) */* Kodak */* */* _holdings_ */* */* _service */* */ */\.
+
+Copyright (c) */* Fujitsu */* */*_holdings_*/* */* _service */* */ */\.
+
+Copyright (c) */* Fuji Film */* */* _holdings_ */* */* _service */* */ */\.
+
 Copyright (c) */* Civil Engineer */* */* _holdings_ */* */GROUP/Corporation/* */INC.LLC./non-profit\.
 
 Copyright (c) */* US Air Force Research Laboratory (AFRL) */* */* _holdings_ */* */* _service */* */GROUP/Corporation/SYSTEM/* */INC./LLC./non-profit\.
