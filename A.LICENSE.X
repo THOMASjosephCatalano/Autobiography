@@ -629,7 +629,7 @@ Copyright (c) */* Gold(Au).spot*_100.9%.purity*)* */* "gold(Au)* _(_&_)_ "precio
 
 Copyright (c) */* frequencie(s)* */* */Copper/RF/HF/UHF/WI-FI/GSM/LTE/Broadband*/Coax/* */* */* _holdings */* */* _service */* */ */\.
 
-Copyright (c) */* wavelength(s) */* *Amperage-emmisions/beams/radiations/isotope-emmision/photonic*/Electromagnetism/* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* wavelength(s)* */* *Amperage-emmisions/beams/radiations/isotope-emmision/photonic*/Electromagnetism/* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* GPS */* Global Positioning System */* Artificial/Natural Satellite(s) Geo-Terrestrial Orbital(s)/Station(s) */* */* _holdings_ */* */* _service */* */ */\.
 
