@@ -627,9 +627,9 @@ Copyright (c) */* ALCOA */* Alcoa Corporation */* Alcoa R&D */* ALCOA GROUP */* 
 
 Copyright (c) */* Gold(Au).spot*_100.9%.purity*)* */* "gold(Au)* _(_&_)_ "precious_metal(s)*" */* Gold(Au)* Reserves */* GOLD(Au)* MINING */FRONTIER(s)/SCOPE(s)/* */* GOLD(Au)* */DERIVATIVES/STOCKS/BEARS/* */* GOLD(Au)* */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* frequencie(s)* */* */Copper/RF/HF/UHF/WI-FI/GSM/LTE/Broadband*/Coax/* */* */* _holdings */* */* _service */* */ */\.
+Copyright (c) */* frequencie(s)* */* */Copper/RF/HF/UHF/WI-FI/GSM/LTE/Broadband*/Coax/* */* frequency=electrical-current */* */* _holdings */* */* _service */* */ */\.
 
-Copyright (c) */* wavelength(s)* */* *Amperage-emmisions/beams/radiations/isotope-emmision/photonic*/Electromagnetism/* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* wavelength(s)* */* */beams/radiations/isotope-emmision/photonic*/* */* wavelength=electromagnetism */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* GPS */* Global Positioning System */* Artificial/Natural Satellite(s) Geo-Terrestrial Orbital(s)/Station(s) */* */* _holdings_ */* */* _service */* */ */\.
 
