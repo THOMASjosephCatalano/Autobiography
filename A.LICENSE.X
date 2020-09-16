@@ -673,6 +673,8 @@ Copyright (c) */* The Group */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* Import-Export Trade Agreement */* "Import-Export" */* IMPORT-EXPORT* */* */* _holdings_ */* */* _service */* */ */\.
 
+Copyright (c) */* Refinery-* Refine/Refinement/Refined-* Refineries-* */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
