@@ -197,7 +197,7 @@ Copyright (c) */* ALTUSNET */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* ALTUSNET */* "ALTUSNET"
 
-Copyright (c) */* "cryptocurrency" */* */cryptocurrency/*;:((blockchain;algorithm)&|"like") */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* "cryptocurrency" */* */cryptocurrency/*;:((blockchain;algorithm)&|"like") */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* https:// */* */*"https://" */* */* _holdings */* */* _service */* */* */\.
 
