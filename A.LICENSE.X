@@ -82,7 +82,7 @@ Copyright (c) */* Trademark */* "Trademark" */*
 
 Copyright (c) */* Binary */* "Binary" */*
 
-Copyright (c) */* © */* "©" */*
+Copyright (c) */* © */* "©" */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* "~0~9~" */*
 
