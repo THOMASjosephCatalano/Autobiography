@@ -1,6 +1,6 @@
 */* MIT License */*
 
-Copyright (c) THOMAS CATALANO
+
 
 All rights reserved.             
 
