@@ -78,7 +78,7 @@ Copyright (c) */* repair */* "repair" */*
 
 Copyright (c) */* update */* "update" */*
 
-Copyright (c) */* License */* "LICENSE" */* */* _holdings */* */* _service */* */ */\.
+Copyright (c) */* License */* "LICENSE" */* */* _holdings */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* Patent */* "Patent" */* */* _holdings */* */* _service */* */ */\.
 
