@@ -34,13 +34,13 @@ Copyright (c) */* Classless Inter-Domain Routing (CIDR) */* _(_CIDR_)_ */* */* _
 
 Copyright (c) */* Best Current Practices (BCP) */* _(_BCP_)_ */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* Copyright */* "Copyright" */*
+Copyright (c) */* Copyright */* "Copyright" */* */* _holdings */* */* _service */* */ */\.
 
-Copyright (c) */* (c) */* "(c)" */* 
+Copyright (c) */* (c) */* "(c)" */* */* _holdings */* */* _service */* */ */\.
 
 Copyright (c) */* Copyright (c) */* "Copyright (c)" */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* MIT License */* "MIT License" */*
+Copyright (c) */* MIT License */* "MIT License" */* */* _holdings */* */* _service */* */ */\.
 
 Copyright (c) */* Vote */* "Vote" */* 
 
@@ -76,13 +76,13 @@ Copyright (c) */* repair */* "repair" */*
 
 Copyright (c) */* update */* "update" */*
 
-Copyright (c) */* License */* "LICENSE" */*
+Copyright (c) */* License */* "LICENSE" */* */* _holdings */* */* _service */* */ */\.
 
-Copyright (c) */* Patent */* "Patent" */*
+Copyright (c) */* Patent */* "Patent" */* */* _holdings */* */* _service */* */ */\.
 
-Copyright (c) */* Trademark */* "Trademark" */*
+Copyright (c) */* Trademark */* "Trademark" */* */* _holdings */* */* _service */* */ */\.
 
-Copyright (c) */* Binary */* "Binary" */*
+Copyright (c) */* Binary */* "Binary" */* */* _holdings */* */* _service */* */ */\.
 
 Copyright (c) */* © */* "©" */* */* _holdings_ */* */* _service */* */ */\.
 
