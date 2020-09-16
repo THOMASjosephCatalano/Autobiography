@@ -22,11 +22,13 @@ Copyright (c) */* Domain Name System (DNS) */* _(DNS_)_ */* */* _holdings_ */* *
 
 Copyright (c) */* Dynamic Host Configuration Protocol (DHCP) */* _(_DHCP_)_ */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* Internet Corporation for Assigned Names and Numbers (ICANN) */* */* _holdings_ */* _service */* */ */\.
+Copyright (c) */* Internet Corporation for Assigned Names and Numbers (ICANN) */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* Internet protocol Suite (TCP/UDP) */* _(_TCP_UDP_)_ */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* Internet protocol addresses (IP) */* _(_IP_)_ */* */* _holdings_ */* */* _service */* */ */\.
+
+Copyright (c) */* Classless Inter-Domain Routing (CIDR) */* _(_CIDR_)_ */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* Copyright */* "Copyright" */*
 
