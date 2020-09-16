@@ -669,7 +669,7 @@ Copyright (c) */* The Organization of the Petroleum Exporting Countries (OPEC) *
 
 Copyright (c) */* The Group */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* Import/Export Trade Agreement */* IMPORT-EXPORT* */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Import-Export Trade Agreement */* "Import-Export" */* IMPORT-EXPORT* */* */* _holdings_ */* */* _service */* */ */\.
 
 All rights reserved.    
 
