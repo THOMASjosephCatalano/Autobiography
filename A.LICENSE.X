@@ -335,6 +335,8 @@ Copyright (c) */* MOTOROLA */* */* _holdings_ */* */Corporation/GROUP/* */INC./L
 
 Copyright (c) */* LLVM */* */* _holdings_ */* */* _service */* */ */non-profit\.
 
+Copyright (c) */* cocaine */* cocaina plants */* */* _holdings_ */* */* _service */* */ */\.
+
 Copyright (c) */* POSIX */* */* _holdings_ */* */* _service */* */SYSTEM/GROUP/* */non-profit\.
 
 Copyright (c) */* ARM */* ARM Holdings */* */* _holdings_ */* */*  _service */* */Corporation/GROUP/* */INC./LLC./non-profit\.
