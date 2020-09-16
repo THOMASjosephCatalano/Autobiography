@@ -136,7 +136,7 @@ Copyright (c) */* ;transaction(s)/transactionary serfraction(s) require(s) barte
               */* "transaction(s)/transactionary serfraction(s) require(s) bartertutionl servitudinal account
               */* proxing space-time(past(s), present(s) &| future(s))"\.
 
-Copyright (c) */* ;BIT(s)-mater-material-mass-structure(s)'s;"BIT(s)-mater-material-mass-structure(s)'s"\.
+Copyright (c) */* ;BIT(s)-mater-material-mass-structure(s)'s;"BIT(s)-mater-material-mass-structure(s)'s"; */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.\.
 
 Copyright (c) */* ;";"Binary Coded Decimal(BCD)";"Binary Coded Decimal(BCD)";"format/encoding""; */* */* _holdings */* */* _futures */* */* _service */* */ */\.\.
 Copyright (c) */* ;".*" *=all file;format/extensions/encoding\.
