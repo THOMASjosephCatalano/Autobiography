@@ -1,6 +1,7 @@
 License
 
 Copyright (c) THOMAS CATALANO
+Copyright (c) License
 
 All rights reserved.             
 
