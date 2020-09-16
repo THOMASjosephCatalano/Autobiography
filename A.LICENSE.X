@@ -30,6 +30,8 @@ Copyright (c) */* Internet protocol addresses (IP) */* _(_IP_)_ */* */* _holding
 
 Copyright (c) */* Classless Inter-Domain Routing (CIDR) */* _(_CIDR_)_ */* */* _holdings_ */* */* _service */* */ */\.
 
+Copyright (c) */* Best Current Practices (BCP) */* _(_BCP_)_ */* */* _holdings_ */* */* _service */* */ */\.
+
 Copyright (c) */* Copyright */* "Copyright" */*
 
 Copyright (c) */* (c) */* "(c)" */* 
