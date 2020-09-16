@@ -459,15 +459,17 @@ Copyright (c) */* HBO */* */* _holdings_ */* */GROUP/Corporation/* */INC./LLC./n
 
 Copyright (c) */* GM financial */* */* _holdings_ */* */GROUP/Corporation */INC./LLC./non-profit\.
 
-Copyright (c) */* Canon */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Caterpillar */* Caterpillar Group */* Caterpillar Heavy Equipment */* Caterpillar Engines */* */* _holdings_ */* */* _service */* */ */\.
+
+Copyright (c) */* Canon */* Canon Film */* Canon Industries */* Canon Group */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* Xerox */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* Kodak */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Kodak */* */* Kodak Film */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* Fujitsu */* */*_holdings_*/* */* _service */* */ */\.
+Copyright (c) */* Fujitsu */* Fujitsu Group */* Fujitsu Film */* */*_holdings_*/* */* _service */* */ */\.
 
-Copyright (c) */* Fuji Film */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Fuji Film */* Fuji Corporation */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* Civil Engineer */* */* _holdings_ */* */GROUP/Corporation/* */INC.LLC./non-profit\.
 
