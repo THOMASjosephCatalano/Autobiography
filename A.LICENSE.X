@@ -581,6 +581,8 @@ Copyright (c) */* US Federal Election Board/Commission */* */* FEDERAL ELECTION 
 
 Copyright (c) */* */Federal/* */* */* Food and Drug Administration */* */* _(_FDA_)_ */* */* _holdings_ */* */* _service */* */GROUP/SYSTEM/GOVERNANCE/STATE/TENDER/* */\.
 
+Copyright (c) */* 3,4-Methyl​enedioxy​methamphetamine (MDMA) */* */* _holdings */* */* _service */* */ */\.
+
 Copyright (c) */* _dating/massage/sex/sexual-intercourse/sexuality/DNA*_reproduction-reproductive/social_ */* */* "dating/massage/sex/sexuality/sexual-intercourse/DNA*/social" */* */* _holdings_ */* */* _servi_service */* */STATE/TENDER/SYSTEM/GROUP/CORPORATION/GOVERNANCE/* */\.
 
 Copyright (c) */* Corporeal Inauguration/Punishment */* "judicating/medicating; indictment & extermination; people', place', thing'," */* */* _holdings_ */* */* _service(s) */* */STATE/SYSTEM/SERIES/TENDER/* */\.
