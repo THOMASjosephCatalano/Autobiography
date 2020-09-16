@@ -495,6 +495,8 @@ Copyright (c) */* North American Aerospace Defense */* */* (NORAD) */* */* _hold
 
 Copyright (c) */* Antarctic Treaty System (ATS) */* */* _holdings_ */* */* _entity */* */*  _futures */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
 
+Copyright (c) */* UNITED STATES SENATE */* */* _holdings_ */* */* _service */* */ */\.
+
 Copyright (c) */* INTERNATIONAL STANDARDS ORGANIZATION (ISO) */* */* _holdings_ */* */* _service */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
 
 Copyright (c) */* NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY (NIST) */* */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
