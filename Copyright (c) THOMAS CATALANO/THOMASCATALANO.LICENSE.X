@@ -2,6 +2,7 @@ THOMAS CATALANO
 License
 
 Copyright (c) ;"";THOMAS CATALANO()
+Copyright (c) ;"";CATALANO THOMAS()
 
 All rights reserved.             
 
