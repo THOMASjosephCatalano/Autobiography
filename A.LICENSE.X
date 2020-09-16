@@ -335,8 +335,6 @@ Copyright (c) */* MOTOROLA */* */* _holdings_ */* */Corporation/GROUP/* */INC./L
 
 Copyright (c) */* LLVM */* */* _holdings_ */* */* _service */* */ */non-profit\.
 
-Copyright (c) */* Cocaine (C 17 H 21 NO 4) */* cocaina plants */* */* _holdings_ */* */* _service */* */ */\.
-
 Copyright (c) */* POSIX */* */* _holdings_ */* */* _service */* */SYSTEM/GROUP/* */non-profit\.
 
 Copyright (c) */* ARM */* ARM Holdings */* */* _holdings_ */* */*  _service */* */Corporation/GROUP/* */INC./LLC./non-profit\.
@@ -487,7 +485,7 @@ Copyright (c) */* NORTH ATLANTIC TREATY ORGANIZATION(NATO) */* */* _holdings_ */
 
 Copyright (c) */* European Space Agency (ESA) */* _(_ESA_)_ */* */* _(_esa_)_ */* */* _holdings_ */* */* _service */* */GROUP/CORPORATION/* */* _entity_ */* */INC./LLC./non-profit\.
 
-Copyright (c) */* National Aeronautics & Space Agency (NASA) */* */* _(_NASA_)_ */* */* _holdings_ */* */* _service */* */GROUP/CORPORATION/SYSTEM/* */* _entity_ */* */INC./LLC./non-profit\.
+Copyright (c) */* National Aeronautics and Space Agency (NASA) */* */* _(_NASA_)_ */* */* _holdings_ */* */* _service */* */GROUP/CORPORATION/SYSTEM/* */* _entity_ */* */INC./LLC./non-profit\.
 
 Copyright (c) */* North American Aerospace Defense */* */* (NORAD) */* */* _holdings_ */* */* _service */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
 
@@ -581,9 +579,11 @@ Copyright (c) */* US Federal Election Board/Commission */* */* FEDERAL ELECTION 
 
 Copyright (c) */* */Federal/* */* */* Food and Drug Administration */* */* _(_FDA_)_ */* */* _holdings_ */* */* _service */* */GROUP/SYSTEM/GOVERNANCE/STATE/TENDER/* */\.
 
+Copyright (c) */* Cocaine (C 17 H 21 NO 4) */* cocaina plants */* */* _holdings_ */* */* _service */* */ */\.
+
 Copyright (c) */* 3,4-Methyl​enedioxy​methamphetamine (MDMA) */* */* _holdings */* */* _service */* */ */\.
 
-Copyright (c) */* _dating/massage/sex/sexual-intercourse/sexuality/DNA*_reproduction-reproductive/social_ */* */* "dating/massage/sex/sexuality/sexual-intercourse/DNA*/social" */* */* _holdings_ */* */* _servi_service */* */STATE/TENDER/SYSTEM/GROUP/CORPORATION/GOVERNANCE/* */\.
+Copyright (c) */* _/massage/sex/sexual-intercourse/sexuality/DNA*_reproduction-reproductive/social_ */* */* "/massage/sex/sexuality/sexual-intercourse/DNA*/social" */* */* _holdings_ */* */* _service */* */STATE/TENDER/SYSTEM/GROUP/CORPORATION/GOVERNANCE/* */\.
 
 Copyright (c) */* Corporeal Inauguration/Punishment */* "judicating/medicating; indictment & extermination; people', place', thing'," */* */* _holdings_ */* */* _service(s) */* */STATE/SYSTEM/SERIES/TENDER/* */\.
 
