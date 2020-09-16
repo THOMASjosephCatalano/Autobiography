@@ -2,6 +2,7 @@ License
 
 Copyright (c) THOMAS CATALANO
 Copyright (c) License
+Copyright (c) MIT License
 
 All rights reserved.             
 
