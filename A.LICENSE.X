@@ -8,7 +8,7 @@ Copyright (c) */* THOMAS CATALANO */* "THOMAS CATALANO" */* */* _holdings_ */* *
 
 Copyright (c) */* BIT(s);"BIT(s)";"algorithm:"this "License" "inclusive"""; */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* Binary Coded Decimal */* */* _(_BCD_)_ */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Binary Coded Decimal */* */* _(_BCD_)_ */* */* _holdings_ */* */* _f */* _service */* */ */\.
 
 Copyright (c) */* American Standard Code for Information Interchange */* ASCII */* */* _holdings_ */* */* _service */* */ */\.
 
@@ -513,7 +513,7 @@ Copyright (c) */* space */* */ continuum */* */* _SPACE_ _CONTINUUM_ */* "Space 
 
 Copyright (c) */* Humans */* _human_ _anatomy_ _anatomics_ */* _human__anatomy_ */* human-anatomy */* ""human" "anatomy"" */* */* _holdings_ */* */* _futures */* */* _service */**/SYSTEM/FOUNDATION/GROUP(S)/* */\.
 
-Copyright (c) */* THE UNITED STATES OF AMERICA */* */* UNITED STATES */* */* The United States of America */* */* _(_USA_)_ */* */* _(_US_)_ */* */* _(_U.S.A_)_ */* */ _(_U.S._)_ */* /* "telecom_country-code;US:(+1)\." */* */* "The United States of America" */* */* United States */* */* _holdings_ */* */* _futures */* */* _entity_ */* */* _futures */* */* _service */* */STATE/COUNTRY/INSTITUTION/SYSTEM/GROUP/FORTHRIGHT/* */\.
+Copyright (c) */* THE UNITED STATES OF AMERICA */* */* UNITED STATES */* */* The United States of America */* */* _(_USA_)_ */* */* _(_US_)_ */* */* _(_U.S.A_)_ */* */ _(_U.S._)_ */* /* "telecom_country-code;US:(+1)\." */* */* "The United States of America" */* */* United States */* */* _holdings_ */* */* _futures */* */* _entity */* */* _futures */* */* _service */* */STATE/COUNTRY/INSTITUTION/SYSTEM/GROUP/FORTHRIGHT/* */\.
 
 Copyright (c) */* US Department of Treasury */* Department of Treasury */* US Treasury */* */* Treasury */* */* _holdings_ */* */* _service */* */ */\.
 
