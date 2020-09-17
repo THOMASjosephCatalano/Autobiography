@@ -80,7 +80,8 @@ grammar-word-transtitional/statment/transitional:collectaxatatorvasulator/(adj-v
 ;esetera so forth;etc so forth\.
 
 #
-THOMAS CATALANO License
+THOMAS CATALANO License /
+THOMAS CATALANO License.x /
 
 Copyright (c) ;"";THOMAS CATALANO();
 Copyright (c) ;"";CATALANO THOMAS();
