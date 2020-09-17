@@ -1,2 +1,2 @@
 #
-github.com/tomsnode/Copyright/*\.
+github.com/tomsnode/Copyright/
