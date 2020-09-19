@@ -14,6 +14,27 @@
 
 # ©⤵
 
+entities;
+
+conceptslearningmachine.com 
+
+github.com/tomsnode\
+
+github.com/conceptslearningmachine\
+
+github.com/altusnets\
+
+github.com/TheBitMarket\
+
+Catalano Group\
+
+conceptslearningmachine Foundation\
+
+Catalano Concepts Limited Liability Company\.
+
+ALTUSNET Limited Liability Company\.
+
+CLM Limited Liability Company\.
 
 
 
@@ -57,27 +78,6 @@ February 5.1978
 address local:5120 apt 302, N Broadway Denver,CO_USA
 
 ----------
-entities;
-
-conceptslearningmachine.com 
-
-github.com/tomsnode\
-
-github.com/conceptslearningmachine\
-
-github.com/altusnets\
-
-github.com/TheBitMarket\
-
-Catalano Group\
-
-conceptslearningmachine Foundation\
-
-Catalano Concepts Limited Liability Company\.
-
-ALTUSNET Limited Liability Company\.
-
-CLM Limited Liability Company\.
 
 -----------
 #
