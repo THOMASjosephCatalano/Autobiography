@@ -65,10 +65,11 @@ address local:5120 apt 302, N Broadway Denver,CO_USA
 ----------
 
 -----------
-#
+# 
+© THOMAS CATALANO 
 grammitization:
 --------------------------
-the_grammar-word-transitional/statment/transitional;adjective-verb(adj-verb):socality_"socalafied"(adj-verb(d))definition/(adj-verb(d)).
+Copyright (c) */* the_grammar-word-transitional/statment/transitional;adjective-verb()"adjective-verb()"(adj-verb):benevolent-socality"socalafide"(adj-verb(d))definition/(adj-verb(d))\
 
 grammer-word-transitional/statement/transitional:undedifracteonal(adj-verb(d)).
 
