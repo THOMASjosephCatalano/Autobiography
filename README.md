@@ -56,15 +56,10 @@ CLM Limited Liability Company\.
 
 
 
-
-
-
 --------------------
-address local:5120 apt 302, N Broadway Denver,CO_USA
-
-----------
 
 -----------
+
 # 
 © THOMAS CATALANO 
 grammitization:
