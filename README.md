@@ -1,8 +1,6 @@
 # 
 © THOMAS CATALANO
 
-# github.com/tomsnode/Copyright/blob/master/README.md\
-
 # github.com/tomsnode\
 
 #
@@ -126,3 +124,5 @@ grammar-word-transtitional/statment/transitional:collectaxatatorvasulator/(adj-v
 #
 
     © THOMAS CATALANO
+
+# github.com/tomsnode/blob/master/README.md\
