@@ -5,6 +5,39 @@
 
 # github.com/tomsnode\
 
+#
+© THOMAS CATALANO
+
+
+
+
+
+# ©⤵
+
+
+
+
+
+# 
+
+
+
+© ▶◀
+
+
+
+
+
+#
+
+
+©⤵↪↩
+
+
+
+
+
+
 
 #
 Copyright (c) THOMAS CATALANO
@@ -88,3 +121,5 @@ grammar-word-transtitional/statment/transitional:collectaxatatorvasulator/(adj-v
 ;esetera so forth;etc so forth\.
 
 #
+
+    © THOMAS CATALANO
