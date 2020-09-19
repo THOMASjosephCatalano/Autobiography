@@ -64,7 +64,7 @@ CLM Limited Liability Company\.
 © THOMAS CATALANO 
 grammitization:
 --------------------------
-Copyright (c) */* the_grammar-word-transitional/statment/transitional;adjective-verb()"adjective-verb()"(adj-verb):benevolent-socality_socalafide;(adj-verb(d))definition/(adj-verb(d))\
+Copyright (c) */* the_grammar-word-transitional/statment/transitional;adjective-verb()"adjective-verb()"(adj-verb):benevolent-socality_socalafide::(adj-verb(d))definition/(adj-verb(d))\
 
 grammer-word-transitional/statement/transitional:undedifracteonal(adj-verb(d)).
 
