@@ -22,7 +22,7 @@ github.com/conceptslearningmachine\
 
 github.com/altusnets\
 
-github.com/TheBitMarket\
+github.com/TheBITsMarket\
 
 Catalano Group\
 
