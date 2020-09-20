@@ -26,7 +26,7 @@ github.com/TheBITsMarket\
 
 Catalano Group\
 
-conceptslearningmachine Foundation\
+conceptslearningmachine Group\
 
 Catalano Concepts Limited Liability Company\.
 
