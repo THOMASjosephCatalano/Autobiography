@@ -11,3 +11,15 @@ and fig.2-3 meters pressure/wave differentials via cloud formation and photonic
 distribution. mt.Evans is a "portal" to the center of the Earth and interior locations of the mountain
 will cave areas to view a where a medium-large cavity resides in the mountains interior at fig.1(a paired transcendeel rock mountain formation 
 SW of mt.Evans(mt.Evans also shows evidence of a smaller cavity area inside the mountains interior to view observable/visible rays exactly/similar as Earth's "Sun". 
+
+
+# github.com/tomsnode/Copyright/blob/master/README.md\
+
+#
+
+--------------
+Dr.ThomasCatalano
+5120 N Broadway APT:302
+Denver Colorado(CO) 80216-2099 _USA
+
+    © THOMAS CATALANO
