@@ -1,5 +1,5 @@
 #
-Dr. Thomas Catalano, Ph.D
+Dr. Thomas Catalano, Ph.D.
 - Chemist - Physicist;(Classic & Quantum; degrees) Enginee' - Aerodynamicist - Computer Scientist/Engineer -
 
 
