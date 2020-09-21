@@ -1,8 +1,11 @@
 
 
 #
-as of; 2020-09-03GMT~
-the "as known" Earth's "Lunar rocky Moon" graVatro'd through a translucent "wormhole" from Earth's orbit visible/observable; SW to a Easterly horizontal-horizon plain; 
+~as of;2020-08-30GMT;charting Earth's geo-astro graph;: (Dr.ThomasCatalano's_The Letter of Proof) 
+visual/audio program pi's a malicious catiscation strike/attack to Earth's geo-astro/civilization state iminous; on high alert.
+as of;2020-09-03GMT~
+the "as known" Earth's "Lunar Moon" graVtro'd through a translucent "wormhole" from Earth's orbit visible/observable; 
+SW to a Easterly horizontal-horizon plain; 
 viewed from:(North Denver,CO_USA);
 the Earth's "as known" "solar-Sun" was re-nebulized and geo-re-tractafied on a artificial gyroscope-tanguler encapsulation 
 system around the Earth. 
