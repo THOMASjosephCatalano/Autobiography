@@ -1,9 +1,9 @@
 #
-Dr. Thomas Catalano, Ph.D.
+Dr. Thomas Catalano (Ph.D. - Gravaphysicist):
 - Chemist - Physicist;(Classic & Quantum; degrees) Enginee' - Aerodynamicist - Computer Scientist/Engineer -
 
 
-*see:Catalano Concepts & CLM ~ Concepts Learning Machine;Limited Liability Company portfolio.
+*see;Catalano Concepts & CLM ~ Concepts Learning Machine;Limited Liability Company portfolio.
 
 
 
