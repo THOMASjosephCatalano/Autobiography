@@ -1,5 +1,5 @@
 #
-Dr. Thomas Catalano (Ph.D. - Gravaphysicist):
+Dr.ThomasCatalano(Ph.D.  Gravaphysicist)
 - Chemist - Physicist;(Classic & Quantum; degrees) Enginee' - Aerodynamicist - Computer Scientist/Engineer -
 
 
