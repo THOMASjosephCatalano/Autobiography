@@ -14,13 +14,13 @@ entities;
 
 www.conceptslearningmachine.com 
 
-www.github.com/tomsnode\
+www.github.com/tomsnode
 
-www.github.com/conceptslearningmachine\
+www.github.com/conceptslearningmachine
 
-www.github.com/altusnets\
+www.github.com/altusnets
 
-www.github.com/TheBITsMarket\
+www.github.com/TheBITsMarket
 
 BITs EXCHANGE _legal-entity\
 
