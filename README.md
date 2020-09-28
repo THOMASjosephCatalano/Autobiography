@@ -91,7 +91,7 @@ grammar-word-transtitional/statment/transitional:forensactactutation/(adj-verb(d
 
 grammar-word-transtitional/statment/transitional:precogfufiverafecation/(adj-verb(d)).
 
-grammar-word-transtitional/statment/transitional:treatacatatetion/(adj-README.DI).
+grammar-word-transtitional/statment/transitional:treatacatatetion/(adj-verb(d)).
 
 grammar-word-transtitional/statment/transitional:formitadadetion/(adj-verb(d)).
 
