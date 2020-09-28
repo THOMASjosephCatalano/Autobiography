@@ -1,5 +1,3 @@
-# 
-© THOMAS CATALANO ©
 
 #
 © THOMAS CATALANO
