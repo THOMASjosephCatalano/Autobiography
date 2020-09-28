@@ -28,9 +28,9 @@ Catalano _legal-entity\
 
 conceptslearningmachine _legal-entity\
 
-Catalano Concepts, LLC.\.
+Catalano Concepts, LLC.,.\.
 
-CLM ~ Concepts Learning Machine, LLC.\.
+CLM ~ Concepts Learning Machine, LLC.,.\.
 
 
 ------------
