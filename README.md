@@ -107,7 +107,7 @@ grammar-word-transtitional/statment/transitional:collectaxatatorvasulator/(adj-v
 
 ;etcetera so forth;adj-verb grammitization-words.
 
-;etcetera so forth,etc. so forth\.
+;etcetera so forth,etc., so forth\.
 
 THOMAS CATALANO ©
 
