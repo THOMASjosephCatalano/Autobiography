@@ -45,8 +45,13 @@
 
 
 ©tc©
+
+
+
+
 ---------'--'--------
-..........as Jannean Dallahan
+
+..........as Jannean Dallahan was sergufed by her producer at Parent Peav Inn...
 ©tc©
 ©this file inclusive©
 ©tc©
