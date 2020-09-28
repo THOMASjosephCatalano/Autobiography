@@ -109,13 +109,12 @@ grammar-word-transtitional/statment/transitional:collectaxatatorvasulator/(adj-v
 
 ;esetera so forth;etc so forth\.
 
-#
-
-    © THOMAS CATALANO
+THOMAS CATALANO ©
 
 # 
-github.com/tomsnode/blob/master/README.md\
+www. github.com/tomsnode/blob/master/README.md
 
+#
 ©tc©
 ©this README inclusive©
 ©tc©
