@@ -22,15 +22,15 @@ github.com/altusnets\
 
 github.com/TheBITsMarket\
 
-BITs EXCHANGE\
+BITs EXCHANGE _legal-entity\
 
-Catalano Group\
+Catalano _legal-entity\
 
-conceptslearningmachine Group\
+conceptslearningmachine _legal-entity\
 
-Catalano Concepts Limited Liability Company\.
+Catalano Concepts, LLC.\.
 
-CLM Limited Liability Company\.
+CLM ~ Concepts Learning Machine, LLC.\.
 
 
 ------------
