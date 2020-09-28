@@ -12,15 +12,15 @@
 
 entities;
 
-conceptslearningmachine.com 
+www.conceptslearningmachine.com 
 
-github.com/tomsnode\
+www.github.com/tomsnode\
 
-github.com/conceptslearningmachine\
+www.github.com/conceptslearningmachine\
 
-github.com/altusnets\
+www.github.com/altusnets\
 
-github.com/TheBITsMarket\
+www.github.com/TheBITsMarket\
 
 BITs EXCHANGE _legal-entity\
 
