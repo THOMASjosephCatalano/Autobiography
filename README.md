@@ -114,5 +114,5 @@ www.github.com/tomsnode/blob/master/README.md
 
 #
 ©tc©
-©this PAGE/DIRECTORY inclusive©
+©this */PAGE/README/DIRECTORIES/* inclusive©
 ©tc©
