@@ -1,7 +1,5 @@
 # 
-© THOMAS CATALANO
-
-# github.com/tomsnode\
+© THOMAS CATALANO ©
 
 #
 © THOMAS CATALANO
