@@ -113,4 +113,9 @@ grammar-word-transtitional/statment/transitional:collectaxatatorvasulator/(adj-v
 
     © THOMAS CATALANO
 
-# github.com/tomsnode/blob/master/README.md\
+# 
+github.com/tomsnode/blob/master/README.md\
+
+©tc©
+©this README inclusive©
+©tc©
