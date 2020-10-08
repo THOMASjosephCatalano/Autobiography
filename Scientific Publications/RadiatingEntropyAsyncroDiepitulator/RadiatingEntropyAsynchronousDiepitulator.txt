@@ -19,7 +19,22 @@ sri cub'd' rotch structure plane'd' by for cog plane
 vas
 
 
--------------------------
+-----------------------------------
 
 pars/instruction:
 
+,pars
+
+
+
+
+
+
+
+
+
+
+
+
+
+,instructions
