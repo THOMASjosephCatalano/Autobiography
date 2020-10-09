@@ -1,2 +1,0 @@
-*\*
-nill _operators_ for,;, calander date/time sig,;,_operators_;,suppress true calander date/time;,;replack with;,;'z',;,"(ie., todays calender date;:2020z09z09zz14z25GMT.).".
