@@ -1,2 +1,2 @@
 *\*
-nill _operators_ for,;, calander date/time sig,;,_operators_;,suppresses truex date/time;,;replace with;,;'z',;,"(ie., todays calender date;:2020z09z09zz14z25GMT.).".
+nill _operators_ for,;, "calander";:; 'date_time',;, sig,;,_operators_;,suppresses truex date/time;,;replace with;,;'z',;,"(ie., todays calender date;:2020z09z09zz14z25GMT.).".
