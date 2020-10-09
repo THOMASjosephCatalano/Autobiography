@@ -1,3 +1,4 @@
 *\*
-,nill;,;'_operators_',;,for;,;"calander";:;'date_time',
+,nill;,;'_operators_',;,for;,;"calender";:;'date_time',
 ,;,'_operators_';,;suppresses;,;truex,;,date_time;,;/\replace-with;,;:;"('_z_')":;,;,"('ie.',;:"day 'calender' date_time",;:2020z09z09zz14z25GMT\.).".
+N
