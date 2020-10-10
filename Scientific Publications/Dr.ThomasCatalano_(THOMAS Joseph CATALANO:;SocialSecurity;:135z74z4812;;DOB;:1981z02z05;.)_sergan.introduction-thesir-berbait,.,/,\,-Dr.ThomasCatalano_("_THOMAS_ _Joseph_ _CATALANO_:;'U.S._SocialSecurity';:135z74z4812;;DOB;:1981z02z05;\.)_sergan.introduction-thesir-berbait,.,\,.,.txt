@@ -8,11 +8,11 @@
 
 -------------------------------------------------
 
-,\,*\ANNOUNCE\BENOUNCE\*_('D_,'R_,(_''.''_AD),etcetera so fort,.,etc so forth\.
+,\,*\ANNOUNCE\BENOUNCE\*_('D_,'R_,(_''.''_AD),etcetera so fort,.,etc-so-forth\.
 
-,\-,this-requisite;,inclusive,;persons,places,things,\etcetera so forth,.,etc so forth\/.
+,\-,this-requisite;,inclusive,;persons,places,things,\etcetera so forth,.,etc-so-forth\/.
 
-,\-,this-define;,inclusive,;voc,boc,loc,\etcetera so forth,.,etc so forth\/.
+,\-,this-define;,inclusive,;voc,boc,loc,\etcetera so forth,.,etc-so-forth\/.
 
-,\-,this-fine;,inclusive,;mos,las,fas,\etcetera so forth,.,etc so forth\/.
+,\-,this-fine;,inclusive,;mos,las,fas,\etcetera so forth,.,etc-so-forth\/.
 
