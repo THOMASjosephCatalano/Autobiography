@@ -12,4 +12,4 @@
 
 ,\-,this-requisite;,inclusive,;persons,places,things,\etcetera so forth,.,etc so forth\/.
 
-,\-,this-define;,
+,\-,this-define;,inclusive,;voc,boc,loc,\etcetera so forth,.,
