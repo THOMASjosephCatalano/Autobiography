@@ -14,4 +14,4 @@
 
 ,\-,this-define;,inclusive,;voc,boc,loc,\etcetera so forth,.,etc so forth\/.
 
-,\-,this-fine;,
+,\-,this-fine;,inclusive,;
