@@ -1,3 +1,4 @@
 *\*
 ,\//\;
-,/;,*\Vehicles\Crick-crafts\setcetera so forth,.,setc-so-forth
+,\;,*\Vehicles\Crick-crafts\setcetera so forth,.,setc-so-forth\./.
+,\
