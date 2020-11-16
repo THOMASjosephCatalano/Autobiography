@@ -1,4 +1,6 @@
-# github.com/tomsnode/Copyright/blob/master/README\?
+*\*
+
+www.github.com/tomsnode/Copyright/blob/master/README
 
 #
 
