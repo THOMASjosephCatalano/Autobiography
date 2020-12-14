@@ -1,13 +1,13 @@
 ©\/,:,
 
-'\/,
+,:\/,:
 
 
-    \/www.twitter.com/tomsnode\/
+    '\/www.twitter.com/tomsnode\/,
 
 
 
-'\/,
+,:\/':
 
 
 www.conceptslearningmachine.com
@@ -34,13 +34,13 @@ CLM ~ Concepts Learning Machine LLC.,.\
 
 ,\/COLORADO_DMV.'LICENSE&LICENSE-PLATE':;:'VIC.VIL&BEHR26'\.
 
-'\/
+':\/':
 ---
 Dr.ThomasCatalano Ph.D.
 5120 N Broadway APT'302
 Denver-COLORADO(CO) 80216z2099 _USA
 
-'\/,
+':\/,:
 
 
 \grammitization:
@@ -84,9 +84,9 @@ grammar-word-transtitional/statment/transitional:collectaxatatorvasulator/(adj-v
 :;etcetera so forth,.,secetera-so-forth\_adj-verb grammitization-words.
 
 
-'\/,
-\*etcetera-a-for**secetera-a-for*:
-'\/,
+':\/':
+'\/*etcetera-a-for**secetera-a-for*\/,
+':\/,:
 
 
 
