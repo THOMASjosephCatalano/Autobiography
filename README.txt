@@ -1,8 +1,4 @@
-©\/
-
-'\/
-
-,\.
+©\/,;:
 
 '\/
 
@@ -44,7 +40,7 @@ Dr.ThomasCatalano Ph.D.
 5120 N Broadway APT'302
 Denver-COLORADO(CO) 80216z2099 _USA
 
-,\/
+'\/,
 
 
 \grammitization:
@@ -88,9 +84,9 @@ grammar-word-transtitional/statment/transitional:collectaxatatorvasulator/(adj-v
 :;etcetera so forth,.,secetera-so-forth\_adj-verb grammitization-words.
 
 
-'\/
-\*etcetera-so-for**secetera-so-for*',
-,\/
+'\/,
+\*etcetera-a-for**secetera-a-for*:
+'\/,
 
 
 
