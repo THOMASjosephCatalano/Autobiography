@@ -30,7 +30,7 @@ CLM ~ Concepts Learning Machine LLC.,.\
 ,\/COLORADO_DMV.'LICENSE&LICENSE-PLATE':;:'VIC.VIL&BEHR26'\.
 
 ---
-Dr./Thomas Catalano, Ph.D.\
+'Thomas Catalano, Ph.D'\/,:
 5120 N Broadway APT'302
 Denver-COLORADO(CO) 80216z2099 _USA
 
@@ -77,12 +77,14 @@ grammar-word-transtitional/statment/transitional:collectaxatatorvasulator/(adj-v
 :;etcetera-a-for,.,secetera-a-for\/legal_adj-verb:grammitization-words.
 
 
-':\/':,:.
-'\/*etcetera-a-for**secetera-a-for*\/
+
+':\/*etcetera-a-for**secetera-a-for*\/,:
 
 
 
-
+'Thomas Catalano, Ph.D'\/,:
+5120 N Broadway APT'302
+Denver-COLORADO(CO) 80216z2099 _USA
 
 
 
