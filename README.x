@@ -1,7 +1,7 @@
 ©\/,':,':
 
 
-    '\/www.twitter.com/tomsnode\/,:
+    :\/www.twitter.com/tomsnode\/:
 
 
 
