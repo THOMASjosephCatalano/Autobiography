@@ -2,7 +2,7 @@
 
 
 
-    :\/www.twitter.com/tomsnode\/:
+    www.twitter.com/tomsnode
 
 
 
@@ -79,11 +79,11 @@ grammar-word-transtitional/statment/transitional:collectaxatatorvasulator/(adj-v
 
 
 
-':\/*etcetera-a-for**secetera-a-for*\/,:
+*etcetera-a-for**secetera-a-for*
 
 
 
-,'.\/©\/,'Thomas Catalano, Ph.D',\/:
+,::.\/©\/,:'Thomas Catalano, Ph.D',\/:
 5120 N Broadway APT'302
 Denver-COLORADO(CO) 80216z2099 _USA
 
@@ -128,4 +128,4 @@ Denver-COLORADO(CO) 80216z2099 _USA
 
 
 
-,::.\/©\/,'THOMAS CATALANO',\/©\/ <<>> \/©
+,::.\/©\/,:'THOMAS CATALANO,Ph.Doctor',\/©\/ <<>> \/©
