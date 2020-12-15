@@ -130,4 +130,4 @@ grammar-word-transtitional/statment/transitional:collectaxatatorvasulator/(adj-v
 
 
 
-.,'.',.\/©\/'THOMAS CATALANO'\/©\/ <<>> \/©
+,'.\/©\/'THOMAS CATALANO'\/©\/ <<>> \/©
