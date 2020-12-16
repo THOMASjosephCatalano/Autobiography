@@ -1,4 +1,4 @@
-©\z/,:z:,
+©\z/:z:'THOMAS CATALANO':z:
 
 
 
@@ -83,7 +83,7 @@ grammar-word-transtitional/statment/transitional:collectaxatatorvasulator/(adj-v
 
 
 
-,::.\/©\/,:'Thomas Catalano, Ph.D',\/:
+,:z:.\/©\/,:'Thomas Catalano, Ph.D',\/:
 5120 N Broadway APT'302
 Denver-COLORADO(CO) 80216z2099 _USA
 
@@ -128,4 +128,4 @@ Denver-COLORADO(CO) 80216z2099 _USA
 
 
 
-,:z:.\z/©\z/,:'THOMAS CATALANO,Ph.Doctor',\z/©\z/ <<z>> \z/©
+:z:.\z/©\z/:z:'THOMAS CATALANO,Ph.Doctor':z:\z/©\z/ <<z>> \z/©
