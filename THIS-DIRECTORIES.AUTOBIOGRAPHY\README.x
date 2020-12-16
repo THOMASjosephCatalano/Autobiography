@@ -1,4 +1,4 @@
-©;;::.\/;::;*'THOMAS CATALANO'*;::;\/;::;;
+©>;;::;*'THOMAS CATALANO'*;::;;
 
 
 
@@ -128,4 +128,4 @@ Denver-COLORADO(CO) 80216z2099 _USA
 
 
 
-;;::.\/;::;*'THOMAS CATALANO,Ph.Doctor'*;::;<<z>>;::;;©
+;;::;*'THOMAS CATALANO,Ph.Doctor'*;::;;<©
