@@ -1,6 +1,8 @@
 ©>;;::;*'THOMAS CATALANO'*;::;;
 
 
+https://github.com/tomsnode/Copyright/blob/master/THIS-DIRECTORIE.COPYRIGHTS%5CREADME.x
+
 
     www.twitter.com/tomsnode
 
