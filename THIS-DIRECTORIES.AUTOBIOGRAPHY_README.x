@@ -4,6 +4,7 @@
 ::https://github.com/tomsnode/Copyright/blob/master/THIS-DIRECTORIE.COPYRIGHTS%5CREADME.x::
 ::THIS-DIRECTORIES.AUTOBIOGRAPHY_README.x::
 ::
+<>
 www.twitter.com/tomsnode
 www.conceptslearningmachine.com
 www.github.com/theBITsEXCHANGE
@@ -22,11 +23,11 @@ Catalano Concepts LLC.,.\
 CLM ~ Concepts Learning Machine LLC.,.\
 
 COLORADO_DMV.'LICENSE&LICENSE-PLATE':;:'VIC.VIL&BEHR26'\.
-
+<>
 -----------------
-'\/grammitization:
+grammitization:
 --------------------------
-Copyright (c) */* the_grammar-word-transitional/statment/transitional;adjective-verb()"adjective-verb()"(adj-verb):benevolent-socality_socalafide::(adj-verb(d))definition/(adj-verb(d))\
+Copyright (c) ;the_grammar-word-transitional/statment/transitional;adjective-verb()"adjective-verb()"(adj-verb):benevolent-socality_socalafide::(adj-verb(d))definition/(adj-verb(d))\
 
 grammer-word-transitional/statement/transitional:undedifracteonal(adj-verb(d)).
 
@@ -62,6 +63,7 @@ grammar-word-transtitional/statment/transitional:recacogogainanition/(adj-verb(d
 
 grammar-word-transtitional/statment/transitional:collectaxatatorvasulator/(adj-verb(d)).
 
-:;etcetera-a-for,.,secetera-a-for::legal_adj-verb:grammitization-words.
-:::-etcetera-a-for:secetera-a-for::
+::etcetera-a-for:secetera-a-for::legal_adj-verb:grammitization-words.
+
+::-etcetera-a-for:secetera-a-for::
 ::$-THOMAS-$-CATALANO-$::$©$:'$
