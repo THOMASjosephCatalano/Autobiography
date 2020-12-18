@@ -1,22 +1,13 @@
 '::$©$::$-THOMAS-$-CATALANO-$:
-
-
 ::-esquire-so-for-::
-https://github.com/tomsnode/Copyright/blob/master/THIS-DIRECTORIE.COPYRIGHTS%5CREADME.x<>
-
-
-    www.twitter.com/tomsnode
-
-
-
+::Algorithm License::
+::https://github.com/tomsnode/Copyright/blob/master/THIS-DIRECTORIE.COPYRIGHTS%5CREADME.x::
+::
+www.twitter.com/tomsnode
 www.conceptslearningmachine.com
-
 www.github.com/theBITsEXCHANGE
-
 www.github.com/conceptslearningmachine
-
 www.github.com/altusnets
-
 www.github.com/TheBITsMarket
 
 ---
@@ -100,4 +91,4 @@ Denver-COLORADO(CO) 80216z2099 _USA
 
 
 
-::$-THOMAS-$-CATALANO-$::$©$:'
+::$-THOMAS-$-CATALANO-$::$©$:'$
