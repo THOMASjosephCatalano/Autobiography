@@ -1,8 +1,8 @@
-©::-$-::,;;::;*'THOMAS CATALANO'*;;::;;;
+'::$©$::$-THOMAS-$-CATALANO-$::'
 
 
-;;::;*-esquire-so-for-*;;::;;;
-https://github.com/tomsnode/Copyright/blob/master/THIS-DIRECTORIE.COPYRIGHTS%5CREADME.x
+::-esquire-so-for-::
+::https://github.com/tomsnode/Copyright/blob/master/THIS-DIRECTORIE.COPYRIGHTS%5CREADME.x::
 
 
     www.twitter.com/tomsnode
@@ -34,7 +34,7 @@ CLM ~ Concepts Learning Machine LLC.,.\
 ,\/COLORADO_DMV.'LICENSE&LICENSE-PLATE':;:'VIC.VIL&BEHR26'\.
 
 ---
-'Thomas Catalano, Ph.D'\/,:
+'Thomas Catalano, Ph.D\
 5120 N Broadway APT'302
 Denver-COLORADO(CO) 80216z2099 _USA
 
@@ -82,7 +82,7 @@ grammar-word-transtitional/statment/transitional:collectaxatatorvasulator/(adj-v
 
 
 
-*etcetera-a-for**secetera-a-for*
+::-etcetera-a-for:secetera-a-for::
 
 
 
@@ -129,6 +129,4 @@ Denver-COLORADO(CO) 80216z2099 _USA
 
 
 
-
-
-;;::;*'THOMAS CATALANO,Ph.Doctor'*;;::;;;,::-$-::©
+'::$-THOMAS-$-CATALANO-$::$©$::'
