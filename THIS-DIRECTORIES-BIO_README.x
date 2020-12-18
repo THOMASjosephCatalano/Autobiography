@@ -1,7 +1,7 @@
 THOMAS CATALANO':$©$::$-THOMAS-$-CATALANO-$:
 ::-esquire-so-for-::
-::Algorithm License::
 ::https://github.com/tomsnode/Copyright/blob/master/THIS-DIRECTORIE.COPYRIGHTS%5CREADME.x::
+::Algorithm License::
 ::THIS-DIRECTORIES-BIO_README.x::
 ::
 <>
