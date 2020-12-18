@@ -1,8 +1,8 @@
-'::$©$::$-THOMAS-$-CATALANO-$:
+THOMAS CATALANO':$©$::$-THOMAS-$-CATALANO-$:
 ::-esquire-so-for-::
 ::Algorithm License::
 ::https://github.com/tomsnode/Copyright/blob/master/THIS-DIRECTORIE.COPYRIGHTS%5CREADME.x::
-::THIS-DIRECTORIES.AUTOBIOGRAPHY_README.x::
+::THIS-DIRECTORIES-BIO_README.x::
 ::
 <>
 www.twitter.com/tomsnode
@@ -12,15 +12,15 @@ www.github.com/conceptslearningmachine
 www.github.com/altusnets
 www.github.com/TheBITsMarket
 
-BITs EXCHANGE _legal-entity\
+"BITs EXCHANGE _legal-entity_"
 
-Catalano _legal-entity\
+"Catalano _legal-entity_"
 
-conceptslearningmachine _legal-entity\
+"conceptslearningmachine _legal-entity_"
 
-Catalano Concepts LLC.,.\
+"Catalano Concepts, LLC"
 
-CLM ~ Concepts Learning Machine LLC.,.\
+"CLM ~ Concepts Learning Machine, LLC"
 
 COLORADO_DMV.'LICENSE&LICENSE-PLATE':;:'VIC.VIL&BEHR26'\.
 <>
@@ -63,7 +63,7 @@ grammar-word-transtitional/statment/transitional:recacogogainanition/(adj-verb(d
 
 grammar-word-transtitional/statment/transitional:collectaxatatorvasulator/(adj-verb(d)).
 
-::etcetera-a-for:secetera-a-for::legal_adj-verb:grammitization-words.
+::-etcetera-a-for:secetera-a-for-::legal_adj-verb:grammitization-words.
 
 ::-etcetera-a-for:secetera-a-for::
-::$-THOMAS-$-CATALANO-$::$©$:'$
+::$-THOMAS-$-CATALANO-$::$©$:'$THOMAS CATALANO.
