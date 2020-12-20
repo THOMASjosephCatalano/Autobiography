@@ -63,7 +63,7 @@ grammar-word-transtitional/statment/transitional:recacogogainanition/(adj-verb(d
 
 grammar-word-transtitional/statment/transitional:collectaxatatorvasulator/(adj-verb(d)).
 
-::-etcetera-a-for:secetera-a-for-::legal_adj-verb:grammitization-words.
+::"-etcetera-a-for:secetera-a-for-::legal_adj-verb:grammitization-words.
 
-::-etcetera-a-for:secetera-a-for::
+::":-etcetera-a-for:secetera-a-for:"::
 :$-THOMAS-'$'-CATALANO-$:$©$:$-THOMAS-'$'-CATALANO-$':.
