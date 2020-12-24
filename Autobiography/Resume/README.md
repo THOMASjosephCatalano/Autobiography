@@ -3,7 +3,8 @@
 - Chemistry - Physics - Computer_Scientist/Engineer -
 
 
-*see;Catalano Concepts _&_ CLM ~ Concepts Learning Machine;,;Limited Liability Company's (LLC.)'d :;portfolio(THOMAS CATALANO;legally/locally enterprised both business entities;in:1987'AD;and,the;BITs EXCHANGE,non-profit;Corporation).
+*see;Catalano Concepts _&_ CLM ~ Concepts Learning Machine;,;Limited Liability Company's (LLC)
+:;portfolio(THOMAS CATALANO;legally/locally enterprised both business entities;in:1987'AD;and,the;BITs EXCHANGE,non-profit;Corporation).
 
 
 
