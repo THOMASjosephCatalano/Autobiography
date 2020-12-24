@@ -1,6 +1,5 @@
-*\* 
+>©-THOMAS-CATALANO-©<
 
-Dr.ThomasCatalano Ph.D.\
 - Chemistry - Physics - Computer_Scientist/Engineer -
 
 
@@ -12,13 +11,8 @@ www.github.com/tomsnode\
 
 
 --------------
-Dr.ThomasCatalano
+ThomasCatalano,Ph.D\
 5120 N Broadway APT'302
-Denver-COLORADO(CO) 80216z2099 _USA
+Denver-COLORADO(CO) 80216-2099 _USA
 
 THOMAS CATALANO ©
-
-
-
-
-K
