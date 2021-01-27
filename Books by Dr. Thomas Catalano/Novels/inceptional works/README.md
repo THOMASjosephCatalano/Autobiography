@@ -9,7 +9,7 @@ www.github.com/tomsnode\
 Denver-COLORADO(CO) 80216-2099 _USA"
 
 
-© 0 THOMAS CATALANO
+© <0> THOMAS CATALANO
 
 
 
