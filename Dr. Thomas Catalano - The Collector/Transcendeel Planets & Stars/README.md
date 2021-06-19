@@ -14,7 +14,7 @@ material structure,.,etcetera and so forth).
 
 # github.com/tomsnode/Copyright/blob/master/README.md\
 
-#note,I used "Dr." because of the proceeding fact of no Valid PhD when the wavelength instrument was implemented in 2019A.D. 
+#note,I used "Dr." because of the proceeding fact of no Valid PhD when the wavelength instrument""my invention wasn't s implemented in 2019A.D. 
 
 --------------
 ThomasCatalano
