@@ -17,8 +17,8 @@ material structure,.,etcetera and so forth).
 #
 
 --------------
-Dr.ThomasCatalano
-5120 N Broadway APT:302
-Denver Colorado(CO) 80216-2099 _USA
+ThomasCatalano
+5120 Broadway APT 302
+Denver Colorado(CO) 80216 _USA
 
     © THOMAS CATALANO
